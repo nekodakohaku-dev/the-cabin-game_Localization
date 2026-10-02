@@ -1,0 +1,97 @@
+{
+  "version": "0.2.3",
+  "language": "zhTW",
+  "languageName": "繁體中文",
+  "patchFileName": "the_cabin_game-zhTW_P.pak",
+  "additionalCultures": [
+    "zh",
+    "zh-Hant",
+    "zh-TW"
+  ],
+  "translationCount": 666,
+  "originalFiles": [
+    {
+      "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.pak",
+      "sha256": "c39d617d00e8e6c5e9c6d4240bcf58d83d45d47108defd4cb89255d78b33f8a3"
+    },
+    {
+      "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.utoc",
+      "sha256": "ff3864d8326fc306f8a09108428cc67b6988d64ca403ddb32b48a98ed1beab95"
+    }
+  ],
+  "originalLocresSha256": "bdeef38d4aca326ddd01c7a228ec340d09efa2b1182dc88ad5552c7664f424b9",
+  "expectedMergedLocresSha256": "49128cd483282abc529076c02851368d3ae85f09059ea3bcf0a897d99e9fb2f3",
+  "fontPaths": [
+    "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/1942.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/Carnevalee_Freakshow.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/FairyDustB.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/veteran_typewriter.ufont",
+    "the_cabin_game/Content/Cabin_Lobby_Content/Decorations/BRADHITC.ufont",
+    "the_cabin_game/Content/Cabin_Lobby_Content/Decorations/hapole_pencil.ufont",
+    "the_cabin_game/Content/MenuContent/Widgets/Achafexp.ufont",
+    "the_cabin_game/Content/MenuContent/Widgets/Achafont.ufont"
+  ],
+  "payloadFiles": [
+    {
+      "path": "Install.cmd",
+      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
+    },
+    {
+      "path": "Uninstall.cmd",
+      "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
+    },
+    {
+      "path": "data/CabinFont.ttf",
+      "sha256": "a2680234897d7072de09188fa9fa616092df3232c7f1c8f5f6f829d0cf78abff"
+    },
+    {
+      "path": "data/translations.json",
+      "sha256": "30ab98543ab55fc26999b48cf650a67ffab7f14829893666e63f4262878a849d"
+    },
+    {
+      "path": "licenses/NotoSansTC-OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "licenses/repak-LICENSE-APACHE.txt",
+      "sha256": "20fe7b00e904ed690e3b9fd6073784d3fc428141dbd10b81c01fd143d0797f58"
+    },
+    {
+      "path": "licenses/repak-LICENSE-MIT.txt",
+      "sha256": "a5d6edefbaef9f29630341b86722c4039844b7b520d79b1a3bfd6b87cab62db6"
+    },
+    {
+      "path": "scripts/ResourceTools.cs",
+      "sha256": "f6326f012fcc1cc65a213386360843cd0a541905d447b639090f6fe9c9c73d06"
+    },
+    {
+      "path": "scripts/install.ps1",
+      "sha256": "12f583a65dbe3c12ffc9f403708f465e3a1df1793465193e78e0359df00661b2"
+    },
+    {
+      "path": "scripts/uninstall.ps1",
+      "sha256": "bbafc07dd2f3796c22dac8c9de847d78e813ef39d345140f2100d6836dd208e4"
+    },
+    {
+      "path": "tools/repak.exe",
+      "sha256": "fcd538e5994b9bb833622d425ae346f4e0692f02d4b0025114a559f9b6286022"
+    },
+    {
+      "path": "使用說明.txt",
+      "sha256": "6f350170d3bee466656917f124d4b22db630440f5073ebb363a85f3a7846bde7"
+    },
+    {
+      "path": "安裝繁體中文.cmd",
+      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
+    },
+    {
+      "path": "更新紀錄.txt",
+      "sha256": "1e3dc1b8d5dd12b86119c0ec2ddb46d42a6327c1eeede887f35f0c0a99b1223e"
+    },
+    {
+      "path": "解除安裝.cmd",
+      "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
+    }
+  ]
+}

@@ -1,0 +1,3998 @@
+[
+  {
+    "namespace": "",
+    "key": "FA70A94E4DAF55318B83E09AA8E977F7",
+    "hash": 421020200,
+    "text": "部屋カード"
+  },
+  {
+    "namespace": "",
+    "key": "BA5FA33E4B66C1DE0C4AA59EDDFD9424",
+    "hash": 1467836216,
+    "text": "イベントカード"
+  },
+  {
+    "namespace": "",
+    "key": "EB49172B47898B92E737B8A320A8F157",
+    "hash": 1671431138,
+    "text": "手がかりカード"
+  },
+  {
+    "namespace": "",
+    "key": "6C4B51584E9BB268B3C6EA85EABD2411",
+    "hash": 2635963554,
+    "text": "チャンスカード"
+  },
+  {
+    "namespace": "",
+    "key": "223109BE43886118D98320A66556FC19",
+    "hash": 1659859845,
+    "text": "引いて開始"
+  },
+  {
+    "namespace": "",
+    "key": "AA62BE494A96C7E24B59A5A0A851D26F",
+    "hash": 230956882,
+    "text": "イベント説明：金色の風船が現れるまで風船を割れ"
+  },
+  {
+    "namespace": "",
+    "key": "998650F940AA0B6EB2CED8B7EE10C68F",
+    "hash": 2144766576,
+    "text": "死ぬのはもう飽きた"
+  },
+  {
+    "namespace": "",
+    "key": "9A86D6BE4975F17D83B0AE9CF9428156",
+    "hash": 2271939470,
+    "text": "楽しんでる？"
+  },
+  {
+    "namespace": "",
+    "key": "56285923495FBA709FFEFAB80A20218C",
+    "hash": 2628511288,
+    "text": "時間を忘れて"
+  },
+  {
+    "namespace": "",
+    "key": "045BF08D425613FE039365918992B039",
+    "hash": 1210672233,
+    "text": "30分"
+  },
+  {
+    "namespace": "",
+    "key": "6DB7E04C495389F74FEDB7A3FDC98D37",
+    "hash": 2681429853,
+    "text": "午前0時になった。\r\n\r\n出ていきたいなら……\r\n出口の部屋へ向かえ。"
+  },
+  {
+    "namespace": "",
+    "key": "46704FE44DD763A1C74EF682C84F6ABF",
+    "hash": 3829279615,
+    "text": "時間切れ……"
+  },
+  {
+    "namespace": "",
+    "key": "537D03C749935694E56D499FB101B9BB",
+    "hash": 2691217673,
+    "text": "訪問者が3ターン後に到着する。プレイヤーの駒を進め、追いつかれないようにしろ。\r\n\r\n幸運を祈る。"
+  },
+  {
+    "namespace": "",
+    "key": "A37FA3204A560CA3444971BE809B81F9",
+    "hash": 1834914098,
+    "text": "訪問者"
+  },
+  {
+    "namespace": "",
+    "key": "4447E7EA4B78999742BBF195C85A914B",
+    "hash": 4130993068,
+    "text": "肖像画が邪悪な姿に変わる。"
+  },
+  {
+    "namespace": "",
+    "key": "F1AA397742309EC93F975BABCB358C71",
+    "hash": 2417904768,
+    "text": "呪われた絵"
+  },
+  {
+    "namespace": "",
+    "key": "F17FAEDD42DEA3B0BCCAB9B8DC375C13",
+    "hash": 1082781427,
+    "text": "墓場のカードがすべて消えた。\r\n\r\n……それと、君のターンはスキップだ。"
+  },
+  {
+    "namespace": "",
+    "key": "96311DED4BD6442C9AA557B0A313CF56",
+    "hash": 2315223481,
+    "text": "墓場一掃"
+  },
+  {
+    "namespace": "",
+    "key": "00F9491242FCAE6F4448758009FBD26A",
+    "hash": 3639386644,
+    "text": "浴室"
+  },
+  {
+    "namespace": "",
+    "key": "693DE5C943A8E548987FD2B216FBA724",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "3BEA681D416C636E1D0856B6B2911790",
+    "hash": 55771353,
+    "text": "寝室"
+  },
+  {
+    "namespace": "",
+    "key": "A07C52EE453590FB1F7437920AECC29F",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "7FB5D70141EEC7DA441441BC757A84AD",
+    "hash": 527996658,
+    "text": "地下室"
+  },
+  {
+    "namespace": "",
+    "key": "FD87A19640733C6D838A3E83AC95B182",
+    "hash": 3394599180,
+    "text": "食堂"
+  },
+  {
+    "namespace": "",
+    "key": "4E177BC440C8CAEEAE252280F8D9EBB5",
+    "hash": 3909521813,
+    "text": "ボイラー室"
+  },
+  {
+    "namespace": "",
+    "key": "86E8D4004B9817D71E1F4AAC36740ED3",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "7E27195B4BA9A3927AD531B3E1791C95",
+    "hash": 1553908424,
+    "text": "直線廊下 I"
+  },
+  {
+    "namespace": "",
+    "key": "89E1AD284DFCDB5B31272ABDED68FB18",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "9513B5374E1FFCBA97CFD4B8ED310AAE",
+    "hash": 3945195854,
+    "text": "キッチン"
+  },
+  {
+    "namespace": "",
+    "key": "90A8CDDC4CD1FB598E3EDD8A9671CB0C",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "B0EB691E42240CC73FD1DE84F73865DA",
+    "hash": 1230852649,
+    "text": "L字廊下"
+  },
+  {
+    "namespace": "",
+    "key": "0A4095CF423089BEC49951B268465272",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "B26B202247BE51C80CD392A883FB85E8",
+    "hash": 1037831988,
+    "text": "居間"
+  },
+  {
+    "namespace": "",
+    "key": "E53322AE461546C6F07B8AA50E2CF743",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "5447A727498439E5316AEE9FB23C0233",
+    "hash": 21512937,
+    "text": "書斎"
+  },
+  {
+    "namespace": "",
+    "key": "39A6BA2E4D20CB87690925B9DA574594",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "48810BE347CD7C383213108F59C1C9E8",
+    "hash": 2296923080,
+    "text": "T字廊下 I"
+  },
+  {
+    "namespace": "",
+    "key": "BB93271747E786DDFFAF7293F7112AA8",
+    "hash": 354922071,
+    "text": "空きスロットなし"
+  },
+  {
+    "namespace": "",
+    "key": "3A7D053141B5243FA4712F847FE2DD00",
+    "hash": 3814853693,
+    "text": "時計"
+  },
+  {
+    "namespace": "",
+    "key": "9CF235E047580EB1FB00CF891BF48AB0",
+    "hash": 2070571193,
+    "text": "像"
+  },
+  {
+    "namespace": "",
+    "key": "D64C29FB476C49F2D96DEA9707221BA5",
+    "hash": 3235946660,
+    "text": "グリル"
+  },
+  {
+    "namespace": "",
+    "key": "16942AEA4E763B504A94A89774D4306D",
+    "hash": 3022905675,
+    "text": "そろばん"
+  },
+  {
+    "namespace": "",
+    "key": "7EEB6D8948ADA15BF1F79A968D64EEA3",
+    "hash": 776719480,
+    "text": "ろうそく"
+  },
+  {
+    "namespace": "",
+    "key": "A9C89E36437A8C4AFE702FAE89BEA2F9",
+    "hash": 1558813583,
+    "text": "コショウ"
+  },
+  {
+    "namespace": "",
+    "key": "355D15AE46D24A2AF11B649927AAAE1F",
+    "hash": 2344671816,
+    "text": "出口の部屋："
+  },
+  {
+    "namespace": "",
+    "key": "3A68EF9845EF7D381EF70FB699828661",
+    "hash": 1623116084,
+    "text": "難易度："
+  },
+  {
+    "namespace": "",
+    "key": "B2A9EB104ACB12212C8190A881B09C06",
+    "hash": 4096913844,
+    "text": "空白"
+  },
+  {
+    "namespace": "",
+    "key": "E64CDCB44A442711D3D820B67AC59513",
+    "hash": 353458882,
+    "text": "扉1枚"
+  },
+  {
+    "namespace": "",
+    "key": "BDC18AB14483DFF071CCB7AA765A2C69",
+    "hash": 4103471048,
+    "text": "廊下"
+  },
+  {
+    "namespace": "",
+    "key": "B4BCCA6A48D3E57CFBB445982D4DFAD9",
+    "hash": 53110296,
+    "text": "窓2枚"
+  },
+  {
+    "namespace": "",
+    "key": "F891F20F405EB1DAD11A8196194894DE",
+    "hash": 1425009817,
+    "text": "窓3枚"
+  },
+  {
+    "namespace": "",
+    "key": "88935E9B49A5EDC5873519BFBA8D0204",
+    "hash": 2936681161,
+    "text": "右側の窓1枚"
+  },
+  {
+    "namespace": "",
+    "key": "AE39FE304F5758FD0E7C9C974665AC22",
+    "hash": 3751392437,
+    "text": "扉2枚"
+  },
+  {
+    "namespace": "",
+    "key": "0B9590A64E6EE1995F329AA41B27D294",
+    "hash": 3082882635,
+    "text": "地下室"
+  },
+  {
+    "namespace": "",
+    "key": "6F46347541899F1F2755F28513F794DB",
+    "hash": 3387605587,
+    "text": "中央の扉1枚"
+  },
+  {
+    "namespace": "",
+    "key": "8E69E1B5472591363A099E822B684096",
+    "hash": 2817241055,
+    "text": "中央の窓1枚"
+  },
+  {
+    "namespace": "",
+    "key": "D3E2048B4F6A1E838699CC9386245B3E",
+    "hash": 2415576910,
+    "text": "中央の窓2枚"
+  },
+  {
+    "namespace": "",
+    "key": "DCA6C89B45D74A3106F81A8495000A9C",
+    "hash": 2863482210,
+    "text": "小窓"
+  },
+  {
+    "namespace": "",
+    "key": "42FC27DB412608CC7F887B813F8E8789",
+    "hash": 1235023185,
+    "text": "右側の扉1枚（テスト用）"
+  },
+  {
+    "namespace": "",
+    "key": "EBAD62524EE534BFD00266A323450669",
+    "hash": 708178594,
+    "text": "右側の窓2枚"
+  },
+  {
+    "namespace": "",
+    "key": "A02CEE05488004CB8F0428A677358F0F",
+    "hash": 3144005383,
+    "text": "シングル"
+  },
+  {
+    "namespace": "",
+    "key": "F21F399B42334E3D422570AD166B13DC",
+    "hash": 2213219285,
+    "text": "居間"
+  },
+  {
+    "namespace": "",
+    "key": "8C2B4C0846BB36AA32AB11ADFEE3CB03",
+    "hash": 1433010347,
+    "text": "ダブル"
+  },
+  {
+    "namespace": "",
+    "key": "FF6F50CC441F87FFB17D819E51DD9A62",
+    "hash": 2836874379,
+    "text": "未選択"
+  },
+  {
+    "namespace": "",
+    "key": "7077BA7A4AA120A8A263E890331F520A",
+    "hash": 2132824205,
+    "text": "山札から「墓場一掃」カードを1枚取り除く"
+  },
+  {
+    "namespace": "",
+    "key": "EB86F4534321F9101F9F9D87E1E2EBDC",
+    "hash": 4153121451,
+    "text": "墓場一掃を除去"
+  },
+  {
+    "namespace": "",
+    "key": "89CF3AA94BF1BAEE61108B9E799680A8",
+    "hash": 12878189,
+    "text": "プレイヤー諸君、ごきげんよう……"
+  },
+  {
+    "namespace": "",
+    "key": "8C3441EF46C8516AE25F6F8D9E13E052",
+    "hash": 1668696056,
+    "text": "泥棒が山札から部屋カードをランダムに1枚盗む"
+  },
+  {
+    "namespace": "",
+    "key": "8196124940BF0D9869FF71B93ACEAB7E",
+    "hash": 37628788,
+    "text": "時間"
+  },
+  {
+    "namespace": "",
+    "key": "A31006DB4C6A27D9884942AD9FF5D885",
+    "hash": 4014290032,
+    "text": "泥棒が盗むのは……"
+  },
+  {
+    "namespace": "",
+    "key": "9DA688F2479098457FF73BA4FB0E31AD",
+    "hash": 759043594,
+    "text": "訪問者が間もなく到着する。プレイヤーの駒を進め、追いつかれないようにしろ。\r\n\r\n幸運を祈る。"
+  },
+  {
+    "namespace": "",
+    "key": "27D1C95E4EF22170EDCC648BECE3A942",
+    "hash": 2740496489,
+    "text": "訪問者の間"
+  },
+  {
+    "namespace": "",
+    "key": "D86AE3B643459DB825894BA35E1CD492",
+    "hash": 2937330400,
+    "text": "テキスト"
+  },
+  {
+    "namespace": "",
+    "key": "F6DF300B4A9E81F78572FAB8A00ADD77",
+    "hash": 2326038277,
+    "text": "（全員が着席する必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "41260AA549B29830FDBEB4AEB57314B4",
+    "hash": 2189860437,
+    "text": "準備完了"
+  },
+  {
+    "namespace": "",
+    "key": "8D83629B492B87F1FA8CAAB8CBF426CA",
+    "hash": 3519966155,
+    "text": "立ち上がる"
+  },
+  {
+    "namespace": "",
+    "key": "D7315DDE446A0D3CAE8EEE8569EFC4FA",
+    "hash": 3939223276,
+    "text": "（ヒントは設定で無効にできます）"
+  },
+  {
+    "namespace": "",
+    "key": "39F24BA240E58A28F89200B65A63036E",
+    "hash": 944025836,
+    "text": "本当によろしいですか？"
+  },
+  {
+    "namespace": "",
+    "key": "C99296474B58D002B12E1CB55A7868D1",
+    "hash": 2615356500,
+    "text": "初めてのプレイ"
+  },
+  {
+    "namespace": "",
+    "key": "5DCAB4704C764EAD0C5357BFCFE279E1",
+    "hash": 395081559,
+    "text": "設定"
+  },
+  {
+    "namespace": "",
+    "key": "4104E79649B151F6B4F67A99DBA4384C",
+    "hash": 1431697269,
+    "text": "ゲームを終了"
+  },
+  {
+    "namespace": "",
+    "key": "5631F37249CACB6A67BCA4909F978503",
+    "hash": 178590562,
+    "text": "終了"
+  },
+  {
+    "namespace": "",
+    "key": "6A055AE347546E00D9B2DA90B6B35970",
+    "hash": 3326250796,
+    "text": "キャンセル"
+  },
+  {
+    "namespace": "",
+    "key": "94ED3A314840ADED58486B9C4B328A31",
+    "hash": 2862679120,
+    "text": "制作陣"
+  },
+  {
+    "namespace": "",
+    "key": "D4D895CD419B95EFA20270AC415C96BD",
+    "hash": 4159411096,
+    "text": "不具合を報告"
+  },
+  {
+    "namespace": "",
+    "key": "C445A0DD417DBB2704738989ABDC2FB9",
+    "hash": 3561234059,
+    "text": "再開"
+  },
+  {
+    "namespace": "",
+    "key": "CC20F0A243359ABB7667B79F34BDAAD4",
+    "hash": 4064627066,
+    "text": "プレイヤーが退出しました。\r\nロビーに戻るまで……"
+  },
+  {
+    "namespace": "",
+    "key": "960B37F24D9E5FD493EFEA947A22F6AE",
+    "hash": 3441933969,
+    "text": "毎ターン確認されるのは一番上の手がかりだけ！"
+  },
+  {
+    "namespace": "",
+    "key": "D4CCAFDE446D977AD3BB8A92780562E2",
+    "hash": 2080567223,
+    "text": "手がかり一覧"
+  },
+  {
+    "namespace": "",
+    "key": "A78E17CB458BC9052723C9897F5F266C",
+    "hash": 3995691935,
+    "text": "手がかりを3つ明らかにして、出口の部屋を見つけよう。"
+  },
+  {
+    "namespace": "",
+    "key": "35C97CEF437FD46D471BC99EC495D9CE",
+    "hash": 3447454813,
+    "text": "手がかりカードを\r\n墓場に置くと、\r\nその手がかりを確認できる。"
+  },
+  {
+    "namespace": "",
+    "key": "CF69FC104B436E57AF3349A018A15FFB",
+    "hash": 1657667256,
+    "text": "自分のターンでは、\r\n新しいカードを引く代わりに\r\n墓場の手がかりを\r\n入れ替えられる。"
+  },
+  {
+    "namespace": "",
+    "key": "3D3A987049E212C8AF3255A9B0F080D5",
+    "hash": 3306176115,
+    "text": "※手がかりが出現する部屋が\r\n配置されていない場合、手がかりは現れない。"
+  },
+  {
+    "namespace": "",
+    "key": "CF90C1F040928B905A7B49B58BAF3CC0",
+    "hash": 2155990579,
+    "text": "肖像画が\r\n不気味な姿に変わる。"
+  },
+  {
+    "namespace": "",
+    "key": "70E4726B42D3422A574F25A23B869007",
+    "hash": 1568283699,
+    "text": "明らかになると、\r\n時計の鐘が聞こえる。"
+  },
+  {
+    "namespace": "",
+    "key": "D8D720D4469A88522BBD67B483A79A65",
+    "hash": 3223717983,
+    "text": "手がかりの種類"
+  },
+  {
+    "namespace": "",
+    "key": "7D5448AA4405EF83E55127B35EFBF260",
+    "hash": 1379125276,
+    "text": "振り子時計"
+  },
+  {
+    "namespace": "",
+    "key": "9EA931BC4E29307D8761218ACB57DB7F",
+    "hash": 4007930417,
+    "text": "過去のプレイヤーの痕跡"
+  },
+  {
+    "namespace": "",
+    "key": "EED6F82B4C16789F196F7FB282638E80",
+    "hash": 1851579062,
+    "text": "多くは壁に書かれた文字。\r\n体の一部や\r\n骨の場合もある。"
+  },
+  {
+    "namespace": "",
+    "key": "DEA32CFD4C6548487D3C03B814CFBEB4",
+    "hash": 1292009257,
+    "text": "呪われた絵"
+  },
+  {
+    "namespace": "",
+    "key": "F1D5B305400A857F022CD5B18D85FDC8",
+    "hash": 533340322,
+    "text": "部屋の家具、設備、\r\nまたは壁紙が変わる。"
+  },
+  {
+    "namespace": "",
+    "key": "1715C569439FD67CAAD8AB9FD2CE2609",
+    "hash": 2002694669,
+    "text": "○×ゲーム"
+  },
+  {
+    "namespace": "",
+    "key": "A29514814088BF53E2F9F69A99B99F1B",
+    "hash": 3223717983,
+    "text": "手がかりの種類"
+  },
+  {
+    "namespace": "",
+    "key": "68AB12354898E36FD8B501B787E7B336",
+    "hash": 1507165455,
+    "text": "怪異による変化"
+  },
+  {
+    "namespace": "",
+    "key": "5746FBFB457DF198271F059601FEE393",
+    "hash": 4226586360,
+    "text": "5つの部屋に\r\nXまたはOが現れる。\r\n3回現れた方が\r\n勝ちの記号となる。"
+  },
+  {
+    "namespace": "",
+    "key": "91390A3F4093911E13D130A12B34453B",
+    "hash": 3983794043,
+    "text": "ニワトリの模様"
+  },
+  {
+    "namespace": "",
+    "key": "9296EF9C46DCFEF512C7AAAB5C1FF726",
+    "hash": 3031651657,
+    "text": "壁にニワトリの模様が現れる。\r\nただし、偽物の場合もある。\r\n偽物のニワトリは頭を失うが、\r\nそれが起こるのは3つ目の、\r\n最後の手がかりが\r\n明らかになってからだ。"
+  },
+  {
+    "namespace": "",
+    "key": "E2A120FC4449A581B4C42DB23C71E4C9",
+    "hash": 953130550,
+    "text": "発見した手がかり"
+  },
+  {
+    "namespace": "",
+    "key": "49ADDDCC48790182B8FC738D3BC31908",
+    "hash": 1704707682,
+    "text": "過去のプレイヤー"
+  },
+  {
+    "namespace": "",
+    "key": "483F14394D1A750E5651838086095489",
+    "hash": 2793677156,
+    "text": "振り子時計"
+  },
+  {
+    "namespace": "",
+    "key": "F07308ED4E399E8DAAF10D8D40DEAFC9",
+    "hash": 859829194,
+    "text": "直線廊下 I"
+  },
+  {
+    "namespace": "",
+    "key": "75A937CF4BDE62E6E2D63ABFA10AADFC",
+    "hash": 2016068383,
+    "text": "L字廊下"
+  },
+  {
+    "namespace": "",
+    "key": "A530FD5E49E3ACC5B5CEE184527A39ED",
+    "hash": 2320637179,
+    "text": "浴室"
+  },
+  {
+    "namespace": "",
+    "key": "A3BCE4624CE7B135746416890B1B3902",
+    "hash": 3262023191,
+    "text": "ボイラー室"
+  },
+  {
+    "namespace": "",
+    "key": "DB10297A44DBAFC37E995EA8EAA1D241",
+    "hash": 1509215160,
+    "text": "居間"
+  },
+  {
+    "namespace": "",
+    "key": "994FD7F34F8AD32B010CFA9521AEDC8A",
+    "hash": 1943910431,
+    "text": "T字廊下 II"
+  },
+  {
+    "namespace": "",
+    "key": "D7179FCA41E4A14961E19988512C136C",
+    "hash": 38260763,
+    "text": "書斎"
+  },
+  {
+    "namespace": "",
+    "key": "3C97CFEB42EC445921714BB5878D9A5F",
+    "hash": 2384740458,
+    "text": "直線廊下 II"
+  },
+  {
+    "namespace": "",
+    "key": "E098935C4CCDAC683736FE907FF07A42",
+    "hash": 1891417342,
+    "text": "寝室"
+  },
+  {
+    "namespace": "",
+    "key": "F54F54914A757A6AE1AD90AD684D0A53",
+    "hash": 3336155032,
+    "text": "出口の部屋は……"
+  },
+  {
+    "namespace": "",
+    "key": "14EFCD904B30D281EFC9128E5A1EA716",
+    "hash": 1292009257,
+    "text": "呪われた絵"
+  },
+  {
+    "namespace": "",
+    "key": "8B66A187411334856852E1B6B80A16FA",
+    "hash": 1128584592,
+    "text": "怪異による変化"
+  },
+  {
+    "namespace": "",
+    "key": "7B980C9148CD3CFDE41DC889814B3778",
+    "hash": 4050019196,
+    "text": "ニワトリの模様"
+  },
+  {
+    "namespace": "",
+    "key": "51E882524FA104C83B9547BFE9A77350",
+    "hash": 1017745078,
+    "text": "勝ちの記号 X"
+  },
+  {
+    "namespace": "",
+    "key": "57193441483EB4285E1B12B62422891C",
+    "hash": 2573595338,
+    "text": "勝ちの記号 O"
+  },
+  {
+    "namespace": "",
+    "key": "A160FF024802CE3DF0D1E99B50A33D59",
+    "hash": 1202133573,
+    "text": "T字廊下 I"
+  },
+  {
+    "namespace": "",
+    "key": "6522493448A22B1AC96BBA87E18602DE",
+    "hash": 1109777819,
+    "text": "食堂"
+  },
+  {
+    "namespace": "",
+    "key": "A18F73144AABAB53E987DE8EC6A7DD6B",
+    "hash": 2563331433,
+    "text": "キッチン"
+  },
+  {
+    "namespace": "",
+    "key": "610AADCE43D4602527C2AE8D69B9DB67",
+    "hash": 330544704,
+    "text": "追われているときは、通った扉を閉めると怪物を足止めできる。"
+  },
+  {
+    "namespace": "",
+    "key": "D04EF3AD4963E586CD25698F139746C6",
+    "hash": 2584974691,
+    "text": "墓場から手がかりを回収"
+  },
+  {
+    "namespace": "",
+    "key": "73D93D9A4B475471F17E48AAFDE326B7",
+    "hash": 1069037951,
+    "text": "墓場の手がかりを回収して後で使えば、「墓場一掃」で失うのを防げる。"
+  },
+  {
+    "namespace": "",
+    "key": "EE51BDB64665613DD6D3048671CE87FC",
+    "hash": 2231685317,
+    "text": "環状の道を作ろう"
+  },
+  {
+    "namespace": "",
+    "key": "F380AE6141CFC103E431BA8FD7A14963",
+    "hash": 1527681015,
+    "text": "プレイのヒント"
+  },
+  {
+    "namespace": "",
+    "key": "F69DFA90464D1855002259B7F93E419E",
+    "hash": 3943011156,
+    "text": "扉を閉めよう"
+  },
+  {
+    "namespace": "",
+    "key": "EB1905D546504225B43BE7A743AC135B",
+    "hash": 3740260449,
+    "text": "部屋カードを置くときは道を輪につなげよう。追われて行き止まりに追い込まれるのを防げる。"
+  },
+  {
+    "namespace": "",
+    "key": "3AAD20A042E705FE9B8E1FB928832B00",
+    "hash": 4182194324,
+    "text": "道具袋を活用しよう"
+  },
+  {
+    "namespace": "",
+    "key": "BFDFA19B4151C25F672A6E95C74DDCF2",
+    "hash": 347210856,
+    "text": "道具袋のアイテムを使い、まだ見つかっていないプレイヤーから怪物の注意をそらそう。"
+  },
+  {
+    "namespace": "",
+    "key": "7FCFE0684310E793487A5DBFEAFDB475",
+    "hash": 3195400185,
+    "text": "遊び方の基本"
+  },
+  {
+    "namespace": "",
+    "key": "5CAC01094AF33B0EC99EF19030FCA943",
+    "hash": 2235974211,
+    "text": "進行カードを使って\r\nプレイヤーの駒を進めよう。"
+  },
+  {
+    "namespace": "",
+    "key": "B97295EF4C7A8CE05DC0199F1AABD60B",
+    "hash": 2329552399,
+    "text": "訪問者に追いつかれると\r\nゲームオーバーだ。"
+  },
+  {
+    "namespace": "",
+    "key": "026341A046C52D695A3B739DC0663B61",
+    "hash": 1838278222,
+    "text": "プレイヤーの駒が\r\n午前0時に到達すると\r\nゲームが終わる。"
+  },
+  {
+    "namespace": "",
+    "key": "E6E5276F4653CDFD2562C18C9E13AB62",
+    "hash": 258259054,
+    "text": "進行カード"
+  },
+  {
+    "namespace": "",
+    "key": "8D0A4E43428184109A56BE8D89317A0F",
+    "hash": 2504528094,
+    "text": "手がかりカード"
+  },
+  {
+    "namespace": "",
+    "key": "BFB8A2784208DD2A3E7363B9FFF85E91",
+    "hash": 3651755162,
+    "text": "部屋カード"
+  },
+  {
+    "namespace": "",
+    "key": "D52DF339469633E66461B18DC6B2460D",
+    "hash": 1851658423,
+    "text": "目標："
+  },
+  {
+    "namespace": "",
+    "key": "D458D1B440C51EFFC4BD4BADD5C9D2E6",
+    "hash": 3575622519,
+    "text": "手がかりを3つ明らかにし、"
+  },
+  {
+    "namespace": "",
+    "key": "003432F7425AF0A2626A73B69FFC8316",
+    "hash": 45011319,
+    "text": "出口の部屋を見つけよう。"
+  },
+  {
+    "namespace": "",
+    "key": "94EF774A4E4342B7456A6B93D3A89AC5",
+    "hash": 186036409,
+    "text": "死ぬたびに\r\n時間を失う。"
+  },
+  {
+    "namespace": "",
+    "key": "4AC042BF40C7C03B94B11D936E46EA76",
+    "hash": 3195400185,
+    "text": "遊び方の基本"
+  },
+  {
+    "namespace": "",
+    "key": "C65AEBB34878E1512DC30AB747F90AB0",
+    "hash": 1281146,
+    "text": "使えるカードは3種類。"
+  },
+  {
+    "namespace": "",
+    "key": "6E775F544C1E48A9CFF3FA9F9A785E22",
+    "hash": 2981741274,
+    "text": "イベントカードに注意！"
+  },
+  {
+    "namespace": "",
+    "key": "C016130346EADD18D088DB8F3446A9C4",
+    "hash": 2873346670,
+    "text": "照明を消し、ランタンの使用には気をつけよう。"
+  },
+  {
+    "namespace": "",
+    "key": "510EF5744E1A148A0DF7DF971A6DE22C",
+    "hash": 1494912351,
+    "text": "静かにしよう"
+  },
+  {
+    "namespace": "",
+    "key": "764F092C4AC5511C6D847B9C226B1293",
+    "hash": 2368897062,
+    "text": "道具袋のアイテムや会話の音で、怪物に居場所を知られることがある。"
+  },
+  {
+    "namespace": "",
+    "key": "392FA6CE4157FCC9FF5C88A7BB49E014",
+    "hash": 2306679130,
+    "text": "進路をふさがない"
+  },
+  {
+    "namespace": "",
+    "key": "3F01A23F4B4116AE61AC61A4BB0AC022",
+    "hash": 2276678607,
+    "text": "暗闇でも、ぶつかるだけでプレイヤーを殺す怪物がいる。"
+  },
+  {
+    "namespace": "",
+    "key": "F386491245205D03FAA2078D6293610F",
+    "hash": 581822597,
+    "text": "家具の陰に隠れよう"
+  },
+  {
+    "namespace": "",
+    "key": "88503103405535F0609C52B593E62F48",
+    "hash": 1679949128,
+    "text": "ステルス"
+  },
+  {
+    "namespace": "",
+    "key": "09A2814E4F3DDAF2AF3FC184CF807672",
+    "hash": 1887818443,
+    "text": "暗闇が身を隠してくれる"
+  },
+  {
+    "namespace": "",
+    "key": "0249EE574449E7DBE86191B62F692B79",
+    "hash": 429878562,
+    "text": "うまく忍び寄れば、大きな家具の陰に隠れられる。"
+  },
+  {
+    "namespace": "",
+    "key": "8642C38B41DF70D1AB8FBEAA7A9D23A5",
+    "hash": 1067091797,
+    "text": "足音に注意"
+  },
+  {
+    "namespace": "",
+    "key": "0E63044445373DE1506E69A597E2D95C",
+    "hash": 469046000,
+    "text": "しゃがんだり、カーペットの上を歩いたりして、移動音を抑えよう。"
+  },
+  {
+    "namespace": "",
+    "key": "195E2BCE4334D3277AC108A2AE24D8BD",
+    "hash": 217690702,
+    "text": "ゲームマニュアル"
+  },
+  {
+    "namespace": "",
+    "key": "9B6B2408435293DEB862A4A17004F015",
+    "hash": 3195400185,
+    "text": "遊び方の基本"
+  },
+  {
+    "namespace": "",
+    "key": "35CDFFB54C4AEA98A84EF8ABC6D47947",
+    "hash": 2080567223,
+    "text": "手がかり一覧"
+  },
+  {
+    "namespace": "",
+    "key": "B7674E7241C155E3801D7F8A399B1256",
+    "hash": 1708439993,
+    "text": "基本のヒント"
+  },
+  {
+    "namespace": "",
+    "key": "1000B82545F37A0F480C5B94CED0AA1A",
+    "hash": 953130550,
+    "text": "発見した手がかり"
+  },
+  {
+    "namespace": "",
+    "key": "64EFADBC42FD761636A9418F22F63EE9",
+    "hash": 4047235413,
+    "text": "目次"
+  },
+  {
+    "namespace": "",
+    "key": "A140585E4E4DECE59B4E9288A9ABB204",
+    "hash": 3223717983,
+    "text": "手がかりの種類"
+  },
+  {
+    "namespace": "",
+    "key": "F6491BA248D69C723E2F6DB66818EC81",
+    "hash": 3222595959,
+    "text": "ステルスの仕組み"
+  },
+  {
+    "namespace": "",
+    "key": "EED8406E42A0AF103C1E668738984330",
+    "hash": 928665247,
+    "text": "初心者"
+  },
+  {
+    "namespace": "",
+    "key": "7AB973234297D07546D0C28878E1896C",
+    "hash": 2377535107,
+    "text": "キャラクターの背景"
+  },
+  {
+    "namespace": "",
+    "key": "F303743B43F1741CFC3A249435433702",
+    "hash": 928665247,
+    "text": "初心者"
+  },
+  {
+    "namespace": "",
+    "key": "F5BC584F4431226A7E51F5BD9EE36855",
+    "hash": 1897401797,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "81ABDBFA45A2C67F56CCB08DC3038E49",
+    "hash": 1533914920,
+    "text": "テキストを入力"
+  },
+  {
+    "namespace": "",
+    "key": "7DA605494F856C465BA8A7945F9F95F8",
+    "hash": 3600423804,
+    "text": "チャットは非表示"
+  },
+  {
+    "namespace": "",
+    "key": "D90234514241D63488CF5484459E8604",
+    "hash": 3564157101,
+    "text": "観戦"
+  },
+  {
+    "namespace": "",
+    "key": "3D025D9C4583A7175199609FC79C3A21",
+    "hash": 1713862328,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "ACF4D77B4292FB55F4E0A79EB1882091",
+    "hash": 2781011804,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "54A7C61D49CAABDA63B8DBBDF852127A",
+    "hash": 3348170794,
+    "text": "道具袋"
+  },
+  {
+    "namespace": "",
+    "key": "76F40B9D47A631F6C442D9AE9FDA974B",
+    "hash": 2474474748,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "F9C993FF4E240BD89004F1914F535CCD",
+    "hash": 2648068414,
+    "text": "道具袋を許可"
+  },
+  {
+    "namespace": "",
+    "key": "977CED8F47338EDFA4B05E94DC5F2B60",
+    "hash": 2474474748,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "1AD8B6A44AD2629BBE6D5CB2C9C49399",
+    "hash": 2053604995,
+    "text": "無効"
+  },
+  {
+    "namespace": "",
+    "key": "3D2A9FA94819547B0F4DAD89E9CEA866",
+    "hash": 2474474748,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "6F10ADD1437FD303EE70EC80FB36CA3C",
+    "hash": 2401728177,
+    "text": "イントロ"
+  },
+  {
+    "namespace": "",
+    "key": "2D8A29B14FD6E40B9DE6A48F480846CB",
+    "hash": 2474474748,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "245F7804426FDB87FFF3E0BE4F230BF3",
+    "hash": 3127655375,
+    "text": "この設定を変更するには、まず1ゲームを最後までプレイする必要があります。"
+  },
+  {
+    "namespace": "",
+    "key": "72FF07E8494499D9A5F8DCA6342AB729",
+    "hash": 2401728177,
+    "text": "イントロ"
+  },
+  {
+    "namespace": "",
+    "key": "314CBBCA4BC7CCB3F37DDFA81931DF99",
+    "hash": 2401728177,
+    "text": "イントロ"
+  },
+  {
+    "namespace": "",
+    "key": "F650096E4687745DD9D4E2B8F2496786",
+    "hash": 2474474748,
+    "text": "有効"
+  },
+  {
+    "namespace": "",
+    "key": "BA921EBF4EB29964DA7B15BF453649E9",
+    "hash": 2053604995,
+    "text": "無効"
+  },
+  {
+    "namespace": "",
+    "key": "EC2C632742F0F443DB79C88783B855A4",
+    "hash": 195855522,
+    "text": "コピー"
+  },
+  {
+    "namespace": "",
+    "key": "A36591524848AD0AB6498FB4CF72FC4F",
+    "hash": 3263226545,
+    "text": "［裏返して表示］"
+  },
+  {
+    "namespace": "",
+    "key": "1D43CF2D4191206168A95DA29E6D4C2B",
+    "hash": 1040366315,
+    "text": "参加コード"
+  },
+  {
+    "namespace": "",
+    "key": "8FDAF723425FEF3FAE087AA09389D3EF",
+    "hash": 2964112319,
+    "text": "［裏返して隠す］"
+  },
+  {
+    "namespace": "",
+    "key": "CE667359434CF800A71893B84FBB6DD0",
+    "hash": 3293537240,
+    "text": "初めてのプレイ"
+  },
+  {
+    "namespace": "",
+    "key": "F347DDE74382A9D9778710A21AB89516",
+    "hash": 1995840312,
+    "text": "難易度"
+  },
+  {
+    "namespace": "",
+    "key": "20E989B7411C8744B443AA819B540954",
+    "hash": 2395409403,
+    "text": "弱虫"
+  },
+  {
+    "namespace": "",
+    "key": "EE300D6349BF096FEE49C88D93157459",
+    "hash": 2773545946,
+    "text": "難易度を選択"
+  },
+  {
+    "namespace": "",
+    "key": "D3EF3321490293E171461BB226B7FEF4",
+    "hash": 3293537240,
+    "text": "初めてのプレイ"
+  },
+  {
+    "namespace": "",
+    "key": "0EE18FD44139B82D61635D9A1D911BDC",
+    "hash": 3293537240,
+    "text": "初めてのプレイ"
+  },
+  {
+    "namespace": "",
+    "key": "E5649FD14B128D96B12D6FA6F5C66A55",
+    "hash": 685103169,
+    "text": "命知らず"
+  },
+  {
+    "namespace": "",
+    "key": "D78BAD4D4D0DC8B053F6CA9E35C1A48B",
+    "hash": 286923014,
+    "text": "なんてこった！"
+  },
+  {
+    "namespace": "",
+    "key": "6DF4642E4F38F5CE5DD393B659D9979D",
+    "hash": 4247242313,
+    "text": "招待"
+  },
+  {
+    "namespace": "",
+    "key": "A01D60C34C7972450D5E7480563F750F",
+    "hash": 2678462417,
+    "text": "キック"
+  },
+  {
+    "namespace": "",
+    "key": "8DEDDA0248A303DF0C6EC5A4EA861F7D",
+    "hash": 246586809,
+    "text": "侵入者"
+  },
+  {
+    "namespace": "",
+    "key": "A6DA374941910828BE9082AA482EBDA8",
+    "hash": 2701635680,
+    "text": "レベル：999"
+  },
+  {
+    "namespace": "",
+    "key": "3D6629EF44515F72A714099D8C02A188",
+    "hash": 3584177641,
+    "text": "怖がらせ屋"
+  },
+  {
+    "namespace": "",
+    "key": "361BC39849B5B3B1124ADA865BA6F623",
+    "hash": 3071339854,
+    "text": "オン"
+  },
+  {
+    "namespace": "",
+    "key": "B3A0568643094132A6883AA147ED5B9A",
+    "hash": 2748246751,
+    "text": "プレイヤー同士の衝突"
+  },
+  {
+    "namespace": "",
+    "key": "06AE7B1B45DFA590F65B0EAB4D7CEEB5",
+    "hash": 3071339854,
+    "text": "オン"
+  },
+  {
+    "namespace": "",
+    "key": "C53BF001436E9D552FCDF98EFC62C0F4",
+    "hash": 2748246751,
+    "text": "プレイヤー同士の衝突"
+  },
+  {
+    "namespace": "",
+    "key": "4D77B61341CDA5281EF016BD0E87FD25",
+    "hash": 2449041702,
+    "text": "ゲーム中のみ"
+  },
+  {
+    "namespace": "",
+    "key": "79AC4E5541AE2DB2A954E1A41590D75E",
+    "hash": 3071339854,
+    "text": "オン"
+  },
+  {
+    "namespace": "",
+    "key": "E6FFA2E34CFBF8E6001C3DB2972BF61F",
+    "hash": 702166261,
+    "text": "オフ"
+  },
+  {
+    "namespace": "",
+    "key": "C333996F40AFDB9510E52CB4BD9A4DF5",
+    "hash": 2170065926,
+    "text": "キャンディ"
+  },
+  {
+    "namespace": "",
+    "key": "C9F8C162403CA1A367569D95A7CC3BF7",
+    "hash": 686569656,
+    "text": "経験値"
+  },
+  {
+    "namespace": "",
+    "key": "42C82BE34ED28337A54810813CF58E23",
+    "hash": 1897401797,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "4C5909D641934591D41438883F5102F0",
+    "hash": 686569656,
+    "text": "経験値"
+  },
+  {
+    "namespace": "",
+    "key": "116A86B34F66FB5DE603159C7938D072",
+    "hash": 3448137096,
+    "text": "『The Cabin Game』へようこそ！"
+  },
+  {
+    "namespace": "",
+    "key": "2AB66AE14C029BB2E77648828CA0E106",
+    "hash": 688191347,
+    "text": "ゲームのリリースに協力してくれて、本当にありがとう！！<3"
+  },
+  {
+    "namespace": "",
+    "key": "7B6AE34F43F5B04BA66A138FF3B7EDB2",
+    "hash": 3923517997,
+    "text": "早期参加の皆さん、こんにちは！"
+  },
+  {
+    "namespace": "",
+    "key": "1550043D454F958F1F8636AD2BD2A2D9",
+    "hash": 3448137096,
+    "text": "『The Cabin Game』へようこそ！"
+  },
+  {
+    "namespace": "",
+    "key": "5AC7F4254F44BEBD4A8A5484F815AC55",
+    "hash": 3950767277,
+    "text": "テスターの皆さん、こんにちは！:)"
+  },
+  {
+    "namespace": "",
+    "key": "81D0AA5F4312E3907152A380E2F4BCF3",
+    "hash": 1919862370,
+    "text": "このゲームは早期アクセス中です。不具合やバランスの問題については、\r\nどうかご理解ください。皆さんのご意見がとても大切です！:)"
+  },
+  {
+    "namespace": "",
+    "key": "112FBD564B25A3EAAEF65EB6B22B62E2",
+    "hash": 3406570324,
+    "text": "[M]でいつでもゲームマニュアルを開けます。"
+  },
+  {
+    "namespace": "",
+    "key": "07568F544A5A2645625598ADDAB72486",
+    "hash": 683923771,
+    "text": "－チュートリアルは現在制作中です"
+  },
+  {
+    "namespace": "",
+    "key": "EEE7EA5D42DB4137DFC735BB9BCA2FF7",
+    "hash": 3156462506,
+    "text": "皆さんの幸運を祈ります。遊んでくれてありがとう！:)"
+  },
+  {
+    "namespace": "",
+    "key": "8D9909234696ACF38F52D3A71752ABB9",
+    "hash": 3448137096,
+    "text": "『The Cabin Game』へようこそ！"
+  },
+  {
+    "namespace": "",
+    "key": "C0BE890D4F729497D2E7F6A3E8600B62",
+    "hash": 688191347,
+    "text": "ゲームのリリースに協力してくれて、本当にありがとう！！<3"
+  },
+  {
+    "namespace": "",
+    "key": "916CA2EA493F314287B26DAFEB89A237",
+    "hash": 205514804,
+    "text": "仮の手がかり説明ボード！"
+  },
+  {
+    "namespace": "",
+    "key": "1A31E8B64B950E9FC6E2B9A44D631D08",
+    "hash": 276155304,
+    "text": "（より詳しい説明が完成するまで、手がかりの仕組みを紹介する仮のボードです。\r\nゲームマニュアル [M] に、さらに詳しい説明があります。）"
+  },
+  {
+    "namespace": "",
+    "key": "B01323824CC41A76590856A0DC1B5993",
+    "hash": 3950767277,
+    "text": "テスターの皆さん、こんにちは！:)"
+  },
+  {
+    "namespace": "",
+    "key": "67AE61404A8B0690E450AFA98BE316E4",
+    "hash": 3382475065,
+    "text": "－部屋は全部で12種類ありますが、ランダムな手がかりが現れるのは3部屋だけです。\r\n手がかりを明らかにするには、そのカードを墓場の一番上に置き、\r\n出現先の部屋を配置しておく必要があります。"
+  },
+  {
+    "namespace": "",
+    "key": "E9A2251F4CD985FA890987ADDD6F1A0F",
+    "hash": 4188065246,
+    "text": "－自分のターンでは、新しいカードを引く代わりに墓場の手がかりを入れ替えられます。"
+  },
+  {
+    "namespace": "",
+    "key": "21EB5BDF41A25349BEC92EAF9AEA317A",
+    "hash": 2371716498,
+    "text": "MVP"
+  },
+  {
+    "namespace": "",
+    "key": "16101C724D45B512915E6EBE56302FF6",
+    "hash": 3866706740,
+    "text": "一番の臆病者"
+  },
+  {
+    "namespace": "",
+    "key": "ABB11C9E462C1BE48294A6A108A9D842",
+    "hash": 551147112,
+    "text": "一番の勇者"
+  },
+  {
+    "namespace": "",
+    "key": "A35E5D904FA2266002DA51A47E0FE452",
+    "hash": 220479297,
+    "text": "お荷物"
+  },
+  {
+    "namespace": "",
+    "key": "EAA4D0F046D15D84EEF5DF9B0D7E99CF",
+    "hash": 485477164,
+    "text": "一番の臆病者"
+  },
+  {
+    "namespace": "",
+    "key": "C64D79EC44AC10C0E97924954D135BF9",
+    "hash": 2398080356,
+    "text": "表彰"
+  },
+  {
+    "namespace": "",
+    "key": "B418EE374B6ED613AB1E43888C18303A",
+    "hash": 1623116084,
+    "text": "難易度："
+  },
+  {
+    "namespace": "",
+    "key": "7B2CBE094349B74A755A2C9C8E3113D7",
+    "hash": 3215267556,
+    "text": "出口："
+  },
+  {
+    "namespace": "",
+    "key": "453A5BBA423ACCA9D1D95AA505B4B731",
+    "hash": 887337833,
+    "text": "敗者"
+  },
+  {
+    "namespace": "",
+    "key": "1CFDC177478BC41DAB01D79253C8EBB5",
+    "hash": 2291111057,
+    "text": "レベル"
+  },
+  {
+    "namespace": "",
+    "key": "C49F35C945AD1C9B042B918D3BBC826D",
+    "hash": 1741480321,
+    "text": "ロビーに戻る"
+  },
+  {
+    "namespace": "",
+    "key": "17645E734E81E176BDC154A49BE28A5C",
+    "hash": 1879963731,
+    "text": "時間："
+  },
+  {
+    "namespace": "",
+    "key": "6AEE62FD427B5C09A7A1E5ABC5C62D33",
+    "hash": 1805818778,
+    "text": "完了"
+  },
+  {
+    "namespace": "",
+    "key": "3357C4944CA3783EFAE6BBB86C7701B3",
+    "hash": 4270609729,
+    "text": "進めた分数："
+  },
+  {
+    "namespace": "",
+    "key": "997DC2C042E9E9523405B5A9FE965494",
+    "hash": 889088356,
+    "text": "死亡回数："
+  },
+  {
+    "namespace": "",
+    "key": "59CCCAE945696459368351A0E5AC8F9F",
+    "hash": 3824792969,
+    "text": "引いたイベント："
+  },
+  {
+    "namespace": "",
+    "key": "B635F81043F2EAE18C8D8AB31B21F6E5",
+    "hash": 2047521925,
+    "text": "配置した部屋："
+  },
+  {
+    "namespace": "",
+    "key": "8E7C2478485E90B6A044AB999A6DA6FD",
+    "hash": 317874704,
+    "text": "明らかにした手がかり："
+  },
+  {
+    "namespace": "",
+    "key": "3A34DA9A48F914FD9B375D86EF5BBC05",
+    "hash": 3704418544,
+    "text": "称号"
+  },
+  {
+    "namespace": "",
+    "key": "9D3B940B45EC4DAAD3E32AB31EBF4736",
+    "hash": 762254806,
+    "text": "死亡"
+  },
+  {
+    "namespace": "",
+    "key": "0F5FCDA94C550499FCB75CAE76C3DED1",
+    "hash": 4266279410,
+    "text": "キャラクターカスタマイズ"
+  },
+  {
+    "namespace": "",
+    "key": "DEDAE369463E459EA26F8D8813CE7D97",
+    "hash": 1315344152,
+    "text": "オン"
+  },
+  {
+    "namespace": "",
+    "key": "81B517684E35357BA0B984BD5F41F49E",
+    "hash": 2151083087,
+    "text": "動き"
+  },
+  {
+    "namespace": "",
+    "key": "CEB850D44207AFD7DD0F01991DBE0A2C",
+    "hash": 2684113808,
+    "text": "タイマー"
+  },
+  {
+    "namespace": "",
+    "key": "DD2ADC0E42385360EABB7AA7526ED425",
+    "hash": 837545741,
+    "text": "オフ"
+  },
+  {
+    "namespace": "",
+    "key": "BB095E7247B526B1D19CA09E200BCA9B",
+    "hash": 2291391090,
+    "text": "オーバーレイ"
+  },
+  {
+    "namespace": "",
+    "key": "48A45DDF47214C4BEC00698550765089",
+    "hash": 3145992176,
+    "text": "消灯"
+  },
+  {
+    "namespace": "",
+    "key": "E45EEF1E4425AC6D9BAE70AE395DA854",
+    "hash": 600672740,
+    "text": "真夜中の空気"
+  },
+  {
+    "namespace": "",
+    "key": "B6399D3C44074DDB2ED8B2803B8334C6",
+    "hash": 3400620701,
+    "text": "死後の世界"
+  },
+  {
+    "namespace": "",
+    "key": "1130A40A49652CB638E0B486CB555B9C",
+    "hash": 837545741,
+    "text": "オフ"
+  },
+  {
+    "namespace": "",
+    "key": "B18FA0734FF3A12819051480751B8AB7",
+    "hash": 3433163733,
+    "text": "西暦3000年"
+  },
+  {
+    "namespace": "",
+    "key": "07263E95425ED5044711338CE1E20034",
+    "hash": 1170358988,
+    "text": "残り10日"
+  },
+  {
+    "namespace": "",
+    "key": "DA756E7746B30DA3742A4A8D6D6CCF78",
+    "hash": 3564143736,
+    "text": "ローズゲイル邸"
+  },
+  {
+    "namespace": "",
+    "key": "3EE56CD74A9C25D05E8369BBF06ED72A",
+    "hash": 1315344152,
+    "text": "オン"
+  },
+  {
+    "namespace": "",
+    "key": "EACCB4724BA04FAE735D8589B4B01F23",
+    "hash": 1929538315,
+    "text": "灰色の猫"
+  },
+  {
+    "namespace": "",
+    "key": "1827EB43486E0F3496608D884B099AC0",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "31350C5444E0F69ABD5F9AB33E3348A5",
+    "hash": 3020679081,
+    "text": "茶トラ猫"
+  },
+  {
+    "namespace": "",
+    "key": "F45F8DF54AAD6226CB3D53ABFDBA51D5",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "5E183F2244C653822FD606ADE5F00E0F",
+    "hash": 3333886094,
+    "text": "幽霊猫"
+  },
+  {
+    "namespace": "",
+    "key": "690AD55144B3C97440F872A49C78B403",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "F1C2C87247322F04E6F97D8AFD9EE1A1",
+    "hash": 3133867580,
+    "text": "茶色の犬"
+  },
+  {
+    "namespace": "",
+    "key": "57404C6943FE4311333BCF981D68DE7A",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "CAEE01EC4366D67568813B915A034298",
+    "hash": 960596764,
+    "text": "幽霊犬"
+  },
+  {
+    "namespace": "",
+    "key": "49D54D67412E4BCE896E2B95627ADBA7",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "DDBF15FF4D4A9BBC886196BC79B9FF13",
+    "hash": 4176860069,
+    "text": "地獄の猟犬"
+  },
+  {
+    "namespace": "",
+    "key": "C4E33D3F4AABEA74667058AEFFE1814A",
+    "hash": 4053050877,
+    "text": "（メニューのガレージ設定で有効にする必要があります）"
+  },
+  {
+    "namespace": "",
+    "key": "D779234E436FBADA213A0F9AF5C065D1",
+    "hash": 233910965,
+    "text": "ブーブークッション"
+  },
+  {
+    "namespace": "",
+    "key": "A1D32BF2416E81C8D20DC69CDF6EF47D",
+    "hash": 1794963403,
+    "text": "道具袋に入る使い捨てアイテム。ランダムなおならの音を鳴らす。"
+  },
+  {
+    "namespace": "",
+    "key": "F3D6E150439DC4CB947A16B2802149AD",
+    "hash": 173307393,
+    "text": "紙吹雪クラッカー"
+  },
+  {
+    "namespace": "",
+    "key": "63D7B29A43E74B289AD300919C1E9E63",
+    "hash": 3870745745,
+    "text": "道具袋に入る使い捨てアイテム。お祝いのラッパの音と紙吹雪を出す。"
+  },
+  {
+    "namespace": "",
+    "key": "A33E43A841C275FAC86982ADCA418837",
+    "hash": 2520662878,
+    "text": "ハロウィンクラッカー"
+  },
+  {
+    "namespace": "",
+    "key": "AAC6E8504BCC458F2CE9C6A7B183745F",
+    "hash": 2438629743,
+    "text": "道具袋に入る使い捨てアイテム。不気味な笑い声と紙吹雪を出す。"
+  },
+  {
+    "namespace": "",
+    "key": "F3DC7F8649CC2F0CB4150090A1A95D62",
+    "hash": 2468209970,
+    "text": "キャンディブースター"
+  },
+  {
+    "namespace": "",
+    "key": "9332A2CF49BAD30509E16BA6BD38B88E",
+    "hash": 3231731432,
+    "text": "道具袋に入る使い捨てアイテム。ロビーでのみ使用可能。勝利するとゲーム終了時にキャンディが追加でもらえる。（重複不可）"
+  },
+  {
+    "namespace": "",
+    "key": "5A39BC6B458AFFB770A14F952B3700F3",
+    "hash": 2041491386,
+    "text": "経験値ブースター"
+  },
+  {
+    "namespace": "",
+    "key": "19D643874F72E6F1B3FBECB0416211DB",
+    "hash": 2189741500,
+    "text": "道具袋に入る使い捨てアイテム。ロビーでのみ使用可能。勝利するとゲーム終了時に経験値が追加でもらえる。（重複不可）"
+  },
+  {
+    "namespace": "",
+    "key": "2FB1AD9746B38EE8696E0FBB4E073774",
+    "hash": 3793669904,
+    "text": "ヘアカラー"
+  },
+  {
+    "namespace": "",
+    "key": "B1ACD44A4B5B6E05B5010E9890754E51",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "FE146FC74972C419063CB09800DA9D64",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "802770D44347A160F1C587B4F8AC0218",
+    "hash": 2241571573,
+    "text": "サブネーム"
+  },
+  {
+    "namespace": "",
+    "key": "E0366ACF447BFBFB6EB89292254C31A2",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "8F7AF5EE4D20624A3D8966802B5C9601",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "DD153CDD40A3227264632EAF38BA264A",
+    "hash": 3793669904,
+    "text": "ヘアカラー"
+  },
+  {
+    "namespace": "",
+    "key": "A9F6D5A3458BBC816C18408D77B2B39E",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "C3F991A34055B998216199A96351C914",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "E0E9719A47C805B2BD352CA016313D69",
+    "hash": 2996201501,
+    "text": "やめる"
+  },
+  {
+    "namespace": "",
+    "key": "43FFF61549E977AB3FDC09A8CC54EB20",
+    "hash": 1114040612,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "8556285E4CECFD686466F0B9C438DC62",
+    "hash": 2464834972,
+    "text": "価格："
+  },
+  {
+    "namespace": "",
+    "key": "0BE934014900B9E19E2A74BA189A5CA7",
+    "hash": 957931739,
+    "text": "あと最低"
+  },
+  {
+    "namespace": "",
+    "key": "E8DE6DF94C3567470C033C8889400EFF",
+    "hash": 3788632996,
+    "text": "個のキャンディが必要"
+  },
+  {
+    "namespace": "",
+    "key": "078056B742B6BB99DCAEDAB2EEC222EF",
+    "hash": 1092036758,
+    "text": "キャンディ不足"
+  },
+  {
+    "namespace": "",
+    "key": "6AB4624648BBA536B4D4DAA256076DBD",
+    "hash": 2964015901,
+    "text": "ビーチボール"
+  },
+  {
+    "namespace": "",
+    "key": "6EDF60264A97902E4D5501A917A08762",
+    "hash": 3994793766,
+    "text": "カボチャの魔法"
+  },
+  {
+    "namespace": "",
+    "key": "C1F6566843012AE2C2634387A1926F9E",
+    "hash": 3675759436,
+    "text": "不気味な墓場"
+  },
+  {
+    "namespace": "",
+    "key": "7FBC875C45E435548111E784DF9DBD01",
+    "hash": 305591440,
+    "text": "吸血鬼の恐怖"
+  },
+  {
+    "namespace": "",
+    "key": "8AD200C54514213A118B2AA0553B111F",
+    "hash": 1713862328,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "AA075A5D422C0D87125ADCBDDE1D26E2",
+    "hash": 1910136746,
+    "text": "魔法のカカシ"
+  },
+  {
+    "namespace": "",
+    "key": "2ACCE04B48D2480C720319AB2CBE5137",
+    "hash": 181325689,
+    "text": "適用して戻る"
+  },
+  {
+    "namespace": "",
+    "key": "43A52B0247842047CB3F828341886001",
+    "hash": 1007782114,
+    "text": "ペット"
+  },
+  {
+    "namespace": "",
+    "key": "270DE8AB4FF089C139E136BF9B5AEA8A",
+    "hash": 1850361842,
+    "text": "飾りを有効化"
+  },
+  {
+    "namespace": "",
+    "key": "FAB0980E4F144A986D152E81C311FC0B",
+    "hash": 3517023186,
+    "text": "操作できる物を有効化"
+  },
+  {
+    "namespace": "",
+    "key": "E7E803324EB5044D9FF2089F1C91F608",
+    "hash": 62763531,
+    "text": "ガレージロビーを編集"
+  },
+  {
+    "namespace": "",
+    "key": "BA5BE5244BC7248EFBD262AF2673ABA4",
+    "hash": 2341725216,
+    "text": "壁紙を選択"
+  },
+  {
+    "namespace": "",
+    "key": "C020C76D4EE83A4B8EB7BD8CBBB36206",
+    "hash": 2241571573,
+    "text": "サブネーム"
+  },
+  {
+    "namespace": "",
+    "key": "10C09F1441BDD677AEA246B2F948C98E",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "5D1BD4E74F1C26535C2B72A7B8E75793",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "64151929415914DF23FC19936D049E61",
+    "hash": 3994793766,
+    "text": "カボチャの魔法"
+  },
+  {
+    "namespace": "",
+    "key": "00B8A3E347AC8F6AD3D698AD26021CB3",
+    "hash": 1434159479,
+    "text": "壁紙"
+  },
+  {
+    "namespace": "",
+    "key": "7E8428DB48CB11AD838F27BBC67F1919",
+    "hash": 3675759436,
+    "text": "不気味な墓場"
+  },
+  {
+    "namespace": "",
+    "key": "5B5D47A14E6CBBD92A091FB0C76A0C9F",
+    "hash": 1434159479,
+    "text": "壁紙"
+  },
+  {
+    "namespace": "",
+    "key": "D88C936541BCCBE462E9C193C298C420",
+    "hash": 305591440,
+    "text": "吸血鬼の恐怖"
+  },
+  {
+    "namespace": "",
+    "key": "48593474475228B4EF2BA689B89C26B4",
+    "hash": 1434159479,
+    "text": "壁紙"
+  },
+  {
+    "namespace": "",
+    "key": "AD4FB63E4F2095F36576FB915A585C7B",
+    "hash": 1910136746,
+    "text": "魔法のカカシ"
+  },
+  {
+    "namespace": "",
+    "key": "708FBC954B16B33A9F5E17A399731639",
+    "hash": 1434159479,
+    "text": "壁紙"
+  },
+  {
+    "namespace": "",
+    "key": "166CA5AE4711051DAD47B1AA2DDFE5ED",
+    "hash": 2241571573,
+    "text": "サブネーム"
+  },
+  {
+    "namespace": "",
+    "key": "08C4FA754000F895A95532BC79522C72",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "86866D754B966EDF829F2D9AA7967C27",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "D7E61CC94AA8714D5556BA9DC4EDF216",
+    "hash": 2964015901,
+    "text": "ビーチボール"
+  },
+  {
+    "namespace": "",
+    "key": "2E69228A47EE91F2C7BA099E918F6270",
+    "hash": 3643314510,
+    "text": "（メニューのガレージ設定で有効にする必要があります）叩いたり、まあ適当に遊べます。"
+  },
+  {
+    "namespace": "",
+    "key": "6B62C5AB4F67040C5407908752877D9C",
+    "hash": 2499950257,
+    "text": "スモークマシン"
+  },
+  {
+    "namespace": "",
+    "key": "E9B341184F679B1C2D0FF78867FC04F9",
+    "hash": 71553114,
+    "text": "（メニューのガレージ設定で有効にする必要があります）ガレージを不気味な煙で満たす！設定を切り替えられる。"
+  },
+  {
+    "namespace": "",
+    "key": "FD60B3204017E12585364F8D81586582",
+    "hash": 39941590,
+    "text": "ポータブルスピーカー"
+  },
+  {
+    "namespace": "",
+    "key": "D4D124614165BFF93DC9FAA7E7B87A4E",
+    "hash": 2607279895,
+    "text": "（メニューのガレージ設定で有効にする必要があります）さまざまな不気味な曲を再生する！操作すると曲が切り替わる。"
+  },
+  {
+    "namespace": "",
+    "key": "01C146C04291440A07726AB788784568",
+    "hash": 2241571573,
+    "text": "サブネーム"
+  },
+  {
+    "namespace": "",
+    "key": "906F749446025F64715FA79E77C5E050",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "F7CA6D5445E32BB0DCCDB9A512B7DBA3",
+    "hash": 3937420614,
+    "text": "購入済み"
+  },
+  {
+    "namespace": "",
+    "key": "B79EA21845495BEF1B3F2CAC54EC5A81",
+    "hash": 3691376505,
+    "text": "猫"
+  },
+  {
+    "namespace": "",
+    "key": "4BF051E246F4E3E1D5F651B73B964C4D",
+    "hash": 621594796,
+    "text": "購入"
+  },
+  {
+    "namespace": "",
+    "key": "ACEF0EDA43E723C8B79E6DA11F209C83",
+    "hash": 2996201501,
+    "text": "やめる"
+  },
+  {
+    "namespace": "",
+    "key": "01437E2942DEC763817EFEB518AF83F2",
+    "hash": 1114040612,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "C421499D46AD35D5D38A46BE5B7C04C4",
+    "hash": 1950864775,
+    "text": "価格"
+  },
+  {
+    "namespace": "",
+    "key": "E09520924F760F8398CDDF9371BAAE34",
+    "hash": 1295729690,
+    "text": "購入"
+  },
+  {
+    "namespace": "",
+    "key": "B64CEC784787F34442B6BB938AF92F3E",
+    "hash": 1618607113,
+    "text": "説明"
+  },
+  {
+    "namespace": "",
+    "key": "3756BF3943AA38652C94838D3843F883",
+    "hash": 1408111756,
+    "text": "戻る"
+  },
+  {
+    "namespace": "",
+    "key": "DE017F71414A73E6CD4C18A78E6CE968",
+    "hash": 4123621005,
+    "text": "カラーコンタクト"
+  },
+  {
+    "namespace": "",
+    "key": "E813EFC9460A8136D536629B84C13C67",
+    "hash": 340712543,
+    "text": "アクセサリー"
+  },
+  {
+    "namespace": "",
+    "key": "6EF26B304E96101D5D77F38CE0C2E0AD",
+    "hash": 133416737,
+    "text": "操作できる物"
+  },
+  {
+    "namespace": "",
+    "key": "D2E32F104C0F222DDA91499ACBCDB644",
+    "hash": 3231566138,
+    "text": "ヘアカラー"
+  },
+  {
+    "namespace": "",
+    "key": "2085C6E6488881BF832B7F9A628DA489",
+    "hash": 3535565644,
+    "text": "ペット"
+  },
+  {
+    "namespace": "",
+    "key": "670AC2C44EB70828C90EBBACE849BB43",
+    "hash": 2405768607,
+    "text": "プレイヤー"
+  },
+  {
+    "namespace": "",
+    "key": "F171FE0E47FD9A3DEB8E7AB944B2C441",
+    "hash": 81528449,
+    "text": "ロビー"
+  },
+  {
+    "namespace": "",
+    "key": "B65EF4C34AEE0BF4C7850FBC6A2198CD",
+    "hash": 2580419101,
+    "text": "いたずらとお菓子"
+  },
+  {
+    "namespace": "",
+    "key": "A3DF8C4744D97A9F38CB629B159CD78F",
+    "hash": 1247921375,
+    "text": "飾り"
+  },
+  {
+    "namespace": "",
+    "key": "D9B2A080462C06A59C0AADACC6AD7FF8",
+    "hash": 2241571573,
+    "text": "サブネーム"
+  },
+  {
+    "namespace": "",
+    "key": "2696CA0E467303F98AE7D2889F01846D",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "54385E6E452DB04D54393B86EF7DBCB8",
+    "hash": 3635751401,
+    "text": "基本"
+  },
+  {
+    "namespace": "",
+    "key": "E58DC47D40AE54E1955F94B0F03BAE94",
+    "hash": 593278891,
+    "text": "部屋作成"
+  },
+  {
+    "namespace": "",
+    "key": "2D754A3B460A213497E6E1B8441BF228",
+    "hash": 1876079655,
+    "text": "参加"
+  },
+  {
+    "namespace": "",
+    "key": "4F5D3642465FAD2EEBDD328C5B462EE7",
+    "hash": 1169377661,
+    "text": "ソロ"
+  },
+  {
+    "namespace": "",
+    "key": "AA09CDF54EE27D5ADAD6D3A4F31732F1",
+    "hash": 63761803,
+    "text": "プレイ"
+  },
+  {
+    "namespace": "",
+    "key": "EB12C333436B692CF8566AB479A63B65",
+    "hash": 234204591,
+    "text": "ガレージ"
+  },
+  {
+    "namespace": "",
+    "key": "9B16C25E4B56B7027399B2A2154C698F",
+    "hash": 3717205293,
+    "text": "おばけ\r\n工場"
+  },
+  {
+    "namespace": "",
+    "key": "EA90B85C49B4E05A8631E7B242B67519",
+    "hash": 2285239407,
+    "text": "キャラ"
+  },
+  {
+    "namespace": "",
+    "key": "16F612BD4D3DF0E50A1BDFA265F1F06B",
+    "hash": 2399590023,
+    "text": "カスタム"
+  },
+  {
+    "namespace": "",
+    "key": "2C8600B44357B0D65121CC963017818F",
+    "hash": 2862679120,
+    "text": "制作陣"
+  },
+  {
+    "namespace": "",
+    "key": "7A9C66F340073733060333A1E1050C5F",
+    "hash": 2996252671,
+    "text": "バグ報告"
+  },
+  {
+    "namespace": "",
+    "key": "3F145F6F427F5FAAF65F5CBE940682F6",
+    "hash": 959504846,
+    "text": "交流"
+  },
+  {
+    "namespace": "",
+    "key": "1C04A10F4961FC23708644826BB08BF8",
+    "hash": 74747556,
+    "text": "小屋で操作"
+  },
+  {
+    "namespace": "",
+    "key": "A8777781491A2EDFFE81B582D7B7D6B1",
+    "hash": 1941688548,
+    "text": "しゃがむ"
+  },
+  {
+    "namespace": "",
+    "key": "756721C64C3C5BC4AE5219AB5D4EFCEB",
+    "hash": 1971026849,
+    "text": "タスクを終了"
+  },
+  {
+    "namespace": "",
+    "key": "4437C1394D5828435B7F89A3D42056D0",
+    "hash": 3348170794,
+    "text": "道具袋"
+  },
+  {
+    "namespace": "",
+    "key": "3B320F5244147E8BFFA3CDBDEE05D8E5",
+    "hash": 3063103120,
+    "text": "操作"
+  },
+  {
+    "namespace": "",
+    "key": "F148D1E441E73095490693918A90FCA5",
+    "hash": 4288161490,
+    "text": "ランタンのライト"
+  },
+  {
+    "namespace": "",
+    "key": "AC72D7CE460BF003E4EE63A7412985B2",
+    "hash": 1036736862,
+    "text": "マニュアル"
+  },
+  {
+    "namespace": "",
+    "key": "3876CC30424974935AAC6D96B5C9E35B",
+    "hash": 2188469629,
+    "text": "小屋で移動"
+  },
+  {
+    "namespace": "",
+    "key": "70D3ECA746AB131AF6B8359AF3D33190",
+    "hash": 2829361291,
+    "text": "左にのぞく"
+  },
+  {
+    "namespace": "",
+    "key": "18893447449848D83AEA1A8B78B9BFF3",
+    "hash": 3673328955,
+    "text": "右にのぞく"
+  },
+  {
+    "namespace": "",
+    "key": "B6514C654D0B1F2BDF771597831993C5",
+    "hash": 2326671720,
+    "text": "カードを回転"
+  },
+  {
+    "namespace": "",
+    "key": "22D9CAE146A2743047BC5690A24D3891",
+    "hash": 3235292747,
+    "text": "サブ操作"
+  },
+  {
+    "namespace": "",
+    "key": "B66FE9744467D3FA3C8CE8979A3D3F9D",
+    "hash": 2712401945,
+    "text": "走る"
+  },
+  {
+    "namespace": "",
+    "key": "6D33F0B34DDDE571A048E2AD57E3255C",
+    "hash": 127456116,
+    "text": "テキストチャット"
+  },
+  {
+    "namespace": "",
+    "key": "7FEB2E2C4ED29A48B2670E994002BEEA",
+    "hash": 453839883,
+    "text": "ターンを開始"
+  },
+  {
+    "namespace": "",
+    "key": "251CB287459FA28E4EFD68BB2B4F9D62",
+    "hash": 235147558,
+    "text": "ボイス"
+  },
+  {
+    "namespace": "",
+    "key": "E8B042964B7FC93A1B13FC9F80A8A129",
+    "hash": 1426141505,
+    "text": "ズームイン"
+  },
+  {
+    "namespace": "",
+    "key": "9A92795D4952F97872FD1AA4E529ACF9",
+    "hash": 1426141505,
+    "text": "ズームイン"
+  },
+  {
+    "namespace": "",
+    "key": "F06C4432445BC0F55AC682BC9577D6B5",
+    "hash": 1875127433,
+    "text": "カラーコンタクト"
+  },
+  {
+    "namespace": "",
+    "key": "D99261634F078F6001EF7F85479BB717",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "24761CD9473B821B6BC4ABB8089876C9",
+    "hash": 1713862328,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "E3206EF142DBE9EE05AA1E8AC7340BD9",
+    "hash": 1890336389,
+    "text": "緑"
+  },
+  {
+    "namespace": "",
+    "key": "319E08F34C14622779489C9926AA6687",
+    "hash": 2155159936,
+    "text": "青"
+  },
+  {
+    "namespace": "",
+    "key": "79FBCF0640F70CC413F35AAEF3DE9274",
+    "hash": 3026775607,
+    "text": "アクア"
+  },
+  {
+    "namespace": "",
+    "key": "37AC99C94C09652973179996AF043E92",
+    "hash": 2533912837,
+    "text": "ミント色"
+  },
+  {
+    "namespace": "",
+    "key": "1D5628194708FD48DE4E9E82D038655F",
+    "hash": 3788006343,
+    "text": "黄"
+  },
+  {
+    "namespace": "",
+    "key": "97976CD3457E85CC151A6EA132ACC3A0",
+    "hash": 2279263351,
+    "text": "赤"
+  },
+  {
+    "namespace": "",
+    "key": "7BDA91F24BA1A8C20A90A19083DBF7AB",
+    "hash": 2046380026,
+    "text": "銀"
+  },
+  {
+    "namespace": "",
+    "key": "1A63376A4D67200AC053119A5838CB27",
+    "hash": 3093239587,
+    "text": "ピンク"
+  },
+  {
+    "namespace": "",
+    "key": "41FC849440987293491A30899E11A9EA",
+    "hash": 1394073490,
+    "text": "悪魔"
+  },
+  {
+    "namespace": "",
+    "key": "D5539DCA4663EAAAFD2650B6850DC12B",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "CDED03C04CD2B879D309558162370395",
+    "hash": 2601898226,
+    "text": "赤鬼の半面"
+  },
+  {
+    "namespace": "",
+    "key": "9876B25D4C3F9066DA25018181DAFB96",
+    "hash": 1413999545,
+    "text": "狐面の上半分"
+  },
+  {
+    "namespace": "",
+    "key": "8F48DD2E42D78A4D8EDA1CA44F961C8F",
+    "hash": 1283234277,
+    "text": "悪魔の角"
+  },
+  {
+    "namespace": "",
+    "key": "F6E80E614A2DD11EB52296AB7549C7B0",
+    "hash": 3257145639,
+    "text": "カボチャ王"
+  },
+  {
+    "namespace": "",
+    "key": "22B29ACB4BBF4444EE07C29611EA0CDE",
+    "hash": 3060392003,
+    "text": "ナイフの飾り"
+  },
+  {
+    "namespace": "",
+    "key": "E423E90A446883B979ADD48529917599",
+    "hash": 1568762052,
+    "text": "狐面の上半分"
+  },
+  {
+    "namespace": "",
+    "key": "73978BAF443D9CB730FF78BD0DDD063E",
+    "hash": 1956760105,
+    "text": "狐の全顔マスク"
+  },
+  {
+    "namespace": "",
+    "key": "6DA8ECFC420F9DF0202BB2BD24415DEE",
+    "hash": 3571668825,
+    "text": "紫鬼の全顔マスク"
+  },
+  {
+    "namespace": "",
+    "key": "804D390E45F2CCFE86177699DEE0A8B6",
+    "hash": 2767086166,
+    "text": "紫鬼の半面"
+  },
+  {
+    "namespace": "",
+    "key": "EFA601654A24BE8C8C14B1A83B7C253F",
+    "hash": 1713862328,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "184401064046E01072B5969A187681C2",
+    "hash": 3482075171,
+    "text": "暗い赤"
+  },
+  {
+    "namespace": "",
+    "key": "29C4CEB64CAB6CBA735F0DA1912FFDD1",
+    "hash": 1365716854,
+    "text": "鮮やかな赤"
+  },
+  {
+    "namespace": "",
+    "key": "A126AECA4052CB8457F623B933E225D3",
+    "hash": 783222979,
+    "text": "鮮やかな緑"
+  },
+  {
+    "namespace": "",
+    "key": "60A983094A562798778190872F8863C8",
+    "hash": 3773098535,
+    "text": "白"
+  },
+  {
+    "namespace": "",
+    "key": "6BBED3F747E0783A5BCAF987138622BB",
+    "hash": 4248507778,
+    "text": "灰色"
+  },
+  {
+    "namespace": "",
+    "key": "C0D65AEF4F48963906303DA0CE6E1174",
+    "hash": 1498810053,
+    "text": "マゼンタ"
+  },
+  {
+    "namespace": "",
+    "key": "C065B9A64B8593EF8200E0847B3CD602",
+    "hash": 1598565421,
+    "text": "ミントグリーン"
+  },
+  {
+    "namespace": "",
+    "key": "B72E51FE4CC961989465A18C80473534",
+    "hash": 3026775607,
+    "text": "アクア"
+  },
+  {
+    "namespace": "",
+    "key": "EFF31B81484C1A1DB071B8AE8E6A5DD0",
+    "hash": 2223237991,
+    "text": "アイスブルー"
+  },
+  {
+    "namespace": "",
+    "key": "D7D861E9419FAB4BDBB43682893512F7",
+    "hash": 2155159936,
+    "text": "青"
+  },
+  {
+    "namespace": "",
+    "key": "8C3A3BC44CC17A83DD612BAE4276C311",
+    "hash": 3910033860,
+    "text": "紫"
+  },
+  {
+    "namespace": "",
+    "key": "37F6F61D46A6E1C504191E8A5B924831",
+    "hash": 2059989247,
+    "text": "濃い紫"
+  },
+  {
+    "namespace": "",
+    "key": "312A60C1400D12B14163088D26E3C0F5",
+    "hash": 3788006343,
+    "text": "黄"
+  },
+  {
+    "namespace": "",
+    "key": "5A486B454A5C12E19A008A8BA4DA25B6",
+    "hash": 4061526876,
+    "text": "琥珀色"
+  },
+  {
+    "namespace": "",
+    "key": "213354AE4A3625A3181072AD8D954B71",
+    "hash": 3371585376,
+    "text": "淡いピンク"
+  },
+  {
+    "namespace": "",
+    "key": "E7D2FCBF4473F9503CAA8AB8DC3D6A02",
+    "hash": 1545780061,
+    "text": "濃い緑"
+  },
+  {
+    "namespace": "",
+    "key": "4D06D44447328955579B539436CB4FF3",
+    "hash": 1774790340,
+    "text": "アイスピンク"
+  },
+  {
+    "namespace": "",
+    "key": "488D484A443443FB7ADC4592E2D1BB3B",
+    "hash": 3793669904,
+    "text": "ヘアカラー"
+  },
+  {
+    "namespace": "",
+    "key": "740D4B2843F5C81D859505AC788DB720",
+    "hash": 3475903819,
+    "text": "アイテム名"
+  },
+  {
+    "namespace": "",
+    "key": "A9A82AC7425AE7C3282936B553EE975D",
+    "hash": 1713862328,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "5BCB2C75427F58E6BB1D3B9A1D7F2369",
+    "hash": 3692724173,
+    "text": "君はいつも安全第一で知られている。逃げ出すにせよ、机の下で震えるにせよ、その守りの姿勢で、たいてい最後まで生き残る。"
+  },
+  {
+    "namespace": "",
+    "key": "51B24510485597C210F909A099807397",
+    "hash": 3421202494,
+    "text": "隠れる速度が25%上昇"
+  },
+  {
+    "namespace": "",
+    "key": "2D378CD646778482327D91A6C55658C3",
+    "hash": 2064026946,
+    "text": "隠れる速度が50%上昇し、隠れるときの音が50%減少"
+  },
+  {
+    "namespace": "",
+    "key": "391D3D9544A9D95C808D94AA4FD4DCED",
+    "hash": 180485003,
+    "text": "隠れる速度が75%上昇し、隠れながらライトを使っても居場所がばれない"
+  },
+  {
+    "namespace": "",
+    "key": "F6AFD1A540E00463F1631DBD2EBFE845",
+    "hash": 1737053370,
+    "text": "隠れる速度が100%上昇し、隠れるときに音が出ない"
+  },
+  {
+    "namespace": "",
+    "key": "49B1B19148BC9909DC9B68AF54343AB4",
+    "hash": 3080819106,
+    "text": "臆病者"
+  },
+  {
+    "namespace": "",
+    "key": "F35CA6A94899813DA0FC7CB6A4E090ED",
+    "hash": 543057891,
+    "text": "次の段階を解放"
+  },
+  {
+    "namespace": "",
+    "key": "CD4136CF45580BEF599A5A9475C10231",
+    "hash": 3080819106,
+    "text": "臆病者"
+  },
+  {
+    "namespace": "",
+    "key": "D45AE4FC485A551ACF99148FBC878BBA",
+    "hash": 2210049449,
+    "text": "君はいつも安全第一で知られている。逃げ出すにせよ、クローゼットで震えるにせよ、その守りの姿勢で、たいてい最後まで生き残る。"
+  },
+  {
+    "namespace": "",
+    "key": "83793DE04C8EB0D90BA3F09AF99281DF",
+    "hash": 430712795,
+    "text": "ランタンの範囲が25%拡大し、怪物に気づかれる確率が25%低下"
+  },
+  {
+    "namespace": "",
+    "key": "B7141CB04EF4217B04F3518B77EC67C0",
+    "hash": 4133372854,
+    "text": "走る速度が25%上昇"
+  },
+  {
+    "namespace": "",
+    "key": "DA308A6242C94C6F18B915B1E88B5A3F",
+    "hash": 180485003,
+    "text": "隠れる速度が75%上昇し、隠れながらライトを使っても居場所がばれない"
+  },
+  {
+    "namespace": "",
+    "key": "17B733A0474EF85A2D5ADF97F0D9705B",
+    "hash": 1737053370,
+    "text": "隠れる速度が100%上昇し、隠れるときに音が出ない"
+  },
+  {
+    "namespace": "",
+    "key": "6C2CBFBD481E0E857D6D378E1E00E8B7",
+    "hash": 1113261637,
+    "text": "侵入者"
+  },
+  {
+    "namespace": "",
+    "key": "23F19E6141DDB52B0269D898A76F18B7",
+    "hash": 1689599567,
+    "text": "君の得意技は、捕まらないこと！長年の不法侵入で、夜の闇に溶け込む影になった。"
+  },
+  {
+    "namespace": "",
+    "key": "06681A38489FE3600CFE46B40B4F1E1D",
+    "hash": 374979244,
+    "text": "しゃがみ移動の速度が50%上昇"
+  },
+  {
+    "namespace": "",
+    "key": "BE0AA3E2425B43FE3E679C8BFA2D4F63",
+    "hash": 3405489046,
+    "text": "しゃがみ移動の速度が50%上昇し、しゃがんだときの隠れやすさが50%向上"
+  },
+  {
+    "namespace": "",
+    "key": "7F33DD9D4A1F34014B7AFC806068B93F",
+    "hash": 492034688,
+    "text": "ライトが気づかれる確率が75%低下"
+  },
+  {
+    "namespace": "",
+    "key": "D38931F246019CA411D5F0818F88EA07",
+    "hash": 1851761758,
+    "text": "しゃがみ移動の速度が100%上昇し、すべての移動と操作の音が75%減少"
+  },
+  {
+    "namespace": "",
+    "key": "F2381F29471A54053E54BA9770A2A66C",
+    "hash": 999342243,
+    "text": "カードカウンター"
+  },
+  {
+    "namespace": "",
+    "key": "4AB98DB449D01BA961248489DBC4C91E",
+    "hash": 3775851279,
+    "text": "君は仲間の中でもリスクを恐れない。確率を味方につけ、どんな状況でも勝ちをつかむ……それとも、ただの無謀なバカか。"
+  },
+  {
+    "namespace": "",
+    "key": "1AF053A1441A6AEEBF6C6BAD807FAF49",
+    "hash": 3374781552,
+    "text": "サイコロを振り、成功すると同じターンにもう一度行動できる。失敗すると次のターンをスキップ。"
+  },
+  {
+    "namespace": "",
+    "key": "C1E2E31046E35E03C4E4C78E76D03445",
+    "hash": 3844064697,
+    "text": "サイコロを振り、数秒間どの怪物にも気づかれなくなる"
+  },
+  {
+    "namespace": "",
+    "key": "25B2DFD644A847C5CF63C8B3B229A37F",
+    "hash": 934600538,
+    "text": "サイコロを振り、近くにいる脅威の輪郭を表示する"
+  },
+  {
+    "namespace": "",
+    "key": "AB96192046B92FB5EB8D3BA475CDFE2C",
+    "hash": 2945409152,
+    "text": "サイコロを振り、そのラウンドの死亡では時計が進まなくなる"
+  },
+  {
+    "namespace": "",
+    "key": "E877D0954B4E6547A29BE7B404CAD3E4",
+    "hash": 1704707682,
+    "text": "過去のプレイヤー"
+  },
+  {
+    "namespace": "",
+    "key": "78BA226A4F1C109E57CF2A81F085F392",
+    "hash": 2287932103,
+    "text": "一度勝ったなら、また勝てる！過去の経験は予測不能な遭遇でも役立つだろう……仲間に足を引っ張られるまでは。"
+  },
+  {
+    "namespace": "",
+    "key": "2231F643488C4CC7A0DEF89E147F09AD",
+    "hash": 2756530078,
+    "text": "追われているときに通った扉を閉めると、怪物を足止めする時間が25%延長"
+  },
+  {
+    "namespace": "",
+    "key": "92A5A1034D2C5CEAE6EA9181E719D579",
+    "hash": 2574884461,
+    "text": "イベントによる弱体効果を受ける確率が50%低下"
+  },
+  {
+    "namespace": "",
+    "key": "2952CBBE40143A56821A2CA21F3424CC",
+    "hash": 3858064778,
+    "text": "たぶん何かカードに関する能力"
+  },
+  {
+    "namespace": "",
+    "key": "20E3F0F1497001DC6EFBAE94289F8A0F",
+    "hash": 270518360,
+    "text": "怪物が近くにいると警告を受ける"
+  },
+  {
+    "namespace": "",
+    "key": "63B1405348C3F20FD532459D40D9F674",
+    "hash": 3719013240,
+    "text": "幸運児"
+  },
+  {
+    "namespace": "",
+    "key": "8BA7EF2640F021F2D65D6F8AB82B85E4",
+    "hash": 1898753264,
+    "text": "何もかも思いどおりなので、悪いことが起きても気づかない。運が味方なら技術も戦略も必要なし！何もしなくても勝てるかもしれない！"
+  },
+  {
+    "namespace": "",
+    "key": "F5488FDE42F8CB457FB628BEC2744C93",
+    "hash": 2976934013,
+    "text": "怪物に見つかるはずの場面でも、25%の確率で気づかれない"
+  },
+  {
+    "namespace": "",
+    "key": "7E63A5BD49A30EE7501204885F38F2F6",
+    "hash": 652542160,
+    "text": "怪物が近くをうろつく確率が25%低下"
+  },
+  {
+    "namespace": "",
+    "key": "40E011CE40AF89C1D2C57B8E91466121",
+    "hash": 2976934013,
+    "text": "怪物に見つかるはずの場面でも、25%の確率で気づかれない"
+  },
+  {
+    "namespace": "",
+    "key": "73EC43D94E5EBD6A4D4375A8B276F1B3",
+    "hash": 1259162294,
+    "text": "第4段階"
+  },
+  {
+    "namespace": "",
+    "key": "C26266EE433AB31309717CAA748C4CA4",
+    "hash": 1318528480,
+    "text": "（近日公開）"
+  },
+  {
+    "namespace": "",
+    "key": "B502F9114FC35685D6373584E5D97540",
+    "hash": 13862096,
+    "text": "背景を選択"
+  },
+  {
+    "namespace": "",
+    "key": "C13EAFCD48AE995EE2D51F84A4BE588B",
+    "hash": 2377535107,
+    "text": "キャラクターの背景"
+  },
+  {
+    "namespace": "",
+    "key": "24698B31476E97D13024B3B14497AC03",
+    "hash": 3326250796,
+    "text": "キャンセル"
+  },
+  {
+    "namespace": "",
+    "key": "453B173843F05167C5E00ABEA96B6D0D",
+    "hash": 46133024,
+    "text": "背景を選択"
+  },
+  {
+    "namespace": "",
+    "key": "A15BDA0D4DC9FC5A09C59C9A7A04FAC7",
+    "hash": 2377535107,
+    "text": "キャラクターの背景"
+  },
+  {
+    "namespace": "",
+    "key": "A09703574151AB812C5924881621C5A7",
+    "hash": 2827009466,
+    "text": "キャラクターを選択"
+  },
+  {
+    "namespace": "",
+    "key": "A80EA3C447770E916177EFB3B7F0CE51",
+    "hash": 748628891,
+    "text": "確定"
+  },
+  {
+    "namespace": "",
+    "key": "B0AB39074A6D3D316DC682BF27241436",
+    "hash": 1875127433,
+    "text": "カラーコンタクト"
+  },
+  {
+    "namespace": "",
+    "key": "2CAE7FE54114E01B8DA7C489CD701762",
+    "hash": 3793669904,
+    "text": "ヘアカラー"
+  },
+  {
+    "namespace": "",
+    "key": "6251404449EA6F2D62389BBAE5CBFEBF",
+    "hash": 230497958,
+    "text": "アクセサリー"
+  },
+  {
+    "namespace": "",
+    "key": "CFB6839343492BD06FECF8B15203D975",
+    "hash": 3189197117,
+    "text": "項目を選択"
+  },
+  {
+    "namespace": "",
+    "key": "BE860B314F4C04294D1ACCBE33FE6B14",
+    "hash": 1161945429,
+    "text": "キャラクターをカスタマイズ"
+  },
+  {
+    "namespace": "",
+    "key": "E7F93B8244F314562CCC7591579CB41A",
+    "hash": 1368542134,
+    "text": "ユーザー名"
+  },
+  {
+    "namespace": "",
+    "key": "CECE12FD41C9C322381A0EAA8FCFABFF",
+    "hash": 3486237825,
+    "text": "肌の色"
+  },
+  {
+    "namespace": "",
+    "key": "A732FC50441F5CA3FEA05297F320894B",
+    "hash": 1234416077,
+    "text": "メイン音楽の音量"
+  },
+  {
+    "namespace": "",
+    "key": "5E7842FE4AB7BF161F509C9F4D1506A9",
+    "hash": 989309687,
+    "text": "環境音の音量"
+  },
+  {
+    "namespace": "",
+    "key": "1641773247F639AFBF4C10878EABA314",
+    "hash": 3887870640,
+    "text": "ゲーム音の音量"
+  },
+  {
+    "namespace": "",
+    "key": "4D553D024217DD98E79F9997F53007F7",
+    "hash": 2429551426,
+    "text": "壁時計の音量"
+  },
+  {
+    "namespace": "",
+    "key": "B17E15404A2F5FA8393642A23CB21094",
+    "hash": 3080215657,
+    "text": "視点の感度"
+  },
+  {
+    "namespace": "",
+    "key": "82115CAA40882B3B03BC84B6F46B56CC",
+    "hash": 3559555135,
+    "text": "左右の視点を反転"
+  },
+  {
+    "namespace": "",
+    "key": "6E55AE05440268B3823F1B8D074D665F",
+    "hash": 1821828954,
+    "text": "上下の視点を反転"
+  },
+  {
+    "namespace": "",
+    "key": "2CE8E3FB449EA938A2F111A61F4941AD",
+    "hash": 3590392946,
+    "text": "ボイス出力"
+  },
+  {
+    "namespace": "",
+    "key": "6A861F47455E8568A18AE397498FBDAB",
+    "hash": 233489091,
+    "text": "プッシュ・トゥ・トーク"
+  },
+  {
+    "namespace": "",
+    "key": "EEC862AF44AB80C1DADD159CC7592AEE",
+    "hash": 1033208181,
+    "text": "ヒントを表示"
+  },
+  {
+    "namespace": "",
+    "key": "D56638BD4EDD6E512DF7968536115018",
+    "hash": 3760871529,
+    "text": "ゲームアイコンを表示"
+  },
+  {
+    "namespace": "",
+    "key": "C557BB5145D67B809DF2FB82085D27A7",
+    "hash": 3765565649,
+    "text": "頭の揺れを有効化"
+  },
+  {
+    "namespace": "",
+    "key": "F8D7FDBC47F187A0AA151383A7C0736D",
+    "hash": 3125826624,
+    "text": "視野角"
+  },
+  {
+    "namespace": "",
+    "key": "95F4B37849215AA1EECF3896B2E79CAF",
+    "hash": 3184008271,
+    "text": "イベント画面効果を有効化"
+  },
+  {
+    "namespace": "",
+    "key": "8B34EE114F1F418564A85A850DC3F39C",
+    "hash": 3295600332,
+    "text": "クモ類を有効化"
+  },
+  {
+    "namespace": "",
+    "key": "B39262494FC325A4415C56BD9CD1F3B4",
+    "hash": 4247496945,
+    "text": "間接照明の品質"
+  },
+  {
+    "namespace": "",
+    "key": "BC4C65904AD38364CE8E57952D861600",
+    "hash": 623339921,
+    "text": "最低"
+  },
+  {
+    "namespace": "",
+    "key": "C058AD9C481B21B10916399EF0BDC506",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "AA363F294F5A4BA51BEF85A8E123C012",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "7BECF7AA42859A9BEFE645A0C496C5BD",
+    "hash": 4270414091,
+    "text": "シェーディングの品質"
+  },
+  {
+    "namespace": "",
+    "key": "0788A4354281F3750E315297D74C169F",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "823CBC9B42F7514524F0FC947FFF4DDE",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "950E3B024760C7BC839BD58F23FEA478",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "B0E97B894E95B600FE2D82BDBA753DBF",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "6A5CFC7F4996DC39EB531FA0A6172196",
+    "hash": 1546316345,
+    "text": "草木の品質"
+  },
+  {
+    "namespace": "",
+    "key": "5105CF34415FCE05B660A284EDEAB702",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "8B221DBC45842CB6C8980BB359597062",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "4800D13D4A926F2CB9FF72988BF22C45",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "FC1C77B2415EF6A4866D588E3E5C03BD",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "F3AD507A48C51FFF41D09FB55B3728A6",
+    "hash": 3681245499,
+    "text": "アンチエイリアス"
+  },
+  {
+    "namespace": "",
+    "key": "F16C40B94E68EE8FE4FC3A9E46F757EF",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "1BF04C3248D82DE71AC2E48CFE65D4DE",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "039DC6724402B9E22F1609AD6CD9EA4F",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "E41109814A9536576D99959EEF5D1273",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "1F165BF546A08AED0E8D548D4A91D340",
+    "hash": 1361802203,
+    "text": "テクスチャの品質"
+  },
+  {
+    "namespace": "",
+    "key": "EB4EE154462D5BDA95965A9314B2BFD0",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "53A06A4B4049C59D29FDDAB00E2D8865",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "F27FF621489B9D6A2CA38EAC3A5A0494",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "BDD6C9014E048EE479A9CFA8ACBD9CB7",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "B0FA5D62425E07D111A44AA747254B39",
+    "hash": 2180126245,
+    "text": "影の品質"
+  },
+  {
+    "namespace": "",
+    "key": "2B06A7804FCC3F7C60AB25BD66C856B1",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "F4543931496ED3E31963EDBD6549A46D",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "E60C2A6E47F533815344698F4945DA9B",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "01B2B1E646387A9B3918E7A93C386CD4",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "075002C343158D0E4DF311BB3D37201F",
+    "hash": 2247549332,
+    "text": "反射の品質"
+  },
+  {
+    "namespace": "",
+    "key": "06E7B38C40E8AB05AFCE168CF7F8035E",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "16EC8C644D5CE5D025EB2FB0C4AFBBD3",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "E14E8A5A4B088C3CC2280989D359685F",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "7630B07C450DC337BD70AE8F5BA0131E",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "E3231333491BD76E417FE483A8FF466A",
+    "hash": 4213034052,
+    "text": "エフェクトの品質"
+  },
+  {
+    "namespace": "",
+    "key": "A79F67744ABF47C8E36A27A0CAABFFBF",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "0E4EDCDC405926770BE3699F6E7A2E6A",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "45BE15FB43633237FDFD079144C71554",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "871D64A3444EDAB7E3790EA53A21E7F4",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "BA3269904B9D18A117CC7FAA2F1D04AE",
+    "hash": 2394945163,
+    "text": "パーティクルの品質"
+  },
+  {
+    "namespace": "",
+    "key": "84CC00E24B23200CDA247A9E513F00A0",
+    "hash": 2979993132,
+    "text": "低"
+  },
+  {
+    "namespace": "",
+    "key": "CC3B6E714C7BB30E2210618D69D8B7AE",
+    "hash": 3469406434,
+    "text": "中"
+  },
+  {
+    "namespace": "",
+    "key": "044D4BEB47673F9277A9FAB04F8F65E2",
+    "hash": 546374199,
+    "text": "高"
+  },
+  {
+    "namespace": "",
+    "key": "172257284137C36A1116629EC75AC81D",
+    "hash": 2479842271,
+    "text": "最高"
+  },
+  {
+    "namespace": "",
+    "key": "248E6F0E4F47C850B32A45BB7402C522",
+    "hash": 722460428,
+    "text": "モーションブラー"
+  },
+  {
+    "namespace": "",
+    "key": "E582F416403CE82164B24CBBDED26915",
+    "hash": 650789851,
+    "text": "前に移動"
+  },
+  {
+    "namespace": "",
+    "key": "89F6A5274B35D9C39A2A1599E70ECFD9",
+    "hash": 2629952239,
+    "text": "後ろに移動"
+  },
+  {
+    "namespace": "",
+    "key": "90D4E3E94C6E5CF4A5DB24A550BC218E",
+    "hash": 872775331,
+    "text": "左に移動"
+  },
+  {
+    "namespace": "",
+    "key": "9B88766349A539610675A19D4C8E6846",
+    "hash": 1992704023,
+    "text": "右に移動"
+  },
+  {
+    "namespace": "",
+    "key": "64F0D1354AB8FD23010DAA98530B6538",
+    "hash": 2060996366,
+    "text": "左を向く"
+  },
+  {
+    "namespace": "",
+    "key": "3975100047C8D363A3A602AE7C2661E4",
+    "hash": 1235016109,
+    "text": "右を向く"
+  },
+  {
+    "namespace": "",
+    "key": "6C6B9CB84AD2D4133D9499B73158AA48",
+    "hash": 2208400371,
+    "text": "上を見る"
+  },
+  {
+    "namespace": "",
+    "key": "42337A7A49A2D343344CE6BBCEB7FC19",
+    "hash": 3264344477,
+    "text": "下を見る"
+  },
+  {
+    "namespace": "",
+    "key": "6C9AAA634066A71776F3B6A1B1C0655D",
+    "hash": 2712401945,
+    "text": "走る"
+  },
+  {
+    "namespace": "",
+    "key": "F1EE26224503C9819042209135221537",
+    "hash": 1941688548,
+    "text": "しゃがむ"
+  },
+  {
+    "namespace": "",
+    "key": "4AE4A8A042791DA6E4936EA15BD62BD6",
+    "hash": 2829361291,
+    "text": "左にのぞく"
+  },
+  {
+    "namespace": "",
+    "key": "2D28580841A0E8D31355DAAA65A011B8",
+    "hash": 3673328955,
+    "text": "右にのぞく"
+  },
+  {
+    "namespace": "",
+    "key": "90ABF5334436189E2A97E8910A9C21F4",
+    "hash": 3063103120,
+    "text": "操作"
+  },
+  {
+    "namespace": "",
+    "key": "7B9203BD40AE144012FBE3BF42B7FC5A",
+    "hash": 3235292747,
+    "text": "サブ操作"
+  },
+  {
+    "namespace": "",
+    "key": "A4EFCAFA4D7AEFF70A69FA9BA4FD6DEE",
+    "hash": 1971026849,
+    "text": "タスクを終了"
+  },
+  {
+    "namespace": "",
+    "key": "BCF1B215413217E859C1A8A1C31736FF",
+    "hash": 126747900,
+    "text": "ランタン"
+  },
+  {
+    "namespace": "",
+    "key": "887013F0462D777C8EB28A84A3B9B3F2",
+    "hash": 127456116,
+    "text": "テキストチャット"
+  },
+  {
+    "namespace": "",
+    "key": "8190EF9647161CE8DA44D484B2345982",
+    "hash": 235147558,
+    "text": "ボイス"
+  },
+  {
+    "namespace": "",
+    "key": "26D88D8A4F7F81C5C307969926DAFF37",
+    "hash": 453839883,
+    "text": "ターンを開始"
+  },
+  {
+    "namespace": "",
+    "key": "B3A45E274CF379A0E71F9DBA1FD685F6",
+    "hash": 355751610,
+    "text": "テーブル視点を拡大"
+  },
+  {
+    "namespace": "",
+    "key": "AA281BDC4DABEB616EE4C4A97E35DC72",
+    "hash": 3355216810,
+    "text": "テーブル視点を縮小"
+  },
+  {
+    "namespace": "",
+    "key": "C38CE7BF4AEFBB8F1C502F909A5520FC",
+    "hash": 2326671720,
+    "text": "カードを回転"
+  },
+  {
+    "namespace": "",
+    "key": "BF638AF845195E577C5938B0D22595D6",
+    "hash": 3078575027,
+    "text": "ゲームマニュアル"
+  },
+  {
+    "namespace": "",
+    "key": "F6D556624169DFF2C094CCB9B470E7DB",
+    "hash": 3348170794,
+    "text": "道具袋"
+  },
+  {
+    "namespace": "",
+    "key": "98BF13C246E2D3CF81754CAC60145BB7",
+    "hash": 4174992090,
+    "text": "画面"
+  },
+  {
+    "namespace": "",
+    "key": "2D688F4E4496B17F852683837B4A9222",
+    "hash": 3830667991,
+    "text": "ウィンドウモード"
+  },
+  {
+    "namespace": "",
+    "key": "D5846D204A18CBD10E52F7A70C6CF39B",
+    "hash": 2392612424,
+    "text": "ウィンドウ"
+  },
+  {
+    "namespace": "",
+    "key": "63B9A563481AF19EDDD801A43338D62F",
+    "hash": 1516310970,
+    "text": "ボーダーレス"
+  },
+  {
+    "namespace": "",
+    "key": "5C65698640D9DDE1B2C5ADBFA1E7D159",
+    "hash": 3866659450,
+    "text": "フルスクリーン"
+  },
+  {
+    "namespace": "",
+    "key": "F49CA9944B13ACAAE99328A07BE2C561",
+    "hash": 1149750299,
+    "text": "描画解像度の割合"
+  },
+  {
+    "namespace": "",
+    "key": "9F30491946F98E4CDA7147AD19A3A659",
+    "hash": 2819295149,
+    "text": "最大FPS"
+  },
+  {
+    "namespace": "",
+    "key": "9942BF5D485A2CF5623B159444C5C73F",
+    "hash": 1565145255,
+    "text": "無制限"
+  },
+  {
+    "namespace": "",
+    "key": "C5BCF82C4FD19CE64B7FB298E8874A55",
+    "hash": 1382442697,
+    "text": "垂直同期"
+  },
+  {
+    "namespace": "",
+    "key": "D551285646B533E65761328E9610CA1D",
+    "hash": 993004874,
+    "text": "色覚補助モード"
+  },
+  {
+    "namespace": "",
+    "key": "50A234724812CE14DA29E7A2964C1AB8",
+    "hash": 1897401797,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "CF22DE2C4298250FB1CD06A4B39B052B",
+    "hash": 1197957118,
+    "text": "緑色覚補助"
+  },
+  {
+    "namespace": "",
+    "key": "8F6C02DA4EB8A8205E843DB9596C8A1A",
+    "hash": 3885277096,
+    "text": "赤色覚補助"
+  },
+  {
+    "namespace": "",
+    "key": "7BAA370D462729FF327942BCCAB4026C",
+    "hash": 3665348977,
+    "text": "青色覚補助"
+  },
+  {
+    "namespace": "",
+    "key": "80EDB4AE4803CCC3BDC206A310177E0D",
+    "hash": 1021265590,
+    "text": "色覚補助の強度"
+  },
+  {
+    "namespace": "",
+    "key": "2FBD94504AE3DF4BD6A40DB6BF0AA35A",
+    "hash": 151724115,
+    "text": "一般"
+  },
+  {
+    "namespace": "",
+    "key": "65217C904193DA7C36F987BFA28E6677",
+    "hash": 3879800741,
+    "text": "マルチプレイ"
+  },
+  {
+    "namespace": "",
+    "key": "F8E034C54EFF0C2AA1768A8B5B21C3CA",
+    "hash": 4294280328,
+    "text": "操作"
+  },
+  {
+    "namespace": "",
+    "key": "8CE73A224850992E1BF4F8A5A8793545",
+    "hash": 3728534032,
+    "text": "マイクの再生テスト"
+  },
+  {
+    "namespace": "",
+    "key": "3EB09AD149AC5769F3F45AADD6E31601",
+    "hash": 151724115,
+    "text": "一般"
+  },
+  {
+    "namespace": "",
+    "key": "751F17724751B74CAAA01885EFFE780A",
+    "hash": 2951698267,
+    "text": "操作を初期化"
+  },
+  {
+    "namespace": "",
+    "key": "77C5671E48E0EB20587E14B290BA55E1",
+    "hash": 3651462461,
+    "text": "画質"
+  },
+  {
+    "namespace": "",
+    "key": "45F284D448DCE59D8C4497AB00566640",
+    "hash": 1793626319,
+    "text": "映像"
+  },
+  {
+    "namespace": "",
+    "key": "AAFC1DFE47D30667191832A65477BE82",
+    "hash": 3809884399,
+    "text": "画質"
+  },
+  {
+    "namespace": "",
+    "key": "4B023F1F4EE1956946D4C9BF3204E1B7",
+    "hash": 1774339110,
+    "text": "日本語（非公式パッチ）"
+  },
+  {
+    "namespace": "",
+    "key": "889B531440AADEFC29B252A453152E2F",
+    "hash": 772830548,
+    "text": "セーブを削除"
+  },
+  {
+    "namespace": "",
+    "key": "97CFFF9140E2130E0B70D1A25CF8A796",
+    "hash": 1731999083,
+    "text": "音声"
+  },
+  {
+    "namespace": "",
+    "key": "7282B12F4B131D562EA44295DFDB1144",
+    "hash": 2866742811,
+    "text": "ゲーム設定"
+  },
+  {
+    "namespace": "",
+    "key": "7A1332B948831117BCAEF68D8B009288",
+    "hash": 803813593,
+    "text": "適用"
+  },
+  {
+    "namespace": "",
+    "key": "4FC900864D120924F41563824EF10026",
+    "hash": 3326250796,
+    "text": "キャンセル"
+  },
+  {
+    "namespace": "",
+    "key": "3203142B4FE99BA209D674A038703227",
+    "hash": 1486462369,
+    "text": "解像度"
+  },
+  {
+    "namespace": "",
+    "key": "C92B6B85452C2F1D7AB5E5B612DDB2D1",
+    "hash": 1441394293,
+    "text": "前へ"
+  },
+  {
+    "namespace": "",
+    "key": "31FA49AA4D1B30243A7F7E84D60BC108",
+    "hash": 1486462369,
+    "text": "解像度"
+  },
+  {
+    "namespace": "",
+    "key": "777D691449E61103B6BF37AFC3CB25B0",
+    "hash": 1486462369,
+    "text": "解像度"
+  },
+  {
+    "namespace": "",
+    "key": "5EEB62384A50D945AD59E185FC3CFEF3",
+    "hash": 296049798,
+    "text": "プレイヤー名"
+  },
+  {
+    "namespace": "",
+    "key": "867A655B40DA2F2AF2BDB7B8FD7A7F8C",
+    "hash": 1710889518,
+    "text": "閉じる"
+  },
+  {
+    "namespace": "",
+    "key": "06867E5141022439F858F9A0FC9C2C37",
+    "hash": 1830760341,
+    "text": "参加中……"
+  },
+  {
+    "namespace": "",
+    "key": "874AAF924C47CBC2AEE5399E875335A1",
+    "hash": 1710889518,
+    "text": "閉じる"
+  },
+  {
+    "namespace": "",
+    "key": "EDB3C92E4170E10A842B3784F32353BC",
+    "hash": 3125290581,
+    "text": "ホストがロビーを退出したか、キックされました。"
+  },
+  {
+    "namespace": "",
+    "key": "810F362F4CB14616AED0FD84EBFB37C0",
+    "hash": 2212190390,
+    "text": "接続が切れました"
+  },
+  {
+    "namespace": "",
+    "key": "4E3DDD52481AFAAFA477CFBCB3E4C5B5",
+    "hash": 195855522,
+    "text": "コピー"
+  },
+  {
+    "namespace": "",
+    "key": "0C80CB1849E5C143D5C7AD888DD29165",
+    "hash": 2688428540,
+    "text": "再生成"
+  },
+  {
+    "namespace": "",
+    "key": "FD74E49F44D13810C00F4F9BB3238F9E",
+    "hash": 3696690951,
+    "text": "表示"
+  },
+  {
+    "namespace": "",
+    "key": "EE089B2E44B6A41C3415E089AE6AD1A7",
+    "hash": 3669664579,
+    "text": "Twisted Corridorのロビー"
+  },
+  {
+    "namespace": "",
+    "key": "E971B6184E5D8379715BE7B0BE77E78D",
+    "hash": 460700691,
+    "text": "ロビー名"
+  },
+  {
+    "namespace": "",
+    "key": "74991DE64778EB6C13897D9A226EC87F",
+    "hash": 201481380,
+    "text": "作成"
+  },
+  {
+    "namespace": "",
+    "key": "6D4F6F2449EA7AE4335C9689C5CE7A4F",
+    "hash": 3036729641,
+    "text": "招待コード"
+  },
+  {
+    "namespace": "",
+    "key": "E70AED4244A37CF8BBA3DCBFAE51F5F2",
+    "hash": 2894974539,
+    "text": "パスワード"
+  },
+  {
+    "namespace": "",
+    "key": "A80844004875707CC2560CB1EE9E85C0",
+    "hash": 2601611781,
+    "text": "（任意）"
+  },
+  {
+    "namespace": "",
+    "key": "6C0E42AB488E3890FBF4E990739429FF",
+    "hash": 2506510565,
+    "text": "公開"
+  },
+  {
+    "namespace": "",
+    "key": "E90EA6094829CA6F85B09F9C8B4D1C03",
+    "hash": 1928301068,
+    "text": "非公開"
+  },
+  {
+    "namespace": "",
+    "key": "E3ED67CC474E78881C4775A4719187F0",
+    "hash": 1056294611,
+    "text": "ロビー名"
+  },
+  {
+    "namespace": "",
+    "key": "9D4D2A544B0FB91CD46FE8842720676E",
+    "hash": 3493908835,
+    "text": "LAN"
+  },
+  {
+    "namespace": "",
+    "key": "BAD825D14CF42344E17C348AB848ABE5",
+    "hash": 1900078080,
+    "text": "最大人数"
+  },
+  {
+    "namespace": "",
+    "key": "859281CA49DB832C365411B6848D9B8A",
+    "hash": 984419164,
+    "text": "ホスト"
+  },
+  {
+    "namespace": "",
+    "key": "AA8B0DF14D54CD3463F6618473170601",
+    "hash": 1710889518,
+    "text": "閉じる"
+  },
+  {
+    "namespace": "",
+    "key": "4024B3444A8D1C12EB8EAAA7B46931D6",
+    "hash": 721286739,
+    "text": "ホストのゲームバージョンが異なります。"
+  },
+  {
+    "namespace": "",
+    "key": "872BE3474235209568CBC580CD3F6CEC",
+    "hash": 2593431830,
+    "text": "バージョン不一致"
+  },
+  {
+    "namespace": "",
+    "key": "16FC7D3449395116B6FD028793C5F0FF",
+    "hash": 3015709604,
+    "text": "参加に失敗"
+  },
+  {
+    "namespace": "",
+    "key": "8BD5F1EE4575D029EA5D2F8776527BE1",
+    "hash": 1281098575,
+    "text": "プレイヤーを待機中"
+  },
+  {
+    "namespace": "",
+    "key": "133312924DD0A6B47FEFBAAC2CB87695",
+    "hash": 3876153790,
+    "text": "ロード中……"
+  },
+  {
+    "namespace": "",
+    "key": "E337F3DF45C2D4E7D86F658F6BFB189B",
+    "hash": 989087735,
+    "text": "貼り付け"
+  },
+  {
+    "namespace": "",
+    "key": "2009836143795D1DFAA3AE8AF4F8CF5D",
+    "hash": 4272760873,
+    "text": "コード"
+  },
+  {
+    "namespace": "",
+    "key": "31DD5D3943A5E33C6B773F9805716F7B",
+    "hash": 1752847963,
+    "text": "ゲームを検索"
+  },
+  {
+    "namespace": "",
+    "key": "DA4B73F24F653A155C82B89C634E0E7F",
+    "hash": 3394134250,
+    "text": "公開ロビーが見つかりません"
+  },
+  {
+    "namespace": "",
+    "key": "C37AD03D4CA04CC79D8CC591B1653471",
+    "hash": 1827728993,
+    "text": "更新"
+  },
+  {
+    "namespace": "",
+    "key": "2F99F0664C0E43F376550FB186135132",
+    "hash": 3493908835,
+    "text": "LAN"
+  },
+  {
+    "namespace": "",
+    "key": "4EA5260F49B0A92B10891785A8B8ECCA",
+    "hash": 1876079655,
+    "text": "参加"
+  },
+  {
+    "namespace": "",
+    "key": "9D43927244018E09E13A4D8A8D1C04F8",
+    "hash": 2894974539,
+    "text": "パスワード"
+  },
+  {
+    "namespace": "",
+    "key": "F53909314D4EA8C005F8B49C97AB6E90",
+    "hash": 1876079655,
+    "text": "参加"
+  },
+  {
+    "namespace": "",
+    "key": "A8232A2D490D979582B9A484C89A1D90",
+    "hash": 3326250796,
+    "text": "キャンセル"
+  },
+  {
+    "namespace": "",
+    "key": "5CE60698476383DECA902E9CF3B860E8",
+    "hash": 3669664579,
+    "text": "Twisted Corridorのロビー"
+  },
+  {
+    "namespace": "",
+    "key": "600C6D6242866FCC25158FB9E33F41AB",
+    "hash": 2220971035,
+    "text": "部屋カードを置くときは、これ以上部屋を置けなくなる配置にしないよう注意しよう！"
+  },
+  {
+    "namespace": "",
+    "key": "40F166784F5ADF57CA51479FAE4FACC7",
+    "hash": 3349555317,
+    "text": "できるだけ詳しく説明してください。"
+  },
+  {
+    "namespace": "",
+    "key": "02AAF8044C45AEB617A43E970EFE6CC0",
+    "hash": 3326250796,
+    "text": "キャンセル"
+  },
+  {
+    "namespace": "",
+    "key": "432355B147706A437DE711B7140CD96C",
+    "hash": 3137765316,
+    "text": "不具合を送信"
+  },
+  {
+    "namespace": "",
+    "key": "1F0744454C0FE5B1F0762DB7EB48F2A7",
+    "hash": 1247405578,
+    "text": "この不具合はマルチプレイ中に発生しましたか？"
+  },
+  {
+    "namespace": "",
+    "key": "02312B2946D078FACDD11189627151A4",
+    "hash": 2996252671,
+    "text": "バグ報告"
+  },
+  {
+    "namespace": "",
+    "key": "3A0A44DF45244935D77E75BF11FA509D",
+    "hash": 599252135,
+    "text": "はい"
+  },
+  {
+    "namespace": "",
+    "key": "04FC8FDE424609B3ACB6809AB5E1D1BA",
+    "hash": 3271985845,
+    "text": "いいえ"
+  },
+  {
+    "namespace": "",
+    "key": "069CF88140DB1550804837B59EB0872A",
+    "hash": 3530369639,
+    "text": "不具合を送信中"
+  },
+  {
+    "namespace": "",
+    "key": "F85EB236455F6EAB6F15B2AC3DC561B6",
+    "hash": 1806409283,
+    "text": "あなたがホストでしたか？"
+  },
+  {
+    "namespace": "",
+    "key": "F995DAA448BA3771A73B44BFD97A16FF",
+    "hash": 967464428,
+    "text": "ここに報告内容を入力："
+  },
+  {
+    "namespace": "",
+    "key": "F83D699A45FD423F9881258EA27CB3BD",
+    "hash": 3240177835,
+    "text": "ありがとうございます！"
+  },
+  {
+    "namespace": "",
+    "key": "0E1E573649B90A52DCB41FA5151F2FB8",
+    "hash": 2521324247,
+    "text": "絵画の使用許可に感謝"
+  },
+  {
+    "namespace": "",
+    "key": "B62B86D2466C676AE611CE88188E375A",
+    "hash": 3485681982,
+    "text": "スペシャルサンクス……"
+  },
+  {
+    "namespace": "",
+    "key": "E32A232040E294A77E8FF3922BB505BF",
+    "hash": 652747480,
+    "text": "Steamストアの宣伝イラスト"
+  },
+  {
+    "namespace": "",
+    "key": "156F951C47D48C42EF8C8CB5588B5CB9",
+    "hash": 4089968293,
+    "text": "イントロのラジオ音声とゲーム予告編のナレーション"
+  },
+  {
+    "namespace": "",
+    "key": "ED214C9344FC3EFB66E33AA9A6FC3F0A",
+    "hash": 1710889518,
+    "text": "閉じる"
+  },
+  {
+    "namespace": "",
+    "key": "968FA1D74556FB0312E5BCB2B0CB6D25",
+    "hash": 1928909201,
+    "text": "メニューに戻ったときの背景音楽\r\n（その他、さまざまな効果音や環境音も）"
+  },
+  {
+    "namespace": "",
+    "key": "2505BD53414BBBAA18EAFFAE645AE3A4",
+    "hash": 129527210,
+    "text": "記載漏れがありますか？\r\nDiscordまたは twistedcorridorgames@gmail.com までご連絡ください"
+  },
+  {
+    "namespace": "",
+    "key": "DCE49FD04088DA11036A7697A3774502",
+    "hash": 646598519,
+    "text": "『The Cabin Game』には点滅や強い光の演出が含まれます。"
+  },
+  {
+    "namespace": "",
+    "key": "B1FF7E304FAAA14C0B35039628CADD1F",
+    "hash": 903906530,
+    "text": "光の点滅に関する注意"
+  },
+  {
+    "namespace": "",
+    "key": "C220A6C34391484F4F97389BE5F0EADA",
+    "hash": 1897401797,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "5E6D26014996B3372E2B4292BD798A37",
+    "hash": 1897401797,
+    "text": "なし"
+  },
+  {
+    "namespace": "",
+    "key": "DA3A7BF343EF20E71ECD5FB12C4583B6",
+    "hash": 3635751401,
+    "text": "基本"
+  }
+]

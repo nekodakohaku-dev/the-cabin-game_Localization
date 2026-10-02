@@ -1,0 +1,95 @@
+{
+  "version": "0.1.1",
+  "language": "ja",
+  "languageName": "日本語",
+  "patchFileName": "the_cabin_game-ja_P.pak",
+  "additionalCultures": [
+    "ja"
+  ],
+  "translationCount": 666,
+  "originalFiles": [
+    {
+      "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.pak",
+      "sha256": "c39d617d00e8e6c5e9c6d4240bcf58d83d45d47108defd4cb89255d78b33f8a3"
+    },
+    {
+      "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.utoc",
+      "sha256": "ff3864d8326fc306f8a09108428cc67b6988d64ca403ddb32b48a98ed1beab95"
+    }
+  ],
+  "originalLocresSha256": "bdeef38d4aca326ddd01c7a228ec340d09efa2b1182dc88ad5552c7664f424b9",
+  "expectedMergedLocresSha256": "b3fa48eb1fd4eef162949a72939ff386a61de30da656518d065770f47f1c429e",
+  "fontPaths": [
+    "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/1942.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/Carnevalee_Freakshow.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/FairyDustB.ufont",
+    "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/veteran_typewriter.ufont",
+    "the_cabin_game/Content/Cabin_Lobby_Content/Decorations/BRADHITC.ufont",
+    "the_cabin_game/Content/Cabin_Lobby_Content/Decorations/hapole_pencil.ufont",
+    "the_cabin_game/Content/MenuContent/Widgets/Achafexp.ufont",
+    "the_cabin_game/Content/MenuContent/Widgets/Achafont.ufont"
+  ],
+  "payloadFiles": [
+    {
+      "path": "Install.cmd",
+      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
+    },
+    {
+      "path": "Uninstall.cmd",
+      "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
+    },
+    {
+      "path": "data/CabinFont.ttf",
+      "sha256": "19ed8b886ce3cbf9ff4d1e4e4fb2352812e35be2b9645eda2af1e3808af82485"
+    },
+    {
+      "path": "data/translations.json",
+      "sha256": "cbef30b95dc2a5cd26fd0f5382cc16e1e27d1578075bcd5df8f496e8217b476e"
+    },
+    {
+      "path": "licenses/NotoSansJP-OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "licenses/repak-LICENSE-APACHE.txt",
+      "sha256": "20fe7b00e904ed690e3b9fd6073784d3fc428141dbd10b81c01fd143d0797f58"
+    },
+    {
+      "path": "licenses/repak-LICENSE-MIT.txt",
+      "sha256": "a5d6edefbaef9f29630341b86722c4039844b7b520d79b1a3bfd6b87cab62db6"
+    },
+    {
+      "path": "scripts/ResourceTools.cs",
+      "sha256": "f6326f012fcc1cc65a213386360843cd0a541905d447b639090f6fe9c9c73d06"
+    },
+    {
+      "path": "scripts/install.ps1",
+      "sha256": "3e0b181e8ce3d2e0aebacd2123fba36b4c456e7d933f8adbc4fea03be13eeb06"
+    },
+    {
+      "path": "scripts/uninstall.ps1",
+      "sha256": "9c4d1c41e243b256860ada174e64019fdf61382487cbc80047b12fc50d0efa3f"
+    },
+    {
+      "path": "tools/repak.exe",
+      "sha256": "fcd538e5994b9bb833622d425ae346f4e0692f02d4b0025114a559f9b6286022"
+    },
+    {
+      "path": "お読みください.txt",
+      "sha256": "358928aafb7ca4a07a575bb0bdd00b10c58f9b3c1c5b06b0dddbbebc2dc96544"
+    },
+    {
+      "path": "アンインストール.cmd",
+      "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
+    },
+    {
+      "path": "日本語化をインストール.cmd",
+      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
+    },
+    {
+      "path": "更新履歴.txt",
+      "sha256": "9789b88eeee3425f0ca5928ce46ad194a120d28e91403d73d90981820b6422a1"
+    }
+  ]
+}
