@@ -7,14 +7,23 @@ This project is an **unofficial localization patch for The Cabin Game**, availab
 ### Installation / Updating
 
 1. Download the ZIP for your preferred language from this project's **Releases**. Close the game completely and extract the entire ZIP.
-2. Run `Install.cmd` and select **the folder containing `the_cabin_game.exe`**. The first installation may require an internet connection.
-3. Launch the game through Steam as usual and check that text displays correctly.
+2. Run `Install.cmd`. It automatically searches for the game's Steam installation. The first installation may require an internet connection.
+3. If automatic detection fails, enter the path to **the folder containing `the_cabin_game.exe`** when prompted. Find it in Steam by right-clicking the game → Manage → Browse local files.
+4. Once installation is complete, launch the game through Steam as usual and check that text displays correctly.
 
-To update or switch languages, close the game and run `Install.cmd` from the new package. Run `Uninstall.cmd` to restore the original English text. If a game update causes text or startup problems, uninstall the patch and wait for a compatible release.
+To update or switch languages, close the game and run `Install.cmd` from the new package.
+
+### Uninstalling the Patch
+
+1. Close the game completely and run `Uninstall.cmd` from the extracted folder.
+2. It automatically searches for the game. If detection fails, enter the same game folder path used during installation.
+3. Once the patch has been disabled, restart the game through Steam to restore the original English text.
+
+Disabled language patches are moved to `zhTW-backups` in the game folder. Original game packages and save data are not modified. If a game update causes text or startup problems, uninstall the patch and wait for a compatible release.
 
 ### Reporting Issues
 
-Please report bugs, untranslated text, awkward wording, or layout problems through this project's **Issues** page. If a Steam discussion thread for this patch has been published, you can also report problems there.
+Please report bugs, untranslated text, awkward wording, or layout problems through this project's **Issues** page. You can also report problems in the Steam discussion thread for this patch.
 
 Please include your language, patch and game versions, the scene or steps that caused the problem, and the original text or a screenshot where possible. For installation failures, include the error message shown in the installer window. Check and redact personal paths or other private information before posting.
 
