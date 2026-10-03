@@ -10,7 +10,7 @@
 執行 `python tools/build_release.py` 後，在 Releases → Draft a new release 建立發行版。
 填寫新 tag（例如 `localization-2026-10-02`）、標題與更新紀錄，上傳 `dist/` 的三份 ZIP 及三份 `.sha256.txt`。
 說明支援資源版本、安裝步驟、首次網路需求、已知問題與測試範圍。玩家下載對應語言 ZIP。
-也可使用已提供的 release 資料夾中繁中 0.2.3、簡中 0.1.0、日文 0.1.1 的六份檔案。
+目前三種語言皆為 0.1.2。也可直接上傳 `release` 資料夾中檔名包含 `v0.1.2` 的三份 ZIP 及三份 `.sha256.txt`。
 
 ## 不要上傳
 

@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
+  "version": "0.1.2",
   "language": "zhTW",
   "languageName": "繁體中文",
   "patchFileName": "the_cabin_game-zhTW_P.pak",
@@ -8,7 +8,7 @@
     "zh-Hant",
     "zh-TW"
   ],
-  "translationCount": 666,
+  "translationCount": 991,
   "originalFiles": [
     {
       "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.pak",
@@ -17,10 +17,14 @@
     {
       "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.utoc",
       "sha256": "ff3864d8326fc306f8a09108428cc67b6988d64ca403ddb32b48a98ed1beab95"
+    },
+    {
+      "path": "the_cabin_game/Content/Paks/global.utoc",
+      "sha256": "23e6934227425c6f0d2436a4ce2637e5c40fb6f20d0ff6303f35f5d8e4ca04cc"
     }
   ],
   "originalLocresSha256": "bdeef38d4aca326ddd01c7a228ec340d09efa2b1182dc88ad5552c7664f424b9",
-  "expectedMergedLocresSha256": "49128cd483282abc529076c02851368d3ae85f09059ea3bcf0a897d99e9fb2f3",
+  "expectedMergedLocresSha256": "643888e76da563659423e5dcd0f89a05ea293b8c8c409540997d499b511e5c15",
   "fontPaths": [
     "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
     "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/1942.ufont",
@@ -34,20 +38,24 @@
   ],
   "payloadFiles": [
     {
-      "path": "Install.cmd",
-      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
-    },
-    {
-      "path": "Uninstall.cmd",
-      "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
+      "path": "data/Achafont50.ttf",
+      "sha256": "15e43bb594a62fdd427d6f8205de510cc53f06160d631c51c67b634de162a0ed"
     },
     {
       "path": "data/CabinFont.ttf",
-      "sha256": "a2680234897d7072de09188fa9fa616092df3232c7f1c8f5f6f829d0cf78abff"
+      "sha256": "4fa4d8a2131a560bf5826eb471217f6395d983aca8c1751fee26e9618c89be88"
+    },
+    {
+      "path": "data/layout-delta.json",
+      "sha256": "05828580440513948f0745d98f49b9b82454af807465d023a32e134c636c01d1"
     },
     {
       "path": "data/translations.json",
-      "sha256": "30ab98543ab55fc26999b48cf650a67ffab7f14829893666e63f4262878a849d"
+      "sha256": "ca5fd376ed8eb02ed4c77280fb92087b72ff72ea1791828de86dd94c51b03e3b"
+    },
+    {
+      "path": "Install.cmd",
+      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
     },
     {
       "path": "licenses/NotoSansTC-OFL.txt",
@@ -62,35 +70,43 @@
       "sha256": "a5d6edefbaef9f29630341b86722c4039844b7b520d79b1a3bfd6b87cab62db6"
     },
     {
+      "path": "licenses/retoc-LICENSE-MIT.txt",
+      "sha256": "047220d71910580f08051543a363dafb2669319ffab6bdbd0fb19733541020bc"
+    },
+    {
+      "path": "scripts/DownloadRuntime.ps1",
+      "sha256": "a0ff6ee514d1eb87eae92ac7a373ba711fd5b516e9cf81c5616ac7d9c4626ad9"
+    },
+    {
+      "path": "scripts/GamePath.ps1",
+      "sha256": "f0a75847be00c6619e68926a21c6375cff3bb53a20d7d40ff1ffd9736165eb0a"
+    },
+    {
+      "path": "scripts/install.ps1",
+      "sha256": "529c7e8a215024b6b673b4eba68ec392a705392079d6e86cf8efbf5fa5c5f9fa"
+    },
+    {
+      "path": "scripts/LayoutPatch.ps1",
+      "sha256": "10239ab30c6b063e0d14c6c3470d39d9589b87dbaa093d957ffa3d774ce35a89"
+    },
+    {
       "path": "scripts/ResourceTools.cs",
       "sha256": "f6326f012fcc1cc65a213386360843cd0a541905d447b639090f6fe9c9c73d06"
     },
     {
-      "path": "scripts/install.ps1",
-      "sha256": "12f583a65dbe3c12ffc9f403708f465e3a1df1793465193e78e0359df00661b2"
-    },
-    {
       "path": "scripts/uninstall.ps1",
-      "sha256": "bbafc07dd2f3796c22dac8c9de847d78e813ef39d345140f2100d6836dd208e4"
+      "sha256": "5870012cbe893db6cdd4b213fb968ab920de706631296200fd544fc3fe6e1c28"
     },
     {
       "path": "tools/repak.exe",
       "sha256": "fcd538e5994b9bb833622d425ae346f4e0692f02d4b0025114a559f9b6286022"
     },
     {
-      "path": "使用說明.txt",
-      "sha256": "6f350170d3bee466656917f124d4b22db630440f5073ebb363a85f3a7846bde7"
+      "path": "tools/retoc.exe",
+      "sha256": "a145f3557ec60b163ed1b78b2f380232d2753fa30350c8013c98e171db3ae7e7"
     },
     {
-      "path": "安裝繁體中文.cmd",
-      "sha256": "95c2fd1d5696586253418eb5c24558ba6d40d7ad3191a189abc3ec6145e0e95d"
-    },
-    {
-      "path": "更新紀錄.txt",
-      "sha256": "1e3dc1b8d5dd12b86119c0ec2ddb46d42a6327c1eeede887f35f0c0a99b1223e"
-    },
-    {
-      "path": "解除安裝.cmd",
+      "path": "Uninstall.cmd",
       "sha256": "9d724d49586b57581344ea8f3da4d572a212f6d2789fed9a5fd9e009443fedb2"
     }
   ]

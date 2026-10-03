@@ -3994,5 +3994,1955 @@
     "key": "DA3A7BF343EF20E71ECD5FB12C4583B6",
     "hash": 3635751401,
     "text": "基本"
+  },
+  {
+    "namespace": "",
+    "key": "3F6501E847861D525A5EBC9694A68B57",
+    "hash": 3648252419,
+    "text": "未知玩家"
+  },
+  {
+    "namespace": "",
+    "key": "DB22D79744FE042BF36B6D9473B53F3A",
+    "hash": 161664534,
+    "text": "目前的大厅已满"
+  },
+  {
+    "namespace": "",
+    "key": "C059FF8A45CC28FE53D84CA0969BBA68",
+    "hash": 1880849603,
+    "text": "网络驱动程序已存在"
+  },
+  {
+    "namespace": "",
+    "key": "E69B99B04C2DDAF6992560B85C4AC102",
+    "hash": 2142820249,
+    "text": "你已被踢出大厅"
+  },
+  {
+    "namespace": "",
+    "key": "136829C74C43860A9C3D4FA240A7DC55",
+    "hash": 2246122723,
+    "text": "无法创建网络驱动程序"
+  },
+  {
+    "namespace": "",
+    "key": "AB84ED7F47027B2485EDF4BBD1E839C9",
+    "hash": 3005967356,
+    "text": "网络监听失败"
+  },
+  {
+    "namespace": "",
+    "key": "218CD2C94F499793E5D9BF9C9ACFFF37",
+    "hash": 2728625085,
+    "text": "连接中断"
+  },
+  {
+    "namespace": "",
+    "key": "8DBF96604D72A9B96EA10B98761098A4",
+    "hash": 1373716611,
+    "text": "连接逾时"
+  },
+  {
+    "namespace": "",
+    "key": "9B93445941F101E9DD550786F9AF0FCE",
+    "hash": 3282815536,
+    "text": "收到连接错误"
+  },
+  {
+    "namespace": "",
+    "key": "A81CF3164F74C9BE1F666C93873BE50C",
+    "hash": 949597460,
+    "text": "用户端版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "707C56324DA95FE4C59B38A7B01DBDC2",
+    "hash": 4006790705,
+    "text": "服务器版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "36F156394CEA4C428119C78384C9F884",
+    "hash": 1510565641,
+    "text": "创建连接失败"
+  },
+  {
+    "namespace": "",
+    "key": "C81A50FF4C6DCF736C3CC3A01E9375D9",
+    "hash": 460935436,
+    "text": "网络识别码不符"
+  },
+  {
+    "namespace": "",
+    "key": "E2F90A784A4CFEE2522ED99B0EDD54DE",
+    "hash": 2256411467,
+    "text": "大厅版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "075F832E45E2C4D0A03D4A8185E87A2D",
+    "hash": 2256411467,
+    "text": "大厅版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "29432D2F405C7AAC22FF2EB50AAAC575",
+    "hash": 2142820249,
+    "text": "你已被踢出大厅"
+  },
+  {
+    "namespace": "",
+    "key": "0980C0DC44A5AD750E40F6A34C3ADD40",
+    "hash": 1880849603,
+    "text": "网络驱动程序已存在"
+  },
+  {
+    "namespace": "",
+    "key": "60BA89364408973FD44EC0830F0B77CB",
+    "hash": 2246122723,
+    "text": "无法创建网络驱动程序"
+  },
+  {
+    "namespace": "",
+    "key": "1C67C7E942570BDFD45DF1AF483DE620",
+    "hash": 3005967356,
+    "text": "网络监听失败"
+  },
+  {
+    "namespace": "",
+    "key": "E1335C0A441952433083EFACB1B093B7",
+    "hash": 2734216956,
+    "text": "房主已中断连接"
+  },
+  {
+    "namespace": "",
+    "key": "46D7B8064E6A666EA238C492E7D267EF",
+    "hash": 1373716611,
+    "text": "连接逾时"
+  },
+  {
+    "namespace": "",
+    "key": "3392C55640D7CCB664F47B8C3FBB0B3C",
+    "hash": 3282815536,
+    "text": "收到连接错误"
+  },
+  {
+    "namespace": "",
+    "key": "72FCC44C4B0F71E6F6DB38B440762F01",
+    "hash": 949597460,
+    "text": "用户端版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "B3BCDC41444C28270480FA9F787CC207",
+    "hash": 4006790705,
+    "text": "服务器版本过旧"
+  },
+  {
+    "namespace": "",
+    "key": "E352E1AA4774746CAA00AB8F22F56C04",
+    "hash": 1510565641,
+    "text": "创建连接失败"
+  },
+  {
+    "namespace": "",
+    "key": "B840092440920025D2A687B17406A62E",
+    "hash": 460935436,
+    "text": "网络识别码不符"
+  },
+  {
+    "namespace": "",
+    "key": "85D44E63434B4CAA4B012DBE8A6F9312",
+    "hash": 3382603574,
+    "text": "网络校验值不符"
+  },
+  {
+    "namespace": "",
+    "key": "436B15AE435ACCC90FE6B6937B0E42D6",
+    "hash": 1595341638,
+    "text": "线索只会在对应房间存在时揭露。每场游戏的房间配置都是随机的。"
+  },
+  {
+    "namespace": "",
+    "key": "5AFEEC52410F1BD4845BC6B9265292AD",
+    "hash": 3375584490,
+    "text": "第一条线索已揭露！找到它并在游戏手册（M）中标记。还需找到另外两条，才能确定出口房间。（其余两条线索不会再显示此提示。）"
+  },
+  {
+    "namespace": "",
+    "key": "9A5DFF3A4DE8183403EDB8BF1471961C",
+    "hash": 1967357354,
+    "text": "按 F 可打开提灯。"
+  },
+  {
+    "namespace": "",
+    "key": "575BDC3E4F6BE57BBBEB62883EBC9588",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "44E2FC2A47D7A21BF8484285F6DE3592",
+    "hash": 2896095055,
+    "text": "潜行在本游戏中非常重要，不过你仍能跑赢大多数怪物！"
+  },
+  {
+    "namespace": "",
+    "key": "81B2BECA48813709DC7226A12B8DABE2",
+    "hash": 2717185155,
+    "text": "访客：别让他的棋子追上你的棋子，否则游戏就结束了！使用前进卡推进棋子，保持领先几个回合！"
+  },
+  {
+    "namespace": "",
+    "key": "2B9CB10E4E53EBBF1F5B328F56939E72",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "237C16E2484A6B52A82B72A5FB4F1239",
+    "hash": 17208536,
+    "text": "访客已追上玩家棋子！你只剩最后一个回合能推进棋子，否则游戏就结束了！"
+  },
+  {
+    "namespace": "",
+    "key": "9C1B4D344C199368B06909A7A58282F0",
+    "hash": 1049458379,
+    "text": "开始回合"
+  },
+  {
+    "namespace": "",
+    "key": "0241E26C43B04120C6DD8E99FA7827CC",
+    "hash": 2728112561,
+    "text": "按 T 开始你的回合。所有玩家都必须坐下，才能开始回合；其他玩家的回合中，你不能站起来！"
+  },
+  {
+    "namespace": "",
+    "key": "C8B2D8B946B03969C4B2088C4EB2FA82",
+    "hash": 3326250796,
+    "text": "取消"
+  },
+  {
+    "namespace": "",
+    "key": "FB65B62B44D1FB13CD9A019763C91C2A",
+    "hash": 2786877589,
+    "text": "离开"
+  },
+  {
+    "namespace": "",
+    "key": "43A10589497599628AD9DD817C29B90D",
+    "hash": 4257571225,
+    "text": "向左旋转"
+  },
+  {
+    "namespace": "",
+    "key": "F71E1F3A4E8BDFEEE19083816D79A72C",
+    "hash": 3613921733,
+    "text": "向右旋转"
+  },
+  {
+    "namespace": "",
+    "key": "42FB539D45A7F6946BF7AE97C24B5EB2",
+    "hash": 2596860087,
+    "text": "放大"
+  },
+  {
+    "namespace": "",
+    "key": "A8353D4249A557594F8DA38255DC8837",
+    "hash": 762135205,
+    "text": "缩小"
+  },
+  {
+    "namespace": "",
+    "key": "E244CC83456D0DBD1FF5E5AFC197B4A0",
+    "hash": 1049458379,
+    "text": "开始回合"
+  },
+  {
+    "namespace": "",
+    "key": "0C46D1A04EC97084778B14BD196BFA00",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "9ED222544049BA3DD93D6F8C0FCB6B82",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "176519624AFB19661AF72FBB43BD16B7",
+    "hash": 3326250796,
+    "text": "取消"
+  },
+  {
+    "namespace": "",
+    "key": "AB25F4234E7A152FE39EEDA056DA2C77",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "EE45ABD44A54CD3424567D9EA65A433A",
+    "hash": 2453049897,
+    "text": "确认"
+  },
+  {
+    "namespace": "",
+    "key": "94E4C591448F04CE55BD70A7F4F0CD2F",
+    "hash": 3326250796,
+    "text": "取消"
+  },
+  {
+    "namespace": "",
+    "key": "D63E9A164B1E7686A1C93387630DD65E",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "E385CD444C559506E62A5A8B22705077",
+    "hash": 1049458379,
+    "text": "开始回合"
+  },
+  {
+    "namespace": "",
+    "key": "EB454BC3455D7CBC728900988341D76F",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "E52B0E814ABDB65110EF5AA8715A1765",
+    "hash": 666665373,
+    "text": "机会"
+  },
+  {
+    "namespace": "",
+    "key": "7AF2DA3F47473743B427EFBF0CEECD7D",
+    "hash": 3880739846,
+    "text": "舞蹈小子"
+  },
+  {
+    "namespace": "",
+    "key": "BF1C65B241F8D9AB19BC75B42516EA23",
+    "hash": 3145042733,
+    "text": "赶上进度"
+  },
+  {
+    "namespace": "",
+    "key": "EE7CB84F4E8C0A3D8CDB72958AF2B843",
+    "hash": 1214622052,
+    "text": "弥补失去的时间。\r\n向前推进半小时。"
+  },
+  {
+    "namespace": "",
+    "key": "AD84A3A044DF2381AD00F3A986BADFF8",
+    "hash": 2123810761,
+    "text": "30 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "3F78DED347891453F6104BAB5648E17F",
+    "hash": 3767045630,
+    "text": "清除杂物"
+  },
+  {
+    "namespace": "",
+    "key": "E4301D9746213F3E5B2918891E00DED7",
+    "hash": 4283858008,
+    "text": "清空一个随机衣柜中的杂物，让玩家能躲进去。"
+  },
+  {
+    "namespace": "",
+    "key": "F29C0A5347EE0EF0F48E65A26EC2DF8D",
+    "hash": 2123810761,
+    "text": "30 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "6E62BF54477A82D67545238800A94220",
+    "hash": 1271335128,
+    "text": "再来一回合"
+  },
+  {
+    "namespace": "",
+    "key": "C79A02934775CCB3D5A1F985EB8C92EC",
+    "hash": 2479654387,
+    "text": "跳过其他所有玩家，让你再进行一回合。"
+  },
+  {
+    "namespace": "",
+    "key": "7B0A742E494D18354C67CF815292DB23",
+    "hash": 2123810761,
+    "text": "30 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "E09D747B494E5063AFEE52BD5B5E720C",
+    "hash": 3983551565,
+    "text": "忘了时间"
+  },
+  {
+    "namespace": "",
+    "key": "BA438B9048AAC891FDC9B3BE950CB955",
+    "hash": 1319561542,
+    "text": "玩得开心吗？\r\n向前推进一小时。"
+  },
+  {
+    "namespace": "",
+    "key": "AEBCBC0148E6680E9A181BB1D7B0468E",
+    "hash": 938259953,
+    "text": "60 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "EA30494541D7E722AC038EAEC285602D",
+    "hash": 4047401553,
+    "text": "邻居"
+  },
+  {
+    "namespace": "",
+    "key": "B075BEEB4292AF7FC204D9B2A24DABE1",
+    "hash": 280068242,
+    "text": "叩、叩、叩，\r\n门外究竟是谁？\r\n叩、叩、叩，\r\n求求你帮帮我……"
+  },
+  {
+    "namespace": "",
+    "key": "EE5D5C174C43C109B758748A4E857444",
+    "hash": 938259953,
+    "text": "60 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "EB9F80D34B6101883F229DA1606EF505",
+    "hash": 733871265,
+    "text": "逆转"
+  },
+  {
+    "namespace": "",
+    "key": "E14DE6D24124FC47C082FDAAF1D563C0",
+    "hash": 601406870,
+    "text": "反转回合顺序。"
+  },
+  {
+    "namespace": "",
+    "key": "F430C0414CF929275BDB968B2AE84293",
+    "hash": 2123810761,
+    "text": "30 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "BCC923954CDB9B4456D9439482BD352F",
+    "hash": 1019398726,
+    "text": "换牌"
+  },
+  {
+    "namespace": "",
+    "key": "B982623045B8F92CBA1A97B504F48B33",
+    "hash": 1132299238,
+    "text": "将目前手牌换成牌库中的 3 张随机卡牌。"
+  },
+  {
+    "namespace": "",
+    "key": "35591A3A46B846D0D2F276B4F1F7F8DF",
+    "hash": 2123810761,
+    "text": "30 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "AC72D45A4B830AB730AD5BBA768D1A0D",
+    "hash": 1452244823,
+    "text": "线索"
+  },
+  {
+    "namespace": "",
+    "key": "06726F2440B72FDFD2F6DE87989F3DEE",
+    "hash": 2730089012,
+    "text": "从牌库中移除 3 张随机线索卡。"
+  },
+  {
+    "namespace": "",
+    "key": "A64919204515C4D2ADB8CFADD6A8629D",
+    "hash": 37628788,
+    "text": "时间："
+  },
+  {
+    "namespace": "",
+    "key": "690E25D947FBB3C6118BC58F222EACF5",
+    "hash": 2696788002,
+    "text": "失去一小时游戏时间。"
+  },
+  {
+    "namespace": "",
+    "key": "EEAF7CEA43CC00055CED9AADBC3C3A0E",
+    "hash": 1792711139,
+    "text": "弃牌区"
+  },
+  {
+    "namespace": "",
+    "key": "8764837940005083160CA4BDDB9B3C72",
+    "hash": 3188171030,
+    "text": "清空弃牌区"
+  },
+  {
+    "namespace": "",
+    "key": "4BDB258B42BC7BB12F2861AFE5565C9C",
+    "hash": 3413935630,
+    "text": "一个房间"
+  },
+  {
+    "namespace": "",
+    "key": "13CA44CE481F83B768E078A8B4CD2CAA",
+    "hash": 1540961256,
+    "text": "从牌库中移除一张随机房间卡。"
+  },
+  {
+    "namespace": "",
+    "key": "866F264C4F393D139FB271AE00320BF5",
+    "hash": 1825304070,
+    "text": "小偷"
+  },
+  {
+    "namespace": "",
+    "key": "C0A2AB9748C7A8B14DC7D69AC07D5720",
+    "hash": 4234547926,
+    "text": "转动轮盘，与小偷赌一把……\r\n\r\n只有在别无选择时，才应该打出这张卡。"
+  },
+  {
+    "namespace": "",
+    "key": "6D22B0E34AFD6BB93975D7A0E0D0281F",
+    "hash": 938259953,
+    "text": "60 分钟"
+  },
+  {
+    "namespace": "",
+    "key": "DF312F644A50E022D38BE39A228B7D07",
+    "hash": 340029701,
+    "text": "阁楼"
+  },
+  {
+    "namespace": "",
+    "key": "3BF37BF047FE8577221EAE9EFAD36B22",
+    "hash": 1103666989,
+    "text": "一次只允许一人进入。\r\n找到 5 个图腾，完成仪式。\r\n将图腾放到对应符号上，并点燃蜡烛。\r\n若被发现，别看着它，丢下蜡烛，跑进黑暗躲藏。\r\n\r\n禁止使用提灯。"
+  },
+  {
+    "namespace": "",
+    "key": "B6A580C14463E0D49010EBAE19B62974",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "F6C3752A41D4AA035EA896AED845477D",
+    "hash": 1140654247,
+    "text": "点击蜡烛将它吹熄，翻开你的卡牌。若想跳过回合，等待沙漏流完即可。"
+  },
+  {
+    "namespace": "",
+    "key": "8A93459946D68B97568A7C816F8BE0AA",
+    "hash": 1342805547,
+    "text": "厄运三叶草"
+  },
+  {
+    "namespace": "",
+    "key": "8B11710A4CA09DBF605E7384610FF32C",
+    "hash": 2684116049,
+    "text": "集满 4 个三叶草即可获胜，但集到 3 个厄运就会被送去受死。\r\n吹熄蜡烛翻牌，或等待计时结束以跳过回合。"
+  },
+  {
+    "namespace": "",
+    "key": "15AFCCE24B94EA994E2C6D93DDCE2138",
+    "hash": 1191094045,
+    "text": "你跑不赢这只怪物，必须依靠潜行！找到他后，前往壁炉。"
+  },
+  {
+    "namespace": "",
+    "key": "E4E362D14C891667C96A1BB846E7AC88",
+    "hash": 1352114220,
+    "text": "关灯捉迷藏"
+  },
+  {
+    "namespace": "",
+    "key": "65B01A464ECD4F8DE633D79C1DA09DB3",
+    "hash": 91978180,
+    "text": "你跑不赢他，请压低身体。\r\n找到他后，前往壁炉。\r\n幽灵藏在某个随机房间的灯里，\r\n逐一关灯，准备迎接下一次惊吓！"
+  },
+  {
+    "namespace": "",
+    "key": "EEEF3E854618559276B83FBF6DA86CB8",
+    "hash": 2810944540,
+    "text": "你无法躲过骑士！别和它待在同一个房间。"
+  },
+  {
+    "namespace": "",
+    "key": "0A0F159C4FB89498FD198D9F5F328A62",
+    "hash": 4149538110,
+    "text": "旋转雕像，让它面向你希望它前往的房间。它每回合会移动一个房间。"
+  },
+  {
+    "namespace": "",
+    "key": "7EBDBFAE464A9F45FF9EBFBD2246D5E8",
+    "hash": 1380191520,
+    "text": "若目标房间已有其他雕像，雕像就不会移动。也能让雕像面向小屋外，阻止它移动。"
+  },
+  {
+    "namespace": "",
+    "key": "01519AAE4825C49D63A13D817821CC86",
+    "hash": 3471314139,
+    "text": "骑士"
+  },
+  {
+    "namespace": "",
+    "key": "4A42B1DA475B49E3BDC253A99B774CFA",
+    "hash": 1354889536,
+    "text": "看看桌面，上面会显示任务。\r\n但每回合只准移动一个房间。\r\n灯光会提示回合更替，\r\n千万别与骑士同处一室……\r\n\r\n将雕像移到正确房间。"
+  },
+  {
+    "namespace": "",
+    "key": "84BB3D5C43C0DDD65FB6AEA93BE5E4F2",
+    "hash": 2893458962,
+    "text": "依正确顺序打开所有灯！只要弄错一次，所有灯就会再次熄灭。"
+  },
+  {
+    "namespace": "",
+    "key": "2F2F344B4181B6113F8B01A37D5A1E4B",
+    "hash": 1335397526,
+    "text": "灯泡女"
+  },
+  {
+    "namespace": "",
+    "key": "D90A153C49670724DFD92C964479658A",
+    "hash": 4021270645,
+    "text": "她熄灭灯时，别留在那个房间。\r\n想继续游戏，就依正确顺序开灯。\r\n同心协力，谨慎行动。\r\n一旦顺序错误，就得重新开始。"
+  },
+  {
+    "namespace": "",
+    "key": "964A825C4053DAA770AD35BC925198E8",
+    "hash": 3370185376,
+    "text": "前往出口房间并等待，看看你是否选对了……"
+  },
+  {
+    "namespace": "",
+    "key": "AA774BA04442315413D85BA39E4480CD",
+    "hash": 4041327132,
+    "text": "这里不用在意噪音或提灯！只要避开 Sparky 的灯光。"
+  },
+  {
+    "namespace": "",
+    "key": "583584764B6067F7113F81B56EF91B63",
+    "hash": 1021590144,
+    "text": "地下室"
+  },
+  {
+    "namespace": "",
+    "key": "D21B41E248E2DD52698B7E90F6F7CFCE",
+    "hash": 75352162,
+    "text": "向下走，来到底层。\r\n修理断路器，慢得令人心焦。\r\n若想不被发现，\r\n就避开 Sparky 的灯光。"
+  },
+  {
+    "namespace": "",
+    "key": "686A940F4C1B6C7740671BB387C4EC19",
+    "hash": 1078198661,
+    "text": "你跑不赢猴子，必须依靠潜行！基本原则是：听到心跳时，就压低身体并躲好。"
+  },
+  {
+    "namespace": "",
+    "key": "76FC15364720B541E6D6BC8BA55C09F8",
+    "hash": 4214946474,
+    "text": "音乐房间"
+  },
+  {
+    "namespace": "",
+    "key": "35801800462B3599C07A799E78C7D31F",
+    "hash": 2283048126,
+    "text": "音乐停止时，前往亮灯的房间。\r\n音乐恢复时，把水桶装满。"
+  },
+  {
+    "namespace": "",
+    "key": "F296681C419CBA4015B1BC8301114523",
+    "hash": 3476569700,
+    "text": "这只怪物会感应脚步等声音。靠近时请潜行；地毯能掩盖脚步声。"
+  },
+  {
+    "namespace": "",
+    "key": "CFCA598C4D12B1410D2AA18B4D733F6A",
+    "hash": 3608263711,
+    "text": "被这只怪物发现时，你仍能跑赢它！逃跑时关上身后的门，也能拖延它。"
+  },
+  {
+    "namespace": "",
+    "key": "28360FAC46ADB757C0AE2E961ABA04E2",
+    "hash": 2185146895,
+    "text": "红气球"
+  },
+  {
+    "namespace": "",
+    "key": "B1E59A3544E62AEC59D99DBD7E4772F7",
+    "hash": 3751910053,
+    "text": "戳破气球直到金色气球出现，再戳破它，恐惧就会结束。若不想被发现，就慢慢移动，别发出声音……"
+  },
+  {
+    "namespace": "",
+    "key": "0494F38247E54FC028F11EB78D2CFA08",
+    "hash": 799398711,
+    "text": "只有你看着他时，他才知道你的位置，但撞到他仍会被发现。关闭所有灯，包括提灯［F］，就能摆脱他。"
+  },
+  {
+    "namespace": "",
+    "key": "EBCCDE3A43F55FF0054C8FAC8DC70671",
+    "hash": 3552405156,
+    "text": "高个子男人"
+  },
+  {
+    "namespace": "",
+    "key": "FEBD92BB400404F8679C64A7161225B9",
+    "hash": 1750610616,
+    "text": "他没有眼睛，只能通过你的双眼看见。\r\n关闭所有灯，让他再也看不见。"
+  },
+  {
+    "namespace": "",
+    "key": "F9C52835473A565C78C143A86D82B942",
+    "hash": 2144766576,
+    "text": "死腻了"
+  },
+  {
+    "namespace": "",
+    "key": "BDD541CB4EC551C94948AFA24E82BAA8",
+    "hash": 852829102,
+    "text": "她摸起来冰冷，呕吐物却灼热。\r\n在她胃部翻腾前找到药物。\r\n将药丸冲进排水管，摆脱这场恶梦……"
+  },
+  {
+    "namespace": "",
+    "key": "E7D034564EDC1AD849CC5EB4CF9B999F",
+    "hash": 4027043559,
+    "text": "在她胃部翻腾前找到药物。"
+  },
+  {
+    "namespace": "",
+    "key": "A9CA90FC480DA0C8AF464C8A57AAE775",
+    "hash": 2825289406,
+    "text": "将药丸冲进排水管，摆脱这场恶梦。"
+  },
+  {
+    "namespace": "",
+    "key": "20CE45CB49F911F2E1780886322D0E14",
+    "hash": 982886165,
+    "text": "躲在角落"
+  },
+  {
+    "namespace": "",
+    "key": "D913EFB54A3A0E4F6A192A8E628D8B1D",
+    "hash": 4182339306,
+    "text": "当我的恶魔到来，你必须服从。\r\n走到角落，面向墙角。\r\n除非符合他的指示，否则别回头，\r\n不然你将祈求再来一次……"
+  },
+  {
+    "namespace": "",
+    "key": "274317FD40D7D6A834A8DF91B4E5DA8A",
+    "hash": 842353953,
+    "text": "觉得自己变小了？"
+  },
+  {
+    "namespace": "",
+    "key": "47864FF144004ECD15F19F9760F273A3",
+    "hash": 3078257181,
+    "text": "黑暗中，你仍能隐藏，\r\n但使用灯光时要小心，\r\n因为他藏在天花板，避开你的视线。\r\n\r\n找到相符形状，放进火车里。"
+  },
+  {
+    "namespace": "",
+    "key": "2C9D027243A5455A03456CBC1535720B",
+    "hash": 1804989991,
+    "text": "直线走廊 II"
+  },
+  {
+    "namespace": "",
+    "key": "9EA64C034663E02697409F965CD0C16C",
+    "hash": 1941524269,
+    "text": "T 字走廊 II"
+  },
+  {
+    "namespace": "",
+    "key": "4D5BD49F430220978FFF5FA4239D82B9",
+    "hash": 3268189363,
+    "text": "落地钟"
+  },
+  {
+    "namespace": "",
+    "key": "463E647C494511B2512B28A6A2F81137",
+    "hash": 1310761287,
+    "text": "当时钟敲响"
+  },
+  {
+    "namespace": "",
+    "key": "6242F45A4AAFD8EEDBC8E0806ED6351F",
+    "hash": 3898247145,
+    "text": "前任玩家"
+  },
+  {
+    "namespace": "",
+    "key": "3161C852410F70C31CECC3A58E4FAC09",
+    "hash": 2257898393,
+    "text": "前任玩家的痕迹"
+  },
+  {
+    "namespace": "",
+    "key": "9439B12D4A6F1CEB4B12ECA81ABB46FE",
+    "hash": 2417904768,
+    "text": "诡异画像"
+  },
+  {
+    "namespace": "",
+    "key": "92AE09F74DB6D1515C62CBA9E198517E",
+    "hash": 879040089,
+    "text": "当画像变得邪恶。"
+  },
+  {
+    "namespace": "",
+    "key": "AF7D1A884D4DD5CD54DE11AD28C33C88",
+    "hash": 4039228573,
+    "text": "灵异变化"
+  },
+  {
+    "namespace": "",
+    "key": "49B20E8A4ECB11D184FFBD83FCB6319E",
+    "hash": 926766516,
+    "text": "任何异常之处"
+  },
+  {
+    "namespace": "",
+    "key": "E5BFF2A647293CA11E4C848B6240F4D1",
+    "hash": 478205394,
+    "text": "井字游戏"
+  },
+  {
+    "namespace": "",
+    "key": "036D68394FA7AFFA676D5F822A542B89",
+    "hash": 2848099087,
+    "text": "获胜的符号"
+  },
+  {
+    "namespace": "",
+    "key": "DAB0F5354E5E0171B7F39389395EBA04",
+    "hash": 3000110289,
+    "text": "鸡图案"
+  },
+  {
+    "namespace": "",
+    "key": "C419E5E44C6684400027138A63C2324A",
+    "hash": 358295129,
+    "text": "只有在它保有头部时"
+  },
+  {
+    "namespace": "",
+    "key": "13A89A9346032BF45BD317AB96D13A37",
+    "hash": 1708112299,
+    "text": "离开"
+  },
+  {
+    "namespace": "",
+    "key": "37D799C540B6641EF3BAD9BDA9E4BBAA",
+    "hash": 1708112299,
+    "text": "离开"
+  },
+  {
+    "namespace": "",
+    "key": "93E1127F4C593C228AC422BB4276E7F9",
+    "hash": 67915416,
+    "text": "（找不到房间）"
+  },
+  {
+    "namespace": "",
+    "key": "9D2BB04045D2CAF81FDF23814A9FA71F",
+    "hash": 919839685,
+    "text": "难度：胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "91B9561D4088378FE9E3D7A19A6C3E47",
+    "hash": 68910662,
+    "text": "出口：餐厅"
+  },
+  {
+    "namespace": "",
+    "key": "D4AF2EE043EE2604143873923BC9F525",
+    "hash": 3502517058,
+    "text": "出口：卧室"
+  },
+  {
+    "namespace": "",
+    "key": "9EA450444DFA5462027CA0AB15E3DEF6",
+    "hash": 2809131523,
+    "text": "出口：浴室"
+  },
+  {
+    "namespace": "",
+    "key": "9BADAB2243D7BF6129F4C7854FD7F87C",
+    "hash": 517460164,
+    "text": "出口：暖炉房"
+  },
+  {
+    "namespace": "",
+    "key": "645BAF2A4C16D29D8FE97C9C1628EC57",
+    "hash": 1367129666,
+    "text": "出口：T 字走廊 II"
+  },
+  {
+    "namespace": "",
+    "key": "552582A54CCB0644BF9673A4765781D9",
+    "hash": 348725368,
+    "text": "出口：T 字走廊 I"
+  },
+  {
+    "namespace": "",
+    "key": "F6057E1B423562A0B3DB4E97CE9A48BD",
+    "hash": 2671200249,
+    "text": "出口：L 字走廊"
+  },
+  {
+    "namespace": "",
+    "key": "1329337E4511B98B8285648DD8763FF9",
+    "hash": 1276983283,
+    "text": "出口：直线走廊 I"
+  },
+  {
+    "namespace": "",
+    "key": "6C5378C144A183D11CF93FAC503A1F30",
+    "hash": 4071220048,
+    "text": "出口：直线走廊 II"
+  },
+  {
+    "namespace": "",
+    "key": "AA8212894E5DAEA032C27C83EACB489C",
+    "hash": 951173845,
+    "text": "出口：厨房"
+  },
+  {
+    "namespace": "",
+    "key": "A2A1FE1D4C030E9B9F7321A1CB878860",
+    "hash": 533358693,
+    "text": "出口：客厅"
+  },
+  {
+    "namespace": "",
+    "key": "051AE070489C3D4330D0319F5F156859",
+    "hash": 2430385132,
+    "text": "出口：书房"
+  },
+  {
+    "namespace": "",
+    "key": "8286A34644AAEE33125DB4B092E3DEB1",
+    "hash": 3537683647,
+    "text": "难度：初次挑战"
+  },
+  {
+    "namespace": "",
+    "key": "AAC1AD774900FB74D20DD1965E212147",
+    "hash": 2428596351,
+    "text": "难度：勇敢挑战"
+  },
+  {
+    "namespace": "",
+    "key": "DC38B6B340FD779EE2C035AAAAC98A54",
+    "hash": 3796068137,
+    "text": "难度：见鬼了！"
+  },
+  {
+    "namespace": "",
+    "key": "DB06A6A842C76CA33A26C9B2F0F9C64A",
+    "hash": 1269753660,
+    "text": "（现在可在大厅停用开场介绍）"
+  },
+  {
+    "namespace": "",
+    "key": "8EE1973644D0CC9E18FAE792BCB8C5F3",
+    "hash": 2231695191,
+    "text": "额外时间"
+  },
+  {
+    "namespace": "",
+    "key": "CDF31852484BA9823DB104BEB844DE24",
+    "hash": 1771542381,
+    "text": "时钟倒退 1 小时。"
+  },
+  {
+    "namespace": "",
+    "key": "6D5E362C47696008ECDA64B5A3CBA71B",
+    "hash": 4153121451,
+    "text": "移除清空弃牌区卡"
+  },
+  {
+    "namespace": "",
+    "key": "A58804A14619E25C3ADA8FBE69B66D9E",
+    "hash": 1672564557,
+    "text": "从牌库中移除一张清空弃牌区卡。"
+  },
+  {
+    "namespace": "",
+    "key": "DC86DC1644255CB0F86E1CA9385C5068",
+    "hash": 4144193718,
+    "text": "延缓访客"
+  },
+  {
+    "namespace": "",
+    "key": "AEEAEDE9499ADB1844D46080B13CE5F5",
+    "hash": 2977287772,
+    "text": "阻止访客前进，持续 3 回合。"
+  },
+  {
+    "namespace": "",
+    "key": "3679CB6F4F74CB7DEF9A299063316F87",
+    "hash": 3199336516,
+    "text": "添加藏身处"
+  },
+  {
+    "namespace": "",
+    "key": "C872FCE448A78B1C519F3BB2963CBB20",
+    "hash": 887710429,
+    "text": "清空衣柜中的杂物，让玩家能躲进去。"
+  },
+  {
+    "namespace": "",
+    "key": "5D9EEB5A487DAA3EC7C4C588B1EE0531",
+    "hash": 921598761,
+    "text": "额外线索"
+  },
+  {
+    "namespace": "",
+    "key": "EAD9D9DC4F8A054A143433B3F47C176C",
+    "hash": 1643878858,
+    "text": "向牌库加入 3 张随机线索卡。"
+  },
+  {
+    "namespace": "",
+    "key": "8383589A4662A4F48EF990BE8BAF35C2",
+    "hash": 1363359783,
+    "text": "阻止小偷"
+  },
+  {
+    "namespace": "",
+    "key": "7AC1D3674153CD66F604B39FDB929DC2",
+    "hash": 2878748911,
+    "text": "使用小偷卡时，阻止小偷偷走任何东西。"
+  },
+  {
+    "namespace": "",
+    "key": "9F2C9F4C41EC71DCBFD96BBE6EAC3002",
+    "hash": 3686778746,
+    "text": "只有打出我的那位玩家可以选择。"
+  },
+  {
+    "namespace": "",
+    "key": "936E1FC24392AD6B0FF12AA50DFA86A9",
+    "hash": 1659626526,
+    "text": "我是邻居。"
+  },
+  {
+    "namespace": "",
+    "key": "A647EA3742870CDBAD9D8381A3B86242",
+    "hash": 1362969146,
+    "text": "我是来协助你们进行游戏的。"
+  },
+  {
+    "namespace": "",
+    "key": "C99DE9F24D5E19F570CFB39D116E1CCB",
+    "hash": 3443244973,
+    "text": "你可以从三个选项中选择一个，不过……"
+  },
+  {
+    "namespace": "",
+    "key": "C969D9B3402E3D566FA30BA8A9A28DA6",
+    "hash": 12878189,
+    "text": "各位玩家，你们好……"
+  },
+  {
+    "namespace": "",
+    "key": "CD7CDD5B4B883DC62B86669B3C38D376",
+    "hash": 1245468191,
+    "text": "很好……"
+  },
+  {
+    "namespace": "",
+    "key": "DBD243794755B992F75C80993209CB08",
+    "hash": 3470556290,
+    "text": "你们将获得额外一小时的游戏时间。"
+  },
+  {
+    "namespace": "",
+    "key": "6B55ED894C8DAD26940399A5501A54D4",
+    "hash": 427609528,
+    "text": "祝你们接下来的回合顺利……"
+  },
+  {
+    "namespace": "",
+    "key": "85D11F8D442763A1F067E58D93BA41F0",
+    "hash": 3148950596,
+    "text": "我会从牌库中移除一张清空弃牌区卡。"
+  },
+  {
+    "namespace": "",
+    "key": "1C0DF2F44CC47CD076DC25BAF57A2EA9",
+    "hash": 3067457197,
+    "text": "我会让访客停下 3 回合。"
+  },
+  {
+    "namespace": "",
+    "key": "DFC8554F4DA18FD6900A6896D394E4E1",
+    "hash": 2566239247,
+    "text": "我会清空一个衣柜，添加藏身处。"
+  },
+  {
+    "namespace": "",
+    "key": "EFC5C3EC4C733BA0397A8D8AB39C3723",
+    "hash": 3632506196,
+    "text": "我会向牌库加入 3 张额外线索卡。"
+  },
+  {
+    "namespace": "",
+    "key": "104C7D444144D1C3AAF997BEE2C033B6",
+    "hash": 3492795494,
+    "text": "我会阻止小偷窃取任何东西。"
+  },
+  {
+    "namespace": "",
+    "key": "18BC68BE4DE2D3DC3F7B4D909E5A1DD0",
+    "hash": 480727606,
+    "text": "放置卡牌"
+  },
+  {
+    "namespace": "",
+    "key": "E9485E3B460382931FBB4B87C9A6D3B3",
+    "hash": 2564016497,
+    "text": "走到角落并面向墙角。\r\n别回头……"
+  },
+  {
+    "namespace": "",
+    "key": "1C22520E497570F59D4D3A85467C3F85",
+    "hash": 837384589,
+    "text": "现在仔细听好……"
+  },
+  {
+    "namespace": "",
+    "key": "F66436BF49F6E8CD823A799DC4285F18",
+    "hash": 2173913512,
+    "text": "如果符合以下条件，我要你回头……"
+  },
+  {
+    "namespace": "",
+    "key": "71103715443B82D8538868A74C7E8762",
+    "hash": 2601976558,
+    "text": "……玩家棋子所在的时数是奇数。"
+  },
+  {
+    "namespace": "",
+    "key": "D1B97C57495FD5E3027BA180E8C903FB",
+    "hash": 1490333834,
+    "text": "……玩家棋子所在的时数是偶数。"
+  },
+  {
+    "namespace": "",
+    "key": "99A420C14BC71770010B288D8A900FEB",
+    "hash": 1952923255,
+    "text": "……数量为 "
+  },
+  {
+    "namespace": "",
+    "key": "6C65711D4CE6259ACC6703A5B59CE90A",
+    "hash": 1236301133,
+    "text": " 扇门。"
+  },
+  {
+    "namespace": "",
+    "key": "EBB5010841F60CB73F3798847028A4CA",
+    "hash": 1952923255,
+    "text": "……数量为 "
+  },
+  {
+    "namespace": "",
+    "key": "5D7E554D4B54B7E3CE88A9936674DAB5",
+    "hash": 792058821,
+    "text": " 个房间（包含地窖）。"
+  },
+  {
+    "namespace": "",
+    "key": "93FD1DD74A708AA997DB62891F886D85",
+    "hash": 64446077,
+    "text": "……弃牌区中有井字棋线索。"
+  },
+  {
+    "namespace": "",
+    "key": "9F4E9B2D417E019797D5D5A6A11F5A37",
+    "hash": 2143679531,
+    "text": "……弃牌区中有灵异变化线索。"
+  },
+  {
+    "namespace": "",
+    "key": "BF4E8F53495C71FD397E8F864451E8C8",
+    "hash": 3628080458,
+    "text": "……弃牌区中有诡异画像线索。"
+  },
+  {
+    "namespace": "",
+    "key": "8349B7D543EE0B5C3A5A96837F2E9F73",
+    "hash": 4006194959,
+    "text": "……弃牌区中有前任玩家的痕迹线索。"
+  },
+  {
+    "namespace": "",
+    "key": "97EC179F4F19CA1136182E859EFE8429",
+    "hash": 3624853230,
+    "text": "……弃牌区中有落地钟线索。"
+  },
+  {
+    "namespace": "",
+    "key": "276CADCE4A4B1F471342DBBC56598EA8",
+    "hash": 2447115988,
+    "text": " 张前进卡在桌上。"
+  },
+  {
+    "namespace": "",
+    "key": "4BF0A55D46C113C5699A6EA6200B483B",
+    "hash": 2977226619,
+    "text": "……弃牌区中有鸡的线索。"
+  },
+  {
+    "namespace": "",
+    "key": "06218AE248431B06F0E95CB8960426E8",
+    "hash": 1880225153,
+    "text": "胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "D8AB073A42AB55314F836CBFA94F97D3",
+    "hash": 2615356500,
+    "text": "初次游玩"
+  },
+  {
+    "namespace": "",
+    "key": "C584CA03405C6CB469F551A37942AC5A",
+    "hash": 3590530619,
+    "text": "胆大包天"
+  },
+  {
+    "namespace": "",
+    "key": "0D3478F9477B4CBCF0E8E4A8925E7D4A",
+    "hash": 286923014,
+    "text": "见鬼啦！"
+  },
+  {
+    "namespace": "",
+    "key": "89D35BA546A1F4E26EE9F69FE654A470",
+    "hash": 3452997227,
+    "text": "返回中……"
+  },
+  {
+    "namespace": "",
+    "key": "DDFB79FA484355AE7B9EC0A0D4237CD7",
+    "hash": 3047541628,
+    "text": "随时都能按 M 打开游戏手册！"
+  },
+  {
+    "namespace": "",
+    "key": "F6A09D51450B52B223409BBBAF34D885",
+    "hash": 2457320154,
+    "text": "游戏提示会像这样显示！随时都能在设置菜单中关闭。"
+  },
+  {
+    "namespace": "",
+    "key": "61EF5B8B4239D8AEB34E7F99322403D3",
+    "hash": 1665489728,
+    "text": "在你的回合中，可以交换弃牌区（线索存放处）的卡牌，代替抽取新卡！"
+  },
+  {
+    "namespace": "",
+    "key": "D1F3B7DF435DAE58D87DDABCC2BD59E4",
+    "hash": 715978529,
+    "text": "玩家棋子抵达十二点时，游戏就会结束！每次死亡都会减少游戏时间。"
+  },
+  {
+    "namespace": "",
+    "key": "3ED42B7D496752A20765C38DCCF46070",
+    "hash": 3564157101,
+    "text": "观战"
+  },
+  {
+    "namespace": "",
+    "key": "654191784272CE3212D17DBBAC15D46F",
+    "hash": 945483519,
+    "text": "按 R 可旋转房间卡。"
+  },
+  {
+    "namespace": "",
+    "key": "67F40D1145B8D0F8300CD59751BEEE98",
+    "hash": 1049458379,
+    "text": "开始回合"
+  },
+  {
+    "namespace": "",
+    "key": "F3EC198A4F2E0364B6E4098136159CAC",
+    "hash": 753596514,
+    "text": "必须先抽牌才能出牌。不过，某些卡牌抽到时会自动生效。"
+  },
+  {
+    "namespace": "",
+    "key": "6FF05EE746F16B613447F186B7A954C4",
+    "hash": 3564157101,
+    "text": "观战"
+  },
+  {
+    "namespace": "",
+    "key": "FB7450F04E2A77069BE3ACA894ED6464",
+    "hash": 480727606,
+    "text": "放置卡牌"
+  },
+  {
+    "namespace": "",
+    "key": "75CACC9E4A194B3870B3AA90B543197D",
+    "hash": 3636549010,
+    "text": "旋转卡牌"
+  },
+  {
+    "namespace": "",
+    "key": "A3C4F2B241420B8708DCFBB11C93BF1F",
+    "hash": 2596860087,
+    "text": "放大"
+  },
+  {
+    "namespace": "",
+    "key": "7C3052B04F0D804DAC15C79E980872CA",
+    "hash": 762135205,
+    "text": "缩小"
+  },
+  {
+    "namespace": "",
+    "key": "C48F31D34CEB8E21C3BE79A91EB0D757",
+    "hash": 3519966155,
+    "text": "站起来"
+  },
+  {
+    "namespace": "",
+    "key": "8B982C0D423E46EF882B43B0DB96296E",
+    "hash": 1369351926,
+    "text": "谨慎放置房间卡！别排出让你无法添加更多房间的布局。"
+  },
+  {
+    "namespace": "",
+    "key": "5B7AE30D408F06AE90300AAC1142ED53",
+    "hash": 940046614,
+    "text": "每回合会揭露弃牌区最上方的线索，但对应房间必须存在，且该线索须为三条出口线索之一。"
+  },
+  {
+    "namespace": "",
+    "key": "677E7BB4438F589D5F0C60AF763E0976",
+    "hash": 2786877589,
+    "text": "离开"
+  },
+  {
+    "namespace": "",
+    "key": "9A7F63DC4199402AE251A8B50AD93BD0",
+    "hash": 2596860087,
+    "text": "放大"
+  },
+  {
+    "namespace": "",
+    "key": "1BED7CE343CBC79ECB2E9C89FC4E50A4",
+    "hash": 762135205,
+    "text": "缩小"
+  },
+  {
+    "namespace": "",
+    "key": "5A43B4E54E6489E75FDFF7985A5D49A7",
+    "hash": 70521091,
+    "text": "下车"
+  },
+  {
+    "namespace": "",
+    "key": "20905DE5479FD725E043D383ECDE5A74",
+    "hash": 3711366048,
+    "text": "开始"
+  },
+  {
+    "namespace": "",
+    "key": "A98319914E517927465C7CBA62EBFD8C",
+    "hash": 2189860437,
+    "text": "准备就绪"
+  },
+  {
+    "namespace": "",
+    "key": "F796FFA34D79A6D17AF0C6B0D3CB5A90",
+    "hash": 2781011804,
+    "text": "已激活"
+  },
+  {
+    "namespace": "",
+    "key": "A8C526DB40FEB644112B0EB8055401B0",
+    "hash": 1087724369,
+    "text": "已停用"
+  },
+  {
+    "namespace": "",
+    "key": "3BE75FEE46042EBBC2A1FCA507A2C0B3",
+    "hash": 2474474748,
+    "text": "已激活"
+  },
+  {
+    "namespace": "",
+    "key": "BEB600ED4823A85518842693A0A5E5C3",
+    "hash": 2053604995,
+    "text": "已停用"
+  },
+  {
+    "namespace": "",
+    "key": "5D7B0DB94947BD8E5C697CA51203DF1C",
+    "hash": 2781011804,
+    "text": "已激活"
+  },
+  {
+    "namespace": "",
+    "key": "D657FA7C4F85E49203E7429D42C83BEC",
+    "hash": 1087724369,
+    "text": "已停用"
+  },
+  {
+    "namespace": "",
+    "key": "D8A776E44FB50E40246DB3BFD2495D1F",
+    "hash": 2474474748,
+    "text": "已激活"
+  },
+  {
+    "namespace": "",
+    "key": "8E2341CD4034842481C507BE00DFD38F",
+    "hash": 2053604995,
+    "text": "已停用"
+  },
+  {
+    "namespace": "",
+    "key": "ACE2E88848721465D515BEA4C0123CFF",
+    "hash": 3144005383,
+    "text": "单人游戏"
+  },
+  {
+    "namespace": "",
+    "key": "7C0812E74DC9D3A337B9DD8B8B6984F9",
+    "hash": 2395409403,
+    "text": "胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "E34F330A41109652070746B33EF3F218",
+    "hash": 3293537240,
+    "text": "初次游玩"
+  },
+  {
+    "namespace": "",
+    "key": "3B02C27547A92FFB3B0553A21A19669F",
+    "hash": 685103169,
+    "text": "胆大包天"
+  },
+  {
+    "namespace": "",
+    "key": "46B9EF89473D9A146C7AB4929A529B05",
+    "hash": 286923014,
+    "text": "见鬼啦！"
+  },
+  {
+    "namespace": "",
+    "key": "BAA18A294C6D01FDB67F46A4701C41D4",
+    "hash": 2395409403,
+    "text": "胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "DB186A734921C31319E1E99A29CEE114",
+    "hash": 286923014,
+    "text": "见鬼啦！"
+  },
+  {
+    "namespace": "",
+    "key": "FF7D31534D910AA73AF68584F03913AB",
+    "hash": 3293537240,
+    "text": "初次游玩"
+  },
+  {
+    "namespace": "",
+    "key": "93A9ED4D49E041B92DF12CA5EE78C3ED",
+    "hash": 685103169,
+    "text": "胆大包天"
+  },
+  {
+    "namespace": "",
+    "key": "4C8E0CF84C0D1ECC67EE7D93D0FDE180",
+    "hash": 1203799292,
+    "text": "等级"
+  },
+  {
+    "namespace": "",
+    "key": "2FC390504B699022FDABCCB8B05B6445",
+    "hash": 1315344152,
+    "text": "打开"
+  },
+  {
+    "namespace": "",
+    "key": "83345F804EDF999CBF5D19B71E678B17",
+    "hash": 837545741,
+    "text": "关闭"
+  },
+  {
+    "namespace": "",
+    "key": "136B2A8144DB6CFC92B794A2E03A1EB8",
+    "hash": 1315344152,
+    "text": "打开"
+  },
+  {
+    "namespace": "",
+    "key": "3D643CB746F2BC1E63E1C5934B816A28",
+    "hash": 837545741,
+    "text": "关闭"
+  },
+  {
+    "namespace": "",
+    "key": "5C15643E400733CE477D0A9F879F5F52",
+    "hash": 2234534925,
+    "text": "生还者"
+  },
+  {
+    "namespace": "",
+    "key": "FF666DB644802163E39DAE9E8387EA34",
+    "hash": 1390570750,
+    "text": "经验值加成道具"
+  },
+  {
+    "namespace": "",
+    "key": "8A6AFF514EE1CD32231B82AEDBB0C878",
+    "hash": 1917933923,
+    "text": "已完成"
+  },
+  {
+    "namespace": "",
+    "key": "3780336C4DE6C3DC7FB9C29A3F4BF7C7",
+    "hash": 2371716498,
+    "text": "最有价值玩家"
+  },
+  {
+    "namespace": "",
+    "key": "D236E65E4278E74BA44381AB9CDA304C",
+    "hash": 485477164,
+    "text": "头号胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "927930634D88B0A1BDC37493A9659E41",
+    "hash": 375813576,
+    "text": "最勇敢"
+  },
+  {
+    "namespace": "",
+    "key": "ABC548C24166D5E48BBB49AEC69B5396",
+    "hash": 3064127164,
+    "text": "拖油瓶"
+  },
+  {
+    "namespace": "",
+    "key": "6ADE6D2F4FD69FD2216C199E4C5C969C",
+    "hash": 2893647060,
+    "text": "游戏胜利"
+  },
+  {
+    "namespace": "",
+    "key": "C8236F4D4C206EA2AE08398BCC191A4B",
+    "hash": 887337833,
+    "text": "游戏失败"
+  },
+  {
+    "namespace": "",
+    "key": "C3E41DB44DFD593A01F478801D1DA156",
+    "hash": 762254806,
+    "text": "已死亡"
+  },
+  {
+    "namespace": "",
+    "key": "3BEBCBA84439E5255F57A8ABA5CB4FB0",
+    "hash": 3379408080,
+    "text": "生还"
+  },
+  {
+    "namespace": "",
+    "key": "F8EC797B484E43D6AF84888C5EBED7A5",
+    "hash": 1989152439,
+    "text": "打开商店"
+  },
+  {
+    "namespace": "",
+    "key": "690017BA4146F1B30BBDC385746CFFD2",
+    "hash": 1875127433,
+    "text": "隐形眼镜"
+  },
+  {
+    "namespace": "",
+    "key": "2EFD28144E740698B30D6188780C4916",
+    "hash": 3793669904,
+    "text": "染发剂"
+  },
+  {
+    "namespace": "",
+    "key": "B9E9CE2F4BE14AB897C313B5E9C4A12F",
+    "hash": 3621366810,
+    "text": "只有他正在追你时才会杀死你。因此，只要你正潜行，就算他撞到你，也可能没发现你。"
+  },
+  {
+    "namespace": "",
+    "key": "181809BB48B2AAFB27A66DAAB6637CC6",
+    "hash": 1371744963,
+    "text": "留意玩具从天花板掉落的位置，那会透露他的位置。"
+  },
+  {
+    "namespace": "",
+    "key": "6E7493944F5D9275F0CB4897397AF43D",
+    "hash": 994674529,
+    "text": "若他在你上方徘徊，就可能找到你，尤其是你拿着提灯时！留意玩具落下的位置！"
+  },
+  {
+    "namespace": "",
+    "key": "0752D1FA4A174ADB5BD74C9EDE4D67EE",
+    "hash": 1696002782,
+    "text": "被人偶发现时，你仍能跑赢它！也能蹲在大型家具后方躲藏。"
+  },
+  {
+    "namespace": "",
+    "key": "C79BFFB1460BBAEF1EB5D29A970BF692",
+    "hash": 4145508948,
+    "text": "丢下／存放"
+  },
+  {
+    "namespace": "",
+    "key": "A4114D914F3331010EF1969D766B8377",
+    "hash": 1462512095,
+    "text": "已达上限"
+  },
+  {
+    "namespace": "",
+    "key": "158A16C4455EC43F0734D8A9B04C8FF9",
+    "hash": 3948205223,
+    "text": "幸运儿"
+  },
+  {
+    "namespace": "",
+    "key": "B12F8E4F4A6822ED6C574E908ECB4B75",
+    "hash": 1113261637,
+    "text": "闯入者"
+  },
+  {
+    "namespace": "",
+    "key": "0FE637DF4CB97523248FA6A676BAF5C3",
+    "hash": 3080819106,
+    "text": "胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "C1203E5E468118AD1BE664860AEEC98B",
+    "hash": 999342243,
+    "text": "算牌高手"
+  },
+  {
+    "namespace": "",
+    "key": "759604C448C00F4EA39AA8A8106281E7",
+    "hash": 1704707682,
+    "text": "前任玩家"
+  },
+  {
+    "namespace": "",
+    "key": "8F70BF9B484B73E5AC1476AFE2005AF9",
+    "hash": 3948205223,
+    "text": "幸运儿"
+  },
+  {
+    "namespace": "",
+    "key": "3E2A8B48436EB3D4B5D742B3DDE508A8",
+    "hash": 1704707682,
+    "text": "前任玩家"
+  },
+  {
+    "namespace": "",
+    "key": "65B9D7C24C616DA7271BCDB1448C633D",
+    "hash": 999342243,
+    "text": "算牌高手"
+  },
+  {
+    "namespace": "",
+    "key": "99F47A914CB6801B223159A5C478E9FF",
+    "hash": 1113261637,
+    "text": "闯入者"
+  },
+  {
+    "namespace": "",
+    "key": "DB2069DC4B27DD81509645973978337B",
+    "hash": 3080819106,
+    "text": "胆小鬼"
+  },
+  {
+    "namespace": "",
+    "key": "4B10CCEB46CCD9EAB4B20EA3E8105B2D",
+    "hash": 1428727794,
+    "text": "键盘"
+  },
+  {
+    "namespace": "",
+    "key": "B4FCB39748D116E3E8195BB89C2495C1",
+    "hash": 236586221,
+    "text": "输入类型"
+  },
+  {
+    "namespace": "",
+    "key": "1D722390413D4D622A11B9B5276618AF",
+    "hash": 236586221,
+    "text": "输入类型"
+  },
+  {
+    "namespace": "",
+    "key": "80F54D3544ECBBEFAF8DB48397D4BF98",
+    "hash": 1085127964,
+    "text": "仅限邀请"
+  },
+  {
+    "namespace": "",
+    "key": "D6678D9C49064EABF0D9BBA777299772",
+    "hash": 4272760873,
+    "text": "代码"
+  },
+  {
+    "namespace": "",
+    "key": "9805EBCD45F04E81EA8D80BAB793CC46",
+    "hash": 3302898302,
+    "text": "创建连接中"
+  },
+  {
+    "namespace": "",
+    "key": "BEAC4C4445BFE34A7C8BF399F09112D0",
+    "hash": 3015709604,
+    "text": "加入失败"
+  },
+  {
+    "namespace": "",
+    "key": "FC842B41487BE6FA3F82CDBECE2C4DE8",
+    "hash": 792878879,
+    "text": "搜索逾时"
+  },
+  {
+    "namespace": "",
+    "key": "20B3DC7C4CCF17D7EB39CAB466A335CB",
+    "hash": 1830760341,
+    "text": "加入中……"
+  },
+  {
+    "namespace": "",
+    "key": "44E8F2D84AFF2AE48142AABE93453E06",
+    "hash": 3015709604,
+    "text": "加入失败"
+  },
+  {
+    "namespace": "",
+    "key": "AD50F0124AD7E28E85D95DA19666B05F",
+    "hash": 2593431830,
+    "text": "版本不符"
+  },
+  {
+    "namespace": "",
+    "key": "2141CF37472D3A124E599AAC411269F2",
+    "hash": 721286739,
+    "text": "房主的游戏版本与你不同。"
+  },
+  {
+    "namespace": "",
+    "key": "8CFF499E418D306F221B10ACDA62D078",
+    "hash": 1784000530,
+    "text": "找不到连接"
+  },
+  {
+    "namespace": "",
+    "key": "453B3C8944B616C87289B9B89A6A4103",
+    "hash": 355824689,
+    "text": "搜索中……"
+  },
+  {
+    "namespace": "",
+    "key": "E4AEBAEA40120FA052C8E7AA27ADF96A",
+    "hash": 3332169254,
+    "text": "Twisted Corridor 的大厅"
+  },
+  {
+    "namespace": "",
+    "key": "9C6CF821472E3DB0FAE952B34354FC68",
+    "hash": 3015709604,
+    "text": "加入失败"
+  },
+  {
+    "namespace": "",
+    "key": "3EE7E3B24783A09D034AA69C5723DE03",
+    "hash": 2593431830,
+    "text": "版本不符"
+  },
+  {
+    "namespace": "",
+    "key": "C32B341D4DBB0BE2D9DB8DA64D2C7A4D",
+    "hash": 721286739,
+    "text": "房主的游戏版本与你不同。"
+  },
+  {
+    "namespace": "",
+    "key": "3D69A4754A5BAEE9C914C88A5C910ECF",
+    "hash": 1830760341,
+    "text": "加入中……"
+  },
+  {
+    "namespace": "",
+    "key": "D8F82DF145347AAEEFE489A015078B76",
+    "hash": 2743452629,
+    "text": "走在地毯上能消除脚步声。"
+  },
+  {
+    "namespace": "",
+    "key": "C308CC37465C255A0C7CAEB851779DE8",
+    "hash": 2160028523,
+    "text": "随时都能按 M 打开游戏手册。"
+  },
+  {
+    "namespace": "",
+    "key": "07DD218F478A7BCC84617BB0BFA26599",
+    "hash": 1889592964,
+    "text": "随机数决定了你会看到这条提示。"
+  },
+  {
+    "namespace": "",
+    "key": "D91865BF45CA705C1E8124B301BA9B14",
+    "hash": 1181643270,
+    "text": "黑暗中使用提灯可能暴露你的位置！"
+  },
+  {
+    "namespace": "",
+    "key": "BECC5DED4E9838CF58AFE5A743DE5F59",
+    "hash": 1612414331,
+    "text": "时间很宝贵，尽量别死。"
+  },
+  {
+    "namespace": "",
+    "key": "1573E4E74219692800344A948A770B9F",
+    "hash": 2423675923,
+    "text": "按 Q 和 E 可探头查看转角。"
+  },
+  {
+    "namespace": "",
+    "key": "BDD9DFA24846C9C78987FD96EE47DDED",
+    "hash": 1962329721,
+    "text": "脚步声可能暴露位置。在安静的小屋里潜行时，试着蹲下。"
+  },
+  {
+    "namespace": "",
+    "key": "2C08A878478DD2C2222BE9B3ECB24924",
+    "hash": 2220971035,
+    "text": "放置房间卡时，小心别让布局阻挡后续房间的放置！"
+  },
+  {
+    "namespace": "",
+    "key": "39E62ED742F591E5D2164EBB0BCE9ED6",
+    "hash": 3940644947,
+    "text": "可以躲进衣柜，但必须先清空杂物。"
+  },
+  {
+    "namespace": "",
+    "key": "3DF6B2534CF62B205DAB89953DEE290F",
+    "hash": 1709230904,
+    "text": "黑暗中能隐藏自己！关灯能让潜行更安全。"
+  },
+  {
+    "namespace": "",
+    "key": "EB09E1F54D1D520773348BA1B64B33E9",
+    "hash": 3836009020,
+    "text": "可以躲在大型家具后方。"
+  },
+  {
+    "namespace": "",
+    "key": "E9D91CBC4B94DB949F738EA2643D6825",
+    "hash": 1603486945,
+    "text": "玩家发出的所有声音，包括走路、说话与福袋道具，都可能暴露位置！"
+  },
+  {
+    "namespace": "",
+    "key": "18E134FB48FD620F664467A9C77CEB8C",
+    "hash": 2786877589,
+    "text": "出口："
+  },
+  {
+    "namespace": "",
+    "key": "583FA3674821C5EE7DA3E89975BEAF69",
+    "hash": 3379321453,
+    "text": "找到药丸，冲进马桶！也记得检查橱柜和抽屉。"
+  },
+  {
+    "namespace": "",
+    "key": "85C066914AF43B2927BACC87E03E5227",
+    "hash": 3682145686,
+    "text": "黑暗中能隐藏自己！试着关灯以便潜行，但她靠近时要小心别发出声音。"
+  },
+  {
+    "namespace": "",
+    "key": "6F1B350F4F8A49259969E6847E17704A",
+    "hash": 3976918544,
+    "text": "存放"
+  },
+  {
+    "namespace": "",
+    "key": "5BA5105D41AE221C8F0B389EC5EA3AAC",
+    "hash": 2918085738,
+    "text": "灯泡女熄灭灯时，别和她待在同一个房间！"
+  },
+  {
+    "namespace": "",
+    "key": "218C6E2C40A4DA629B21D1BED57B9C8B",
+    "hash": 509215287,
+    "text": "逃跑时关上身后的门，就能拖延怪物，争取逃走或躲藏的时间。也能绕着家具甩开怪物！"
+  },
+  {
+    "namespace": "",
+    "key": "F610904D4780F05FC1FE2185114AC8F6",
+    "hash": 3552772794,
+    "text": "丢下蜡烛"
+  },
+  {
+    "namespace": "",
+    "key": "C816076D4A5AF87AF73501994F3D9C7E",
+    "hash": 2143286076,
+    "text": "这里潜行没有用。若看到什么，别盯着它，丢下蜡烛，跑进黑暗躲藏！"
+  },
+  {
+    "namespace": "",
+    "key": "1A06561748514C4ED3EF1A8223BC09AD",
+    "hash": 3733061980,
+    "text": "放置／丢下"
+  },
+  {
+    "namespace": "",
+    "key": "CB8A25CE426AA526EE34AB811A8BF924",
+    "hash": 1805064495,
+    "text": "将图腾放到相符的仪式图案上。"
+  },
+  {
+    "namespace": "",
+    "key": "BD27F3F742EBD85F221519B100463ED3",
+    "hash": 1290962720,
+    "text": "放置／丢下物品"
+  },
+  {
+    "namespace": "",
+    "key": "8B97304B4F414E055EEAA98EFD95B320",
+    "hash": 4093250685,
+    "text": "投掷"
+  },
+  {
+    "namespace": "",
+    "key": "AA65BC0E41B55E1E4E41B99A3F1771C1",
+    "hash": 2360713112,
+    "text": "厄运"
   }
 ]

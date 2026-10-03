@@ -1,6 +1,7 @@
 # 第三方元件
 
 - repak v0.2.3：https://github.com/trumank/repak ，MIT / Apache-2.0；套件附原始授權文件。
+- retoc v0.1.5：https://github.com/trumank/retoc ，MIT；用於在玩家電腦讀取及重建介面資源，套件附授權文件。
 - Noto Sans TC / SC / JP：https://github.com/google/fonts ，SIL OFL 1.1；使用固定字重 400 的字型子集，套件附 OFL 文件與著作權資訊。
 - 語系格式參考：https://github.com/akintos/UnrealLocres 。C# 讀寫實作位於 src/ResourceTools.cs。
 

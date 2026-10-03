@@ -4,6 +4,8 @@
 
 This project is an **unofficial localization patch for The Cabin Game**, available in Traditional Chinese, Simplified Chinese, and Japanese. It translates text in menus, settings, cards, events, manuals, and other parts of the game.
 
+Translations were created with AI assistance. Some in-game text and layouts are still being reviewed and refined.
+
 ### Installation / Updating
 
 1. Download the ZIP for your preferred language from this project's **Releases**. Close the game completely and extract the entire ZIP.
@@ -29,6 +31,6 @@ Please include your language, patch and game versions, the scene or steps that c
 
 ### Third-Party Licenses and Source Code
 
-This patch uses **repak** and **Noto Sans TC / SC / JP** fonts. Third-party licenses are included in the package's `licenses` folder. Installer source code is in this project's `src` folder; translation data and release package files for each language are in `packages`. Retain the relevant license notices when redistributing.
+This patch uses **repak, retoc** and **Noto Sans TC / SC / JP** fonts. Third-party licenses are included in the package's `licenses` folder. Installer source code is in this project's `src` folder; translation data and release package files for each language are in `packages`. Retain the relevant license notices when redistributing.
 
 This is an unofficial patch and is not endorsed by the game's developer. It does not include the game itself or original game packages.

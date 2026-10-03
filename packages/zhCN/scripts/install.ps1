@@ -1,5 +1,6 @@
 ﻿param([string]$GamePath,[switch]$VerifyOnly,[string]$VerificationOutput)
 $ErrorActionPreference='Stop'
+. (Join-Path $PSScriptRoot 'GamePath.ps1')
 Set-StrictMode -Version Latest
 $taskPackageRoot=Split-Path -Parent $PSScriptRoot
 $taskManifest=Get-Content -LiteralPath (Join-Path $taskPackageRoot 'data\manifest.json') -Raw -Encoding UTF8 | ConvertFrom-Json
@@ -8,6 +9,8 @@ function Resolve-GamePath {
     if (Test-Path -LiteralPath (Join-Path $taskPackageRoot 'the_cabin_game.exe')) { return $taskPackageRoot }
     $taskParent=Split-Path -Parent $taskPackageRoot
     if (Test-Path -LiteralPath (Join-Path $taskParent 'the_cabin_game.exe')) { return $taskParent }
+    $taskDetected=Find-CabinGame -PackageRoot $taskPackageRoot
+    if ($taskDetected) { return $taskDetected }
     $taskInput=Read-Host '粘贴 Steam「浏览本机文件」打开的游戏文件夹完整路径'
     return [IO.Path]::GetFullPath($taskInput.Trim('"'))
 }
@@ -30,6 +33,8 @@ try {
     $taskPatchNames=@('the_cabin_game-zhTW_P.pak','the_cabin_game-ja_P.pak','the_cabin_game-zhCN_P.pak')
     if ($taskManifest.patchFileName -notin $taskPatchNames) { throw '套件补丁名称无效' }
     $taskRepak=Package-Path 'tools\repak.exe'
+    . (Package-Path 'scripts\DownloadRuntime.ps1')
+    Ensure-CabinRuntime -ToolsPath (Split-Path -Parent $taskRepak) -Language $taskManifest.language
     Add-Type -Path (Package-Path 'scripts\ResourceTools.cs')
     $taskTemp=Join-Path ([IO.Path]::GetTempPath()) ('Cabin-zhTW-'+[Guid]::NewGuid().ToString('N'))
     New-Item -ItemType Directory -Path $taskTemp | Out-Null
@@ -61,7 +66,9 @@ try {
         $taskDestination=[IO.Path]::GetFullPath((Join-Path $taskStage $taskFontPath))
         if (-not $taskDestination.StartsWith($taskStage+[IO.Path]::DirectorySeparatorChar,[StringComparison]::OrdinalIgnoreCase)) { throw '字体目标路径无效' }
         New-Item -ItemType Directory -Force -Path (Split-Path -Parent $taskDestination) | Out-Null
-        Copy-Item -LiteralPath (Package-Path 'data\CabinFont.ttf') -Destination $taskDestination
+        $taskFontSource='data\CabinFont.ttf'
+        if ($taskFontPath -eq 'the_cabin_game/Content/MenuContent/Widgets/Achafont.ufont') { $taskFontSource='data\Achafont50.ttf' }
+        Copy-Item -LiteralPath (Package-Path $taskFontSource) -Destination $taskDestination
     }
     $taskBuiltPak=Join-Path $taskTemp $taskManifest.patchFileName
     & $taskRepak pack $taskStage $taskBuiltPak --version V11 --compression Zlib
@@ -73,8 +80,10 @@ try {
         $taskRelative=$taskFile.FullName.Substring($taskStage.Length+1)
         Check-Hash (Join-Path $taskVerify $taskRelative) (Get-FileHash -LiteralPath $taskFile.FullName -Algorithm SHA256).Hash
     }
+    . (Package-Path 'scripts\LayoutPatch.ps1')
+    Build-CabinLayout -GameRoot $taskGameRoot -PackageRoot $taskPackageRoot -OutputRoot $taskTemp
     if ($VerifyOnly) {
-        if ($VerificationOutput) { Copy-Item -LiteralPath $taskBuiltPak -Destination ([IO.Path]::GetFullPath($VerificationOutput)) -Force }
+        if ($VerificationOutput) { Copy-Item -LiteralPath $taskBuiltPak -Destination ([IO.Path]::GetFullPath($VerificationOutput)) -Force; foreach ($taskName in @('the_cabin_game-language-layout_P.pak','the_cabin_game-language-layout_P.utoc','the_cabin_game-language-layout_P.ucas')) { Copy-Item -LiteralPath (Join-Path $taskTemp $taskName) -Destination (Join-Path (Split-Path -Parent ([IO.Path]::GetFullPath($VerificationOutput))) $taskName) -Force } }
         Write-Host "验证成功：$($taskEntries.Count) 笔译文、$taskTotal 笔语系内容，尚未安装。"
         exit 0
     }
@@ -83,9 +92,15 @@ try {
     $taskTarget=Join-Path $taskPaks $taskManifest.patchFileName
     $taskPending=Join-Path $taskPaks ('cabin-zhTW-'+[Guid]::NewGuid().ToString('N')+'.tmp')
     $taskMovedBackups=@()
+    $taskLayoutPending=@()
+    foreach ($taskName in @('the_cabin_game-language-layout_P.pak','the_cabin_game-language-layout_P.utoc','the_cabin_game-language-layout_P.ucas')) {
+        $taskLayoutPending+=@{source=(Join-Path $taskTemp $taskName);pending=(Join-Path $taskPaks ('cabin-layout-'+[Guid]::NewGuid().ToString('N')+'.tmp'));target=(Join-Path $taskPaks $taskName)}
+    }
+    $taskInstalled=@()
     Copy-Item -LiteralPath $taskBuiltPak -Destination $taskPending
     try {
-        foreach ($taskName in $taskPatchNames) {
+        foreach ($taskLayoutFile in $taskLayoutPending) { Copy-Item -LiteralPath $taskLayoutFile.source -Destination $taskLayoutFile.pending }
+        foreach ($taskName in ($taskPatchNames+@('the_cabin_game-language-layout_P.pak','the_cabin_game-language-layout_P.utoc','the_cabin_game-language-layout_P.ucas','the_cabin_game-layout-test_P.pak','the_cabin_game-layout-test_P.utoc','the_cabin_game-layout-test_P.ucas'))) {
             $taskPrevious=Join-Path $taskPaks $taskName
             if (Test-Path -LiteralPath $taskPrevious) {
                 $taskBackupRoot=Join-Path $taskGameRoot 'zhTW-backups'
@@ -95,8 +110,12 @@ try {
                 $taskMovedBackups+=@{original=$taskPrevious;backup=$taskBackup}
             }
         }
+        foreach ($taskLayoutFile in $taskLayoutPending) { Move-Item -LiteralPath $taskLayoutFile.pending -Destination $taskLayoutFile.target; $taskInstalled+=$taskLayoutFile.target }
         Move-Item -LiteralPath $taskPending -Destination $taskTarget
+        $taskInstalled+=$taskTarget
     } catch {
+        foreach ($taskNew in $taskInstalled) { if (Test-Path -LiteralPath $taskNew) { Remove-Item -LiteralPath $taskNew -Force } }
+        foreach ($taskLayoutFile in $taskLayoutPending) { if (Test-Path -LiteralPath $taskLayoutFile.pending) { Remove-Item -LiteralPath $taskLayoutFile.pending -Force } }
         foreach ($taskMoved in $taskMovedBackups) {
             if (-not (Test-Path -LiteralPath $taskMoved.original)) { Move-Item -LiteralPath $taskMoved.backup -Destination $taskMoved.original }
         }
