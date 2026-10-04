@@ -19,7 +19,7 @@
         Write-Host ($text[0]+' ...')
         Write-Progress -Id 9 -Activity $text[0] -Status '0 KB' -PercentComplete 0
         $request=[Net.WebRequest]::Create($Url);$request.Timeout=30000
-        if ($request -is [Net.HttpWebRequest]) {$request.ReadWriteTimeout=30000;$request.UserAgent='CabinLocalizationInstaller/0.1.2'}
+        if ($request -is [Net.HttpWebRequest]) {$request.ReadWriteTimeout=30000;$request.UserAgent='CabinLocalizationInstaller/0.1.3'}
         $response=$request.GetResponse();$total=$response.ContentLength
         $stream=$response.GetResponseStream();$output=[IO.File]::Create($pending)
         $buffer=New-Object byte[] 32768;$received=0L;$lastPercent=-25;$lastLog=[DateTime]::UtcNow

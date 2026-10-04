@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "language": "zhCN",
   "languageName": "简体中文",
   "patchFileName": "the_cabin_game-zhCN_P.pak",
@@ -24,7 +24,7 @@
     }
   ],
   "originalLocresSha256": "bdeef38d4aca326ddd01c7a228ec340d09efa2b1182dc88ad5552c7664f424b9",
-  "expectedMergedLocresSha256": "eb908dc453a7e91dec1ea44bb631a51f8b4907a48374c4bca34cef51689789ea",
+  "expectedMergedLocresSha256": "032ad164beef5b7e01da13703bed1dd2da0f2ac44a85cc87bf82407006c668c2",
   "fontPaths": [
     "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
     "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/1942.ufont",
@@ -47,11 +47,11 @@
     },
     {
       "path": "data/layout-delta.json",
-      "sha256": "05828580440513948f0745d98f49b9b82454af807465d023a32e134c636c01d1"
+      "sha256": "ea27486cb253ff24fbba50b7692cfb3a26f3769e009b0c315b97a6fa035ced8d"
     },
     {
       "path": "data/translations.json",
-      "sha256": "4c54798d002417bfae7ea37287ab0f554a68f0cb3393077b4975012a29307bed"
+      "sha256": "3f76261001adf9bb85d6243109de605abcc227401ffefc1852db21fc89571ff8"
     },
     {
       "path": "Install.cmd",
@@ -75,7 +75,7 @@
     },
     {
       "path": "scripts/DownloadRuntime.ps1",
-      "sha256": "a0ff6ee514d1eb87eae92ac7a373ba711fd5b516e9cf81c5616ac7d9c4626ad9"
+      "sha256": "5dde386f8a13ca78799c15a73cea928b237cc60c1f19b6d0c419ef62bd4aa932"
     },
     {
       "path": "scripts/GamePath.ps1",
@@ -87,7 +87,7 @@
     },
     {
       "path": "scripts/LayoutPatch.ps1",
-      "sha256": "10239ab30c6b063e0d14c6c3470d39d9589b87dbaa093d957ffa3d774ce35a89"
+      "sha256": "87af52c900c10bc7b26408d4e103083da115f76193dbfea8761d885249b3ad95"
     },
     {
       "path": "scripts/ResourceTools.cs",

@@ -10,7 +10,7 @@
             # A same-volume hard link exposes only the original containers without copying 10 GB.
             New-Item -ItemType HardLink -Path (Join-Path $taskClean $taskName) -Target (Join-Path $taskPaks $taskName) | Out-Null
         }
-        foreach ($taskFilter in @('WBP_Pause_Menu','LobbyCode_WBP','WBP_Spectate','MenuCardProfile_W','WBP_TempClueBoard','WBP_ManualPage_HowTo_02','WBP_ManualPage_ClueOverview','MenuCardProfile_WBP')) {
+        foreach ($taskFilter in @('WBP_Pause_Menu','LobbyCode_WBP','WBP_Spectate','MenuCardProfile_W','WBP_TempClueBoard','WBP_ManualPage_HowTo_02','WBP_ManualPage_ClueOverview','MenuCardProfile_WBP','SettingsGraphics_WBP','SettingsAudio_WBP','SettingsGameplay_WBP','WBP_OptionsSlot_Slider','WBP_OptionsSlot_SideArrow','WBP_OptionsSlot_CheckBox','WBP_OptionsSlot_Input','PetSlot_WBP','GoodieCard_BP','IntroTutorialCard_BP','LobbyDifficultyCard_BP','PlayerCollisionCard_BP','PlayerBackground_WBP','PlayerCustomization_WBP')) {
             & $taskRetoc to-legacy $taskClean $taskOriginal --filter $taskFilter --no-shaders --version UE5_5
             if ($LASTEXITCODE -ne 0) { throw 'Layout resource extraction failed.' }
         }
