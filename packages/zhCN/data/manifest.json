@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "language": "zhCN",
   "languageName": "简体中文",
   "patchFileName": "the_cabin_game-zhCN_P.pak",
@@ -8,23 +8,23 @@
     "zh-Hans",
     "zh-CN"
   ],
-  "translationCount": 1035,
+  "translationCount": 1086,
   "originalFiles": [
     {
       "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.pak",
-      "sha256": "cd51ecdcf0a67e5cd2c7c1664e338630268aa3d43ce284c5a31a2188bf2e1468"
+      "sha256": "8040fa1d72143b72513902884ebc38fdc42415fb85282ae5fc9ff2a925b39718"
     },
     {
       "path": "the_cabin_game/Content/Paks/the_cabin_game-Windows.utoc",
-      "sha256": "5db3d289770bb1ccabb4e92a83a3f84eb88877b310672bca0b802603fd3c9082"
+      "sha256": "449dc016f6fa412d1de178ccb611f2d7b6e759aad06037a3e16e3aa4fb43e97c"
     },
     {
       "path": "the_cabin_game/Content/Paks/global.utoc",
-      "sha256": "23e6934227425c6f0d2436a4ce2637e5c40fb6f20d0ff6303f35f5d8e4ca04cc"
+      "sha256": "a76bb37775224378bface368dbfc25a8252842adf89b6bd747183808308b8398"
     }
   ],
   "originalLocresSha256": "bdeef38d4aca326ddd01c7a228ec340d09efa2b1182dc88ad5552c7664f424b9",
-  "expectedMergedLocresSha256": "77f246c3a7c70bcdf6dbb35800e7df05f2b088482ee9d8482b2e4db83e0f2562",
+  "expectedMergedLocresSha256": "9ba17a5617545807df847bd254c42d2c5c1dbf8af4892fbf069ccbf11f78ec20",
   "fontPaths": [
     "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
     "the_cabin_game/Content/CabinGameContent/BoardGameStuff/Cards/CardComponents/1942.ufont",
@@ -39,19 +39,19 @@
   "payloadFiles": [
     {
       "path": "data/Achafont50.ttf",
-      "sha256": "2935799114f6740d1990f51dcd4223626fe00337d64ca8cc848ae872b23cf161"
+      "sha256": "2f4db02141b7b35a6b4fb0a3d0014bb11ff350587342657c5bb69c9f2f65dd7f"
     },
     {
       "path": "data/CabinFont.ttf",
-      "sha256": "b73e62dc28f46007b0e05fc12869570184e32a66b7f63dd062ef6034c6572cfb"
+      "sha256": "ecc6bf44326ded65bd5eefdc91ffdbe719b933b6283d8eb9036ccbc7b46d5f2c"
     },
     {
       "path": "data/layout-delta.json",
-      "sha256": "087a092da6aee829a019554875bc02456ef2c4ee1492821d732e9280d9873685"
+      "sha256": "b731a0f795a353e374645d32cb8e89c572e4627c50f30003601c76f280ddd1b3"
     },
     {
       "path": "data/translations.json",
-      "sha256": "decf7db8a03bfac09048697a31bc592f5615358118bd815e215e8e85b98fd986"
+      "sha256": "3165fab1dfdffb9a444466dbba85c6f5610a1aa5010b0c389a68ec4e21931c29"
     },
     {
       "path": "Install.cmd",
@@ -75,7 +75,7 @@
     },
     {
       "path": "scripts/DownloadRuntime.ps1",
-      "sha256": "01997031fa54c3746781fcf7dd7d0790eb1641ce85db2ec6737c2b33cdd49c62"
+      "sha256": "1a99fa43c2e07e47b770874e0ee4842b8caeeee2ffe62a279ce4d0e7ebada8b2"
     },
     {
       "path": "scripts/GamePath.ps1",
@@ -87,7 +87,7 @@
     },
     {
       "path": "scripts/LayoutPatch.ps1",
-      "sha256": "87af52c900c10bc7b26408d4e103083da115f76193dbfea8761d885249b3ad95"
+      "sha256": "11dd237e050bef05ecc9ae48201aba226a4394051439b8edf2437a4d5cfcaea0"
     },
     {
       "path": "scripts/ResourceTools.cs",
